@@ -8,9 +8,29 @@
 
 <div align="center">
 
-🎓 High school student passionate about **Computer Science**, **Robotics & Mechatronics**, and **AI-driven creative technologies**  
-💡 I enjoy building projects that combine **hardware + software + creativity**, from smart IoT devices to AI-powered cultural apps  
-🌏 Currently preparing for **A-Levels** and aiming to study **Robotics & Computer Science** at university  
+🎓 High school student passionate about **Computer Science**, **Robotics & Mechatronics**, and **AI-driven creative technologies**
+💡 I enjoy building projects that combine **hardware + software + creativity**, from smart IoT devices to AI-powered cultural apps
+🌏 Currently preparing for **A-Levels** and aiming to study **Robotics & Computer Science** at university
+
+**🌐 Personal Website:** [Sanomachine.com](https://sanomachine.com)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Yu's GitHub stats](https://stats-bailuer.vercel.app/api?username=Bailuer&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800&v=12)
+
+![Top Langs](https://stats-bailuer.vercel.app/api/top-langs/?username=Bailuer&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=1800&v=12)
+
+</div>
+
+<div align="center">
+
+💡 **Note:** *Stats may include private commits if configured with a Personal Access Token (PAT). Repository names or content remain hidden.*
 
 </div>
 
@@ -75,17 +95,6 @@ A daily shop checker for Valorant players, allowing them to view their item shop
 
 ---
 
-### 🛒 WaAi Mini Shop (瓦爱小店)
-> **WeChat Mini Program E-commerce**
-
-**Tech Stack:** WeChat Mini Program Framework, JavaScript, Cloud Database
-
-A mini e-commerce platform within WeChat ecosystem, designed for small businesses and community shops to create simple digital storefronts with user-friendly interfaces for non-technical owners.
-
-**✨ Highlights:** WeChat ecosystem integration, community-focused design, accessibility-first approach
-
----
-
 ### 🙂 Emotion Management Helper
 > **Mental Health Support Software**
 
@@ -145,23 +154,6 @@ A lightweight desktop app that helps users record, track, and manage their emoti
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Yu's GitHub stats](https://stats-bailuer.vercel.app/api?username=Bailuer&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800&v=12)  
-
-![Top Langs](https://stats-bailuer.vercel.app/api/top-langs/?username=Bailuer&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=1800&v=12)
-
-</div>
-
-<div align="center">
-
-💡 **Note:** *Stats may include private commits if configured with a Personal Access Token (PAT). Repository names or content remain hidden.*  
-
-</div>
-
----
 
 ## 🔥 Streak Stats
 
@@ -220,7 +212,6 @@ A lightweight desktop app that helps users record, track, and manage their emoti
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/-Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sanomachine.com)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Bailueryu@gmail.com)
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/Bailueryu#7210)
 [![X](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/BailuerYu)
