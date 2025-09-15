@@ -71,8 +71,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-aaxkz0fkk-bailuers-projects.vercel.app/api?username=Bailuer&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats-aaxkz0fkk-bailuers-projects.vercel.app/api/top-langs/?username=Bailuer&layout=compact&langs_count=8&theme=tokyonight"/>
+![Yu's GitHub stats](https://github-readme-stats-aaxkz0fkk-bailuers-projects.vercel.app/api?username=Bailuer&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800&v=1)  
+
+![Top Langs](https://github-readme-stats-aaxkz0fkk-bailuers-projects.vercel.app/api/top-langs/?username=Bailuer&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=1800&v=1)
 
 </div>
 
@@ -88,7 +89,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bailuer&theme=tokyonight" alt="GitHub Streak" />
+![GitHub Streak](https://streak-stats.demolab.com?user=Bailuer&theme=tokyonight)
 
 </div>
 
@@ -98,7 +99,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-aaxkz0fkk-bailuers-projects.vercel.app/?username=Bailuer&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+![Trophies](https://github-profile-trophy.vercel.app/?username=Bailuer&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 </div>
 
@@ -108,7 +109,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-aaxkz0fkk-bailuers-projects.vercel.app/graph?username=Bailuer&theme=tokyo-night" alt="Activity Graph" />
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bailuer&theme=tokyo-night)
 
 </div>
 
