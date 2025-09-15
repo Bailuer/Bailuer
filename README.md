@@ -16,17 +16,75 @@
 
 ---
 
+## 🚀 Project Portfolio
+
+### 🗺️ HereGo (闻旅)
+> **AI + Maps Cultural Guide App**
+
+**Tech Stack:** Flutter, Dart, AMap/Google Maps API, Wenxin/DeepSeek LLM API
+
+An intelligent travel companion that provides real-time cultural narration about local history, cuisine, geology, and scenic spots. Features location-first map integration with AI-powered storytelling and bilingual support.
+
+**✨ Highlights:** Gradient + glassmorphism UI, seamless LLM integration, global map compatibility
+
+---
+
+### 🎬 NovelMotion
+> **Text-to-Anime Animation Pipeline**
+
+**Tech Stack:** Python, Stable Diffusion, FFmpeg, AI Voiceover Integration
+
+A creative pipeline that transforms written text into anime-style dynamic sequences, empowering novelists and creators to visualize their stories through AI-generated animations with matching narration.
+
+**✨ Highlights:** Stable Diffusion image generation, automated motion stitching, AI-powered voiceover
+
+---
+
+### 🏝️ ElementFactory ONE
+> **Educational Survival Game (UE5)**
+
+**Tech Stack:** Unreal Engine 5, C++/Blueprints, Robotics & Chemistry Simulation
+
+A Sky-Island themed survival game combining entertainment with STEM education. Inspired by tech mods like Mekanism, it teaches robotics, chemistry, and engineering through engaging gameplay mechanics.
+
+**✨ Highlights:** Flying control systems, science-based gameplay, educational sandbox design
+
+---
+
+### 🧼 Smart Disinfection Cutlery Box
+> **IoT Hardware Project (Competition Winner)**
+
+**Tech Stack:** Arduino/ESP32, UV/Temperature Sensors, Hardware Prototyping
+
+A smart sanitization solution for cutlery storage, featuring UV disinfection and temperature control with real-time monitoring. Developed for the Future Engineers Competition (未来工程师大赛).
+
+**✨ Highlights:** Competition recognition, practical IoT application, health-focused innovation
+
+---
+
+### 🛒 WaAi Mini Shop (瓦爱小店)
+> **WeChat Mini Program E-commerce**
+
+**Tech Stack:** WeChat Mini Program Framework, JavaScript, Cloud Database
+
+A mini e-commerce platform within WeChat ecosystem, designed for small businesses and community shops to create simple digital storefronts with user-friendly interfaces for non-technical owners.
+
+**✨ Highlights:** WeChat ecosystem integration, community-focused design, accessibility-first approach
+
+---
+
+### 🙂 Emotion Management Helper
+> **Mental Health Support Software**
+
+**Tech Stack:** Python, Tkinter GUI, NLP Libraries
+
+A lightweight desktop application for emotion tracking and management, providing mood analytics and improvement suggestions to support daily mental wellness and stress relief.
+
+**✨ Highlights:** Psychology + software integration, user-centric design, wellness-focused features
+
+---
+
 ## 🚀 About Me
-
-<div align="center">
-
-### 🔭 Current Projects
-
-</div>
-
-- **🗺️ HereGo (闻旅)** → AI + Maps cultural guide app (Flutter, AMap/Google Maps, Wenxin/DeepSeek API)  
-- **🎬 NovelMotion** → Text-to-Anime dynamic pipeline (Stable Diffusion + FFmpeg + Python)  
-- **🏝️ ElementFactory ONE** → UE5 Sky-Island tech survival & education game  
 
 <div align="center">
 
@@ -34,9 +92,9 @@
 
 </div>
 
-- 💻 **Programming:** Python, C++, Java, Dart/Flutter, Arduino, ESP32  
-- 🛠️ **Maker Skills:** PCB design, 3D printing, SolidWorks, soldering  
-- 🎨 **Inspiration:** Japanese aesthetics (Fujii Kaze, anime, minimalist gradients)  
+- 💻 **Programming:** Python, C++, Java, Dart/Flutter, Arduino, ESP32
+- 🛠️ **Maker Skills:** PCB design, 3D printing, SolidWorks, soldering
+- 🎨 **Inspiration:** Japanese aesthetics (Fujii Kaze, anime, minimalist gradients)
 - 🎯 **Goal:** Merge **AI + robotics + creativity** into tools that help people and educate  
 
 ---
