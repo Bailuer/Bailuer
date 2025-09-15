@@ -18,7 +18,7 @@
 
 ## 🚀 Project Portfolio
 
-### 🗺️ HereGo (闻旅)
+### 🗺️ Heargo (闻旅)
 > **AI + Maps Cultural Guide App**
 
 **Tech Stack:** Flutter, Dart, AMap/Google Maps API, Wenxin/DeepSeek LLM API
@@ -26,6 +26,8 @@
 An intelligent travel companion that provides real-time cultural narration about local history, cuisine, geology, and scenic spots. Features location-first map integration with AI-powered storytelling and bilingual support.
 
 **✨ Highlights:** Gradient + glassmorphism UI, seamless LLM integration, global map compatibility
+
+**📱 Try it:** [iOS TestFlight](https://testflight.apple.com/join/RpsxBU7E)
 
 ---
 
@@ -51,14 +53,25 @@ A Sky-Island themed survival game combining entertainment with STEM education. I
 
 ---
 
-### 🧼 Smart Disinfection Cutlery Box
-> **IoT Hardware Project (Competition Winner)**
+### 🧼 Smart Disinfection Cutlery Box (未来工程师大赛)
+> **IoT Hardware Project (First Prize Winner)**
 
-**Tech Stack:** Arduino/ESP32, UV/Temperature Sensors, Hardware Prototyping
+**Tech Stack:** Arduino/ESP32, UV Disinfection Modules, Temperature Sensors, Hardware Prototyping
 
-A smart sanitization solution for cutlery storage, featuring UV disinfection and temperature control with real-time monitoring. Developed for the Future Engineers Competition (未来工程师大赛).
+A smart sanitization solution for cutlery storage, ensuring safe and hygienic storage through UV disinfection and temperature control. Built for the Future Engineers Competition with practical daily-use applications.
 
-**✨ Highlights:** Competition recognition, practical IoT application, health-focused innovation
+**✨ Highlights:** 🏆 **First Prize in Shanghai (市一等奖)**, real-time sanitation monitoring, portable health-focused design
+
+---
+
+### 🎮 IValorant
+> **Gaming Utility WeChat Mini Program**
+
+**Tech Stack:** WeChat Mini Program API, Valorant API, JavaScript
+
+A daily shop checker for Valorant players, allowing them to view their item shop rotation directly inside WeChat. Designed for Chinese players who need localized access to Riot's gaming tools.
+
+**✨ Highlights:** API integration, localized gaming utility, WeChat ecosystem optimization
 
 ---
 
@@ -78,9 +91,9 @@ A mini e-commerce platform within WeChat ecosystem, designed for small businesse
 
 **Tech Stack:** Python, Tkinter GUI, NLP Libraries
 
-A lightweight desktop application for emotion tracking and management, providing mood analytics and improvement suggestions to support daily mental wellness and stress relief.
+A lightweight desktop app that helps users record, track, and manage their emotions with mood improvement tips and simple analytics. Focuses on combining psychology principles with software design for everyday stress relief and habit building.
 
-**✨ Highlights:** Psychology + software integration, user-centric design, wellness-focused features
+**✨ Highlights:** Psychology + software integration, usability-focused design, mental wellness support
 
 ---
 
@@ -207,6 +220,7 @@ A lightweight desktop application for emotion tracking and management, providing
 
 <div align="center">
 
+[![Website](https://img.shields.io/badge/-Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sanomachine.com)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Bailueryu@gmail.com)
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/Bailueryu#7210)
 [![X](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/BailuerYu)
