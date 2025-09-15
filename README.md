@@ -71,9 +71,9 @@
 
 <div align="center">
 
-![Yu's GitHub stats](https://stats-bailuer.vercel.app/api?username=Bailuer&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800&v=7)  
+![Yu's GitHub stats](https://stats-bailuer.vercel.app/api?username=Bailuer&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800&v=12)  
 
-![Top Langs](https://stats-bailuer.vercel.app/api/top-langs/?username=Bailuer&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=1800&v=7)
+![Top Langs](https://stats-bailuer.vercel.app/api/top-langs/?username=Bailuer&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=1800&v=12)
 
 </div>
 
@@ -89,7 +89,7 @@
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Bailuer&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Bailuer&theme=tokyonight&v=12)
 
 </div>
 
@@ -99,7 +99,7 @@
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Bailuer&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Bailuer&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&v=12)
 
 </div>
 
@@ -109,7 +109,7 @@
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bailuer&theme=tokyo-night)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bailuer&theme=tokyo-night&v=12)
 
 </div>
 
@@ -141,7 +141,7 @@
 
 ### 💡 *"Building bridges between technology and creativity"*
 
-<img src="https://komarev.com/ghpvc/?username=Bailuer&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Bailuer&label=Profile%20views&color=0e75b6&style=flat&v=12" alt="Profile views" />
 
 **Thanks for visiting my profile! 🚀✨**
 
