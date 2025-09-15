@@ -1,65 +1,141 @@
-# Hi there 👋 I'm Yu Shuo  
+<div align="center">
 
-🎓 High school student passionate about **Computer Science**, **Robotics & Mechatronics**, and **AI-driven creative technologies**.  
-💡 I enjoy building projects that combine **hardware + software + creativity**, from smart IoT devices to AI-powered cultural apps.  
-🌏 Currently preparing for **A-Levels** and aiming to study **Robotics & Computer Science** at university.  
+# 👋 Hi there, I'm Yu Shuo!
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=High+school+Computer+Science+enthusiast;Passionate+about+AI+%26+Robotics;Building+creative+tech+solutions;Preparing+for+A-Levels+%26+university" alt="Typing SVG" />
 
-## 🚀 About Me  
-- 🔭 Working on projects like:  
-  - **HereGo (闻旅)** → AI + Maps cultural guide app (Flutter, AMap/Google Maps, Wenxin/DeepSeek API)  
-  - **NovelMotion** → Text-to-Anime dynamic pipeline (Stable Diffusion + FFmpeg + Python)  
-  - **ElementFactory ONE** → UE5 Sky-Island tech survival & education game  
-- ⚡ Skilled in **Python, C++, Java, Dart/Flutter, Arduino, ESP32**  
-- 🛠️ Maker abilities: **PCB design, 3D printing, SolidWorks, soldering**  
-- 🎨 Inspired by Japanese aesthetics (Fujii Kaze, anime, minimalist gradients)  
-- 🎯 Goal: merge **AI + robotics + creativity** into tools that help people and educate  
+</div>
+
+<div align="center">
+
+🎓 High school student passionate about **Computer Science**, **Robotics & Mechatronics**, and **AI-driven creative technologies**
+💡 I enjoy building projects that combine **hardware + software + creativity**, from smart IoT devices to AI-powered cultural apps
+🌏 Currently preparing for **A-Levels** and aiming to study **Robotics & Computer Science** at university
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack  
+## 🚀 About Me
 
-**Languages & Frameworks:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)  
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  
-![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)  
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)  
+<div align="center">
 
-**Hardware & Tools:**  
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white)  
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-A22846?logo=raspberrypi&logoColor=white)  
-![ESP32](https://img.shields.io/badge/-ESP32-000000?logo=espressif&logoColor=white)  
-![SolidWorks](https://img.shields.io/badge/-SolidWorks-E2231A?logo=dassaultsystemes&logoColor=white)  
+### 🔭 Current Projects
 
-**Other Skills:**  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
-![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?logo=unrealengine&logoColor=white)  
-![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobephotoshop&logoColor=white)  
+</div>
 
----
+- **🗺️ HereGo (闻旅)** → AI + Maps cultural guide app (Flutter, AMap/Google Maps, Wenxin/DeepSeek API)
+- **🎬 NovelMotion** → Text-to-Anime dynamic pipeline (Stable Diffusion + FFmpeg + Python)
+- **🏝️ ElementFactory ONE** → UE5 Sky-Island tech survival & education game
 
-## 📊 GitHub Stats  
+<div align="center">
 
-![Yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)  
+### ⚡ Skills & Abilities
+
+</div>
+
+- 💻 **Programming:** Python, C++, Java, Dart/Flutter, Arduino, ESP32
+- 🛠️ **Maker Skills:** PCB design, 3D printing, SolidWorks, soldering
+- 🎨 **Inspiration:** Japanese aesthetics (Fujii Kaze, anime, minimalist gradients)
+- 🎯 **Goal:** Merge **AI + robotics + creativity** into tools that help people and educate
 
 ---
 
-## 🌱 Currently Exploring  
-- Advanced **AI + LLM integration** for real-time cultural narration  
-- **Flutter UI/UX design** with gradient + glassmorphism  
-- Robotics + mechatronics projects bridging **hardware & AI**  
-- Preparing for **IELTS & A-Level exams** to pursue studies abroad  
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
+### Hardware & Embedded
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![ESP32](https://img.shields.io/badge/-ESP32-000000?style=flat-square&logo=espressif&logoColor=white)
+
+### Tools & Software
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?style=flat-square&logo=unrealengine&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/-SolidWorks-E2231A?style=flat-square&logo=dassaultsystemes&logoColor=white)
+![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+
+</div>
 
 ---
 
-## 📫 Connect with Me  
-[![Email](https://img.shields.io/badge/Email-Contact-blue?logo=gmail)](mailto:your.email@example.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?logo=github)](https://github.com/YOUR_USERNAME)  
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bailuer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bailuer&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
 
 ---
 
-⭐️ *“Building bridges between technology and creativity.”*  
+## 🔥 Streak Stats
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bailuer&theme=tokyonight" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Bailuer&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bailuer&theme=tokyo-night" alt="Activity Graph" />
+
+</div>
+
+---
+
+## 🌱 Currently Exploring
+
+- 🤖 Advanced **AI + LLM integration** for real-time cultural narration
+- 🎨 **Flutter UI/UX design** with gradient + glassmorphism effects
+- 🔧 Robotics + mechatronics projects bridging **hardware & AI**
+- 📚 Preparing for **IELTS & A-Level exams** to pursue studies abroad
+
+---
+
+## 📫 Connect with Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bailuer)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 *"Building bridges between technology and creativity"*
+
+<img src="https://komarev.com/ghpvc/?username=Bailuer&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+
+**Thanks for visiting my profile! 🚀✨**
+
+</div>  
