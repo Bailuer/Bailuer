@@ -18,19 +18,43 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Tech Stack
 
 <div align="center">
 
-![Yu's GitHub stats](https://stats-bailuer.vercel.app/api?username=Bailuer&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800&v=12)
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
-![Top Langs](https://stats-bailuer.vercel.app/api/top-langs/?username=Bailuer&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=1800&v=12)
+### AI Tools & Platforms
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-CC785C?style=flat-square&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/-Gemini-886FBF?style=flat-square&logo=google&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/-DeepSeek-1E3A8A?style=flat-square&logo=ai&logoColor=white)
+![Suno](https://img.shields.io/badge/-Suno-FF6B6B?style=flat-square&logo=music&logoColor=white)
+![Stable Diffusion](https://img.shields.io/badge/-Stable%20Diffusion-FF9500?style=flat-square&logo=stability-ai&logoColor=white)
+![Viggle](https://img.shields.io/badge/-Viggle-8B5CF6?style=flat-square&logo=video&logoColor=white)
 
-</div>
+### Hardware & Embedded
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![ESP32](https://img.shields.io/badge/-ESP32-000000?style=flat-square&logo=espressif&logoColor=white)
+![PCB/EDA](https://img.shields.io/badge/-PCB%2FEDA-00796B?style=flat-square&logo=circuitverse&logoColor=white)
 
-<div align="center">
-
-💡 **Note:** *Stats may include private commits if configured with a Personal Access Token (PAT). Repository names or content remain hidden.*
+### Tools & Software
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?style=flat-square&logo=unrealengine&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/-SolidWorks-E2231A?style=flat-square&logo=dassaultsystemes&logoColor=white)
+![SketchUp](https://img.shields.io/badge/-SketchUp-005F9E?style=flat-square&logo=sketchup&logoColor=white)
+![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
 
 </div>
 
@@ -121,39 +145,24 @@ A lightweight desktop app that helps users record, track, and manage their emoti
 
 ---
 
-## 🛠️ Tech Stack
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-### Languages & Frameworks
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Yu's GitHub stats](https://stats-bailuer.vercel.app/api?username=Bailuer&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800&v=12)
 
-### Hardware & Embedded
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
-![ESP32](https://img.shields.io/badge/-ESP32-000000?style=flat-square&logo=espressif&logoColor=white)
-![PCB/EDA](https://img.shields.io/badge/-PCB%2FEDA-00796B?style=flat-square&logo=circuitverse&logoColor=white)
+![Top Langs](https://stats-bailuer.vercel.app/api/top-langs/?username=Bailuer&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=1800&v=12)
 
-### Tools & Software
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?style=flat-square&logo=unrealengine&logoColor=white)
-![SolidWorks](https://img.shields.io/badge/-SolidWorks-E2231A?style=flat-square&logo=dassaultsystemes&logoColor=white)
-![SketchUp](https://img.shields.io/badge/-SketchUp-005F9E?style=flat-square&logo=sketchup&logoColor=white)
-![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+</div>
+
+<div align="center">
+
+💡 **Note:** *Stats may include private commits if configured with a Personal Access Token (PAT). Repository names or content remain hidden.*
 
 </div>
 
 ---
-
 
 ## 🔥 Streak Stats
 
