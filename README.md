@@ -8,9 +8,9 @@
 
 <div align="center">
 
-🎓 High school student passionate about **Computer Science**, **Robotics & Mechatronics**, and **AI-driven creative technologies**
-💡 I enjoy building projects that combine **hardware + software + creativity**, from smart IoT devices to AI-powered cultural apps
-🌏 Currently preparing for **A-Levels** and aiming to study **Robotics & Computer Science** at university
+🎓 High school student passionate about **Computer Science**, **Robotics & Mechatronics**, and **AI-driven creative technologies**  
+💡 I enjoy building projects that combine **hardware + software + creativity**, from smart IoT devices to AI-powered cultural apps  
+🌏 Currently preparing for **A-Levels** and aiming to study **Robotics & Computer Science** at university  
 
 </div>
 
@@ -24,9 +24,9 @@
 
 </div>
 
-- **🗺️ HereGo (闻旅)** → AI + Maps cultural guide app (Flutter, AMap/Google Maps, Wenxin/DeepSeek API)
-- **🎬 NovelMotion** → Text-to-Anime dynamic pipeline (Stable Diffusion + FFmpeg + Python)
-- **🏝️ ElementFactory ONE** → UE5 Sky-Island tech survival & education game
+- **🗺️ HereGo (闻旅)** → AI + Maps cultural guide app (Flutter, AMap/Google Maps, Wenxin/DeepSeek API)  
+- **🎬 NovelMotion** → Text-to-Anime dynamic pipeline (Stable Diffusion + FFmpeg + Python)  
+- **🏝️ ElementFactory ONE** → UE5 Sky-Island tech survival & education game  
 
 <div align="center">
 
@@ -34,10 +34,10 @@
 
 </div>
 
-- 💻 **Programming:** Python, C++, Java, Dart/Flutter, Arduino, ESP32
-- 🛠️ **Maker Skills:** PCB design, 3D printing, SolidWorks, soldering
-- 🎨 **Inspiration:** Japanese aesthetics (Fujii Kaze, anime, minimalist gradients)
-- 🎯 **Goal:** Merge **AI + robotics + creativity** into tools that help people and educate
+- 💻 **Programming:** Python, C++, Java, Dart/Flutter, Arduino, ESP32  
+- 🛠️ **Maker Skills:** PCB design, 3D printing, SolidWorks, soldering  
+- 🎨 **Inspiration:** Japanese aesthetics (Fujii Kaze, anime, minimalist gradients)  
+- 🎯 **Goal:** Merge **AI + robotics + creativity** into tools that help people and educate  
 
 ---
 
@@ -71,8 +71,14 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bailuer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bailuer&layout=compact&langs_count=8&theme=tokyonight&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bailuer&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bailuer&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+💡 **Note:** *Stats may include private commits if configured with a Personal Access Token (PAT). Repository names or content remain hidden.*  
 
 </div>
 
@@ -110,10 +116,10 @@
 
 ## 🌱 Currently Exploring
 
-- 🤖 Advanced **AI + LLM integration** for real-time cultural narration
-- 🎨 **Flutter UI/UX design** with gradient + glassmorphism effects
-- 🔧 Robotics + mechatronics projects bridging **hardware & AI**
-- 📚 Preparing for **IELTS & A-Level exams** to pursue studies abroad
+- 🤖 Advanced **AI + LLM integration** for real-time cultural narration  
+- 🎨 **Flutter UI/UX design** with gradient + glassmorphism effects  
+- 🔧 Robotics + mechatronics projects bridging **hardware & AI**  
+- 📚 Preparing for **IELTS & A-Level exams** to pursue studies abroad  
 
 ---
 
@@ -121,10 +127,10 @@
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bailuer)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bailuer)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)  
 
 </div>
 
@@ -138,4 +144,4 @@
 
 **Thanks for visiting my profile! 🚀✨**
 
-</div>  
+</div>
