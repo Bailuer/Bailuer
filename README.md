@@ -71,9 +71,9 @@
 
 <div align="center">
 
-![Yu's GitHub stats](https://github-readme-stats-ku4z9nx6k-bailuers-projects.vercel.app/api?username=Bailuer&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800&v=2)  
+![Yu's GitHub stats](https://stats-bailuer.vercel.app/api?username=Bailuer&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800&v=7)  
 
-![Top Langs](https://github-readme-stats-ku4z9nx6k-bailuers-projects.vercel.app/api/top-langs/?username=Bailuer&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=1800&v=2)
+![Top Langs](https://stats-bailuer.vercel.app/api/top-langs/?username=Bailuer&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=1800&v=7)
 
 </div>
 
