@@ -49,6 +49,11 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
@@ -56,11 +61,13 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
 ![ESP32](https://img.shields.io/badge/-ESP32-000000?style=flat-square&logo=espressif&logoColor=white)
+![PCB/EDA](https://img.shields.io/badge/-PCB%2FEDA-00796B?style=flat-square&logo=circuitverse&logoColor=white)
 
 ### Tools & Software
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?style=flat-square&logo=unrealengine&logoColor=white)
 ![SolidWorks](https://img.shields.io/badge/-SolidWorks-E2231A?style=flat-square&logo=dassaultsystemes&logoColor=white)
+![SketchUp](https://img.shields.io/badge/-SketchUp-005F9E?style=flat-square&logo=sketchup&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
 
 </div>
@@ -117,10 +124,24 @@
 
 ## 🌱 Currently Exploring
 
-- 🤖 Advanced **AI + LLM integration** for real-time cultural narration  
-- 🎨 **Flutter UI/UX design** with gradient + glassmorphism effects  
-- 🔧 Robotics + mechatronics projects bridging **hardware & AI**  
-- 📚 Preparing for **IELTS & A-Level exams** to pursue studies abroad  
+- 🤖 Advanced **AI + LLM integration** for real-time cultural narration
+- 🎨 **Flutter UI/UX design** with gradient + glassmorphism effects
+- 🔧 Robotics + mechatronics projects bridging **hardware & AI**
+- 📚 Preparing for **IELTS & A-Level exams** to pursue studies abroad
+
+---
+
+## 🎮 Gaming & Recreation
+
+<div align="center">
+
+![Minecraft](https://img.shields.io/badge/-Minecraft-62B47A?style=flat-square&logo=minecraft&logoColor=white)
+![Counter Strike 2](https://img.shields.io/badge/-Counter%20Strike%202-FF6C2C?style=flat-square&logo=counter-strike&logoColor=white)
+![GTA V](https://img.shields.io/badge/-Grand%20Theft%20Auto%20V-000000?style=flat-square&logo=rockstargames&logoColor=white)
+![Valorant](https://img.shields.io/badge/-Valorant-FF4454?style=flat-square&logo=valorant&logoColor=white)
+![Cities Skylines](https://img.shields.io/badge/-Cities%20Skylines-2E8B57?style=flat-square&logo=cities-skylines&logoColor=white)
+
+</div>
 
 ---
 
@@ -129,6 +150,7 @@
 <div align="center">
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Bailueryu@gmail.com)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/Bailueryu#7210)
 [![X](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/BailuerYu)
 [![Bilibili](https://img.shields.io/badge/-Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/108892182)
 [![Printables](https://img.shields.io/badge/-Printables-FF6600?style=for-the-badge&logo=3dprinter&logoColor=white)](https://www.printables.com/@ShuoYu_1320812)
