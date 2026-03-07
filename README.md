@@ -60,180 +60,142 @@ I enjoy building projects where software, hardware, and design work together to 
 
 ---
 
-## 🚀 Projects (All Repositories)
+## 🚀 Project Showcase
 
-### 👤 Bailuer (Public)
-**GitHub profile repository**  
-**Tech Stack:**  
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-<br/>
-My profile README, personal intro, and GitHub profile presentation.
+<div align="center">
+  <sub>Selected projects across AI products, interactive media, and engineering.</sub>
+</div>
 
-### 📚 TaleCraft (Public)
-**Inclusive AR + drawing storytelling prototype (WIP)**  
-**Tech Stack:**  
-![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/-SwiftUI-0A84FF?style=flat-square)
-![RealityKit](https://img.shields.io/badge/-RealityKit-111827?style=flat-square)
-![PencilKit](https://img.shields.io/badge/-PencilKit-8B5CF6?style=flat-square)
-<br/>
-Stories and sound for an inclusive, uplifting AR experience.
+### 🧠 AI Products
 
-### 🎬 NovelMotion (Public)
-**Novel-to-animation generation pipeline**  
-**Tech Stack:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Stable Diffusion](https://img.shields.io/badge/-Stable%20Diffusion-FF9500?style=flat-square)
-![LLM](https://img.shields.io/badge/-LLM-6D28D9?style=flat-square)
-![FFmpeg](https://img.shields.io/badge/-FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
-<br/>
-Transforms novel chapters into animated shorts with auto video/audio synthesis.
-
-### 🖥️ HolographicMediaCenter (Public)
-**240x240 holographic desktop media hub**  
-**Tech Stack:**  
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-<br/>
-Media center with music/video playback, mini-games, calendar, and customizable UI.
-
-### 📷 Paralumine (Public)
-**AI-powered photography assistant**  
-**Tech Stack:**  
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![AI](https://img.shields.io/badge/-AI-7C3AED?style=flat-square)
-<br/>
-Analyzes references and generates camera settings plus lighting setup guidance.
-
-### 🎓 Learnova (Private)
-**AI-driven personal tutor system**  
-**Tech Stack:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![AI](https://img.shields.io/badge/-AI-7C3AED?style=flat-square)
-![EdTech](https://img.shields.io/badge/-EdTech-0EA5E9?style=flat-square)
-<br/>
-Focus tracking, planning, gamified progress, and knowledge management.
-
-### 🗺️ Hear2GO / Heargo (Private)
-**AI + Maps cultural guide app**  
-**Tech Stack:**  
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![AMap](https://img.shields.io/badge/-AMap-3B82F6?style=flat-square)
-![Google Maps API](https://img.shields.io/badge/-Google%20Maps%20API-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
-![DeepSeek](https://img.shields.io/badge/-DeepSeek-1E3A8A?style=flat-square)
-<br/>
-GPS-based local culture narration app, now released on the App Store 🎉  
+#### 🗺️ Hear2GO / Heargo
+_AI + Maps cultural guide app_  
+<p>
+  <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/-AMap-3B82F6?style=flat-square" alt="AMap" />
+  <img src="https://img.shields.io/badge/-Google%20Maps%20API-4285F4?style=flat-square&logo=googlemaps&logoColor=white" alt="Google Maps API" />
+  <img src="https://img.shields.io/badge/-DeepSeek-1E3A8A?style=flat-square" alt="DeepSeek" />
+</p>
+GPS-based cultural narration with bilingual support and map-first interaction.  
 **📱 Download:** [Hear2GO on the App Store](https://apps.apple.com/app/hear2go/id6752223086)
 
-### 🍵 ZenCha (Private)
-**AR tea ceremony with hand tracking**  
-**Tech Stack:**  
-![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-![ARKit](https://img.shields.io/badge/-ARKit-111827?style=flat-square)
-![Hand Tracking](https://img.shields.io/badge/-Hand%20Tracking-14B8A6?style=flat-square)
-<br/>
-A serene 3-minute Gongfu tea ritual experience with evolving ambient music.
+#### 🎓 Learnova
+_AI-driven personal tutor system_  
+<p>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/-AI-7C3AED?style=flat-square" alt="AI" />
+  <img src="https://img.shields.io/badge/-EdTech-0EA5E9?style=flat-square" alt="EdTech" />
+</p>
+Combines planning, focus tracking, and progress systems to make learning more structured.
 
-### 🧠 KatawareAI-Knowledge-Engine (Private)
-**Domain-agnostic knowledge ingestion engine**  
-**Tech Stack:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![RAG](https://img.shields.io/badge/-RAG-4F46E5?style=flat-square)
-![Data Pipeline](https://img.shields.io/badge/-Data%20Pipeline-0284C7?style=flat-square)
-<br/>
-Converts real-world documents into traceable, retrieval-ready structured data.
+#### 📷 Paralumine
+_AI-powered photography assistant_  
+<p>
+  <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/-AI-7C3AED?style=flat-square" alt="AI" />
+</p>
+Analyzes reference photos and generates camera settings plus lighting setup suggestions.
 
-### 🧳 KatawareStudyAbroad (Private)
-**WeChat mini program for study-abroad workflow**  
-**Tech Stack:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![WeChat](https://img.shields.io/badge/-WeChat-07C160?style=flat-square&logo=wechat&logoColor=white)
-![Mini Program](https://img.shields.io/badge/-Mini%20Program-22C55E?style=flat-square)
-<br/>
-Supports login, survey, AI report generation, and report history.
+#### 🧳 KatawareStudyAbroad
+_Study-abroad workflow + knowledge engine_  
+<p>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/-WeChat-07C160?style=flat-square&logo=wechat&logoColor=white" alt="WeChat" />
+  <img src="https://img.shields.io/badge/-Mini%20Program-22C55E?style=flat-square" alt="Mini Program" />
+  <img src="https://img.shields.io/badge/-RAG-4F46E5?style=flat-square" alt="RAG" />
+  <img src="https://img.shields.io/badge/-Data%20Pipeline-0284C7?style=flat-square" alt="Data Pipeline" />
+</p>
+Supports onboarding, surveys, and AI report generation in WeChat, while integrating document ingestion and retrieval-ready knowledge structuring.
 
-### 🧼 SmartDisinfectionCutleryBox (Public)
-**ESP32 smart disinfection cutlery box**  
-**Tech Stack:**  
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![ESP32](https://img.shields.io/badge/-ESP32-000000?style=flat-square)
-![EasyEDA](https://img.shields.io/badge/-EasyEDA-FF6A00?style=flat-square)
-![WeChat Mini Program](https://img.shields.io/badge/-WeChat%20Mini%20Program-07C160?style=flat-square&logo=wechat&logoColor=white)
-<br/>
-Firmware + hardware design with OLED countdown, PIR safety, and remote control.
+### 🎨 Interactive & Media
 
-### 🙂 EmotionalHelper (Public)
-**Webcam-based emotion assistant**  
-**Tech Stack:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Tkinter](https://img.shields.io/badge/-Tkinter-2563EB?style=flat-square)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Baidu AI](https://img.shields.io/badge/-Baidu%20AI-1D4ED8?style=flat-square)
-<br/>
-Detects emotion and generates matching calming music and voice feedback.
+#### 📚 TaleCraft
+_Inclusive AR + drawing storytelling prototype_  
+<p>
+  <img src="https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
+  <img src="https://img.shields.io/badge/-SwiftUI-0A84FF?style=flat-square" alt="SwiftUI" />
+  <img src="https://img.shields.io/badge/-RealityKit-111827?style=flat-square" alt="RealityKit" />
+  <img src="https://img.shields.io/badge/-PencilKit-8B5CF6?style=flat-square" alt="PencilKit" />
+</p>
+An uplifting AR experience combining stories, sound, and drawing interactions.
 
-### 🌐 Sanomachine.com (Private)
-**Personal website source code**  
-**Tech Stack:**  
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Web](https://img.shields.io/badge/-Web-0EA5E9?style=flat-square)
-<br/>
-Source code for the Sanomachine personal website.
+#### 🍵 ZenCha
+_AR tea ceremony with hand tracking_  
+<p>
+  <img src="https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
+  <img src="https://img.shields.io/badge/-ARKit-111827?style=flat-square" alt="ARKit" />
+  <img src="https://img.shields.io/badge/-Hand%20Tracking-14B8A6?style=flat-square" alt="Hand Tracking" />
+</p>
+A 3-minute Gongfu tea ritual experience with gesture-driven interaction and adaptive ambience.
 
-### 📦 RmpExporter (Public)
-**Exporter utility project**  
-**Tech Stack:**  
-![C#](https://img.shields.io/badge/-C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-<br/>
-A C# utility repository for export-related workflow.
+#### 🎬 NovelMotion
+_Novel-to-animation generation pipeline_  
+<p>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/-Stable%20Diffusion-FF9500?style=flat-square" alt="Stable Diffusion" />
+  <img src="https://img.shields.io/badge/-LLM-6D28D9?style=flat-square" alt="LLM" />
+  <img src="https://img.shields.io/badge/-FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" alt="FFmpeg" />
+</p>
+Transforms novel chapters into animated short films with automated visual and audio synthesis.
 
-### 📈 github-readme-stats (Public, Fork)
-**GitHub README stats service fork**  
-**Tech Stack:**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-<br/>
-Fork of `anuraghazra/github-readme-stats` used for dynamic profile metrics.
+#### 🖥️ HolographicMediaCenter
+_240x240 holographic desktop media hub_  
+<p>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
+Desktop-style media center with mini-games, calendar, and customizable visual themes.
 
-### 🏝️ ElementFactoryONE (Private)
-**Educational survival game (UE5)**  
-**Tech Stack:**  
-![Unreal Engine 5](https://img.shields.io/badge/-Unreal%20Engine%205-313131?style=flat-square&logo=unrealengine&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Blueprints](https://img.shields.io/badge/-Blueprints-1F6FEB?style=flat-square)
-<br/>
-STEM-oriented game project combining robotics and science-inspired mechanics.
+#### 🏝️ ElementFactoryONE
+_Educational survival game (UE5)_  
+<p>
+  <img src="https://img.shields.io/badge/-Unreal%20Engine%205-313131?style=flat-square&logo=unrealengine&logoColor=white" alt="Unreal Engine 5" />
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/-Blueprints-1F6FEB?style=flat-square" alt="Blueprints" />
+</p>
+A STEM-oriented survival sandbox blending robotics and science-based systems.
 
-### 🛒 IValorant-api (Public)
-**Valorant store checker for WeChat**  
-**Tech Stack:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![API](https://img.shields.io/badge/-API-0EA5E9?style=flat-square)
-![WeChat](https://img.shields.io/badge/-WeChat-07C160?style=flat-square&logo=wechat&logoColor=white)
-<br/>
-Backend service for checking daily Valorant store information.
+#### 🛒 IValorant-api
+_Valorant store checker backend for WeChat_  
+<p>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/-API-0EA5E9?style=flat-square" alt="API" />
+  <img src="https://img.shields.io/badge/-WeChat-07C160?style=flat-square&logo=wechat&logoColor=white" alt="WeChat" />
+</p>
+Backend service for checking daily Valorant store information inside WeChat workflows.
 
-### 🔐 Riot-auth (Public, Fork)
-**Riot authentication helper (fork)**  
-**Tech Stack:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Auth](https://img.shields.io/badge/-Auth-DC2626?style=flat-square)
-<br/>
-Forked auth utility used for Riot account/API authentication flows.
+### 🔧 Hardware & Utilities
 
-### 🧪 desktop-tutorial (Private)
-**GitHub Desktop tutorial repository**  
-**Tech Stack:**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Desktop](https://img.shields.io/badge/-GitHub%20Desktop-8034A9?style=flat-square&logo=github&logoColor=white)
-<br/>
-Practice repo for GitHub Desktop workflow learning.
+#### 🧼 SmartDisinfectionCutleryBox
+_ESP32 smart disinfection cutlery box_  
+<p>
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/-ESP32-000000?style=flat-square" alt="ESP32" />
+  <img src="https://img.shields.io/badge/-EasyEDA-FF6A00?style=flat-square" alt="EasyEDA" />
+  <img src="https://img.shields.io/badge/-WeChat%20Mini%20Program-07C160?style=flat-square&logo=wechat&logoColor=white" alt="WeChat Mini Program" />
+</p>
+Firmware + hardware project featuring OLED countdown, PIR safety, and remote control.
+
+#### 🙂 EmotionalHelper
+_Webcam-based emotion assistant_  
+<p>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/-Tkinter-2563EB?style=flat-square" alt="Tkinter" />
+  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/-Baidu%20AI-1D4ED8?style=flat-square" alt="Baidu AI" />
+</p>
+Detects facial emotion and generates matching calming music plus voice feedback.
+
+#### 📦 RmpExporter
+_Exporter utility project_  
+<p>
+  <img src="https://img.shields.io/badge/-C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
+</p>
+A C# utility repository focused on export-related workflows.
 
 ---
 
@@ -241,7 +203,7 @@ Practice repo for GitHub Desktop workflow learning.
 
 <div align="center">
 
-![Yu's GitHub stats](https://stats-bailuer.vercel.app/api?username=Bailuer&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800&v=13)
+![Yu's GitHub stats](https://stats-bailuer.vercel.app/api?username=Bailuer&show_icons=true&theme=tokyonight&cache_seconds=1800&v=13)
 
 ![Top Langs](https://stats-bailuer.vercel.app/api/top-langs/?username=Bailuer&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=1800&v=13)
 
@@ -251,7 +213,7 @@ Practice repo for GitHub Desktop workflow learning.
 
 </div>
 
-> Stats may include private contribution counts when a personal access token is configured. Private repository names and content remain hidden.
+> Stats may include contribution counts when a personal access token is configured. Repository names and content remain hidden.
 
 ---
 
