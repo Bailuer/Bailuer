@@ -66,61 +66,153 @@ Selected projects across AI products, interactive media, and engineering.
 
 ### 🧠 AI Products
 
-| 🗺️ Hear2GO / Heargo |
-| --- |
-| **AI + Maps cultural guide app**<br><br>![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![AMap](https://img.shields.io/badge/-AMap-3B82F6?style=flat-square) ![Google Maps API](https://img.shields.io/badge/-Google%20Maps%20API-4285F4?style=flat-square&logo=googlemaps&logoColor=white) ![DeepSeek](https://img.shields.io/badge/-DeepSeek-1E3A8A?style=flat-square)<br><br>GPS-based cultural narration with bilingual support and map-first interaction.<br>**📱 Download:** [Hear2GO on the App Store](https://apps.apple.com/app/hear2go/id6752223086) |
-
-| 🎓 Learnova |
-| --- |
-| **AI-driven personal tutor system**<br><br>![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![AI](https://img.shields.io/badge/-AI-7C3AED?style=flat-square) ![EdTech](https://img.shields.io/badge/-EdTech-0EA5E9?style=flat-square)<br><br>Combines planning, focus tracking, and progress systems to make learning more structured. |
-
-| 📷 Paralumine |
-| --- |
-| **AI-powered photography assistant**<br><br>![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![AI](https://img.shields.io/badge/-AI-7C3AED?style=flat-square)<br><br>Analyzes reference photos and generates camera settings plus lighting setup suggestions. |
-
-| 🧳 KatawareStudyAbroad |
-| --- |
-| **Study-abroad workflow + knowledge engine**<br><br>![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![WeChat](https://img.shields.io/badge/-WeChat-07C160?style=flat-square&logo=wechat&logoColor=white) ![Mini Program](https://img.shields.io/badge/-Mini%20Program-22C55E?style=flat-square) ![RAG](https://img.shields.io/badge/-RAG-4F46E5?style=flat-square) ![Data Pipeline](https://img.shields.io/badge/-Data%20Pipeline-0284C7?style=flat-square)<br><br>Supports onboarding, surveys, and AI report generation in WeChat, while integrating document ingestion and retrieval-ready knowledge structuring. |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🗺️ Hear2GO / Heargo</h3>
+      <p><img src="https://img.shields.io/badge/AI_Product-0EA5E9?style=for-the-badge" alt="AI Product" /></p>
+      <b>AI + Maps cultural guide app</b><br/><br/>
+      <b>Tech Stack</b><br/>
+      <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" /> <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" /> <img src="https://img.shields.io/badge/-AMap-3B82F6?style=flat-square" alt="AMap" /> <img src="https://img.shields.io/badge/-Google%20Maps%20API-4285F4?style=flat-square&logo=googlemaps&logoColor=white" alt="Google Maps API" /> <img src="https://img.shields.io/badge/-DeepSeek-1E3A8A?style=flat-square" alt="DeepSeek" /><br/><br/>
+      <b>What it does</b><br/>
+      GPS-based cultural narration with bilingual support and map-first interaction.<br/>
+      📱 <a href="https://apps.apple.com/app/hear2go/id6752223086">App Store</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎓 Learnova</h3>
+      <p><img src="https://img.shields.io/badge/AI_Tutor-2563EB?style=for-the-badge" alt="AI Tutor" /></p>
+      <b>AI-driven personal tutor system</b><br/><br/>
+      <b>Tech Stack</b><br/>
+      <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/-AI-7C3AED?style=flat-square" alt="AI" /> <img src="https://img.shields.io/badge/-EdTech-0EA5E9?style=flat-square" alt="EdTech" /><br/><br/>
+      <b>What it does</b><br/>
+      Combines planning, focus tracking, and progress systems to make learning more structured.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📷 Paralumine</h3>
+      <p><img src="https://img.shields.io/badge/Photo_AI-6366F1?style=for-the-badge" alt="Photo AI" /></p>
+      <b>AI-powered photography assistant</b><br/><br/>
+      <b>Tech Stack</b><br/>
+      <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" /> <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" /> <img src="https://img.shields.io/badge/-AI-7C3AED?style=flat-square" alt="AI" /><br/><br/>
+      <b>What it does</b><br/>
+      Analyzes reference photos and generates camera settings plus lighting setup suggestions.
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧳 KatawareStudyAbroad</h3>
+      <p><img src="https://img.shields.io/badge/Knowledge_Engine-0F766E?style=for-the-badge" alt="Knowledge Engine" /></p>
+      <b>Study-abroad workflow + knowledge engine</b><br/><br/>
+      <b>Tech Stack</b><br/>
+      <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/-WeChat-07C160?style=flat-square&logo=wechat&logoColor=white" alt="WeChat" /> <img src="https://img.shields.io/badge/-Mini%20Program-22C55E?style=flat-square" alt="Mini Program" /> <img src="https://img.shields.io/badge/-RAG-4F46E5?style=flat-square" alt="RAG" /> <img src="https://img.shields.io/badge/-Data%20Pipeline-0284C7?style=flat-square" alt="Data Pipeline" /><br/><br/>
+      <b>What it does</b><br/>
+      Supports onboarding, surveys, and AI report generation in WeChat, with retrieval-ready document knowledge structuring.
+    </td>
+  </tr>
+</table>
 
 ### 🎨 Interactive & Media
 
-| 📚 TaleCraft |
-| --- |
-| **Inclusive AR + drawing storytelling prototype**<br><br>![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/-SwiftUI-0A84FF?style=flat-square) ![RealityKit](https://img.shields.io/badge/-RealityKit-111827?style=flat-square) ![PencilKit](https://img.shields.io/badge/-PencilKit-8B5CF6?style=flat-square)<br><br>An uplifting AR experience combining stories, sound, and drawing interactions. |
-
-| 🍵 ZenCha |
-| --- |
-| **AR tea ceremony with hand tracking**<br><br>![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white) ![ARKit](https://img.shields.io/badge/-ARKit-111827?style=flat-square) ![Hand Tracking](https://img.shields.io/badge/-Hand%20Tracking-14B8A6?style=flat-square)<br><br>A 3-minute Gongfu tea ritual experience with gesture-driven interaction and adaptive ambience. |
-
-| 🎬 NovelMotion |
-| --- |
-| **Novel-to-animation generation pipeline**<br><br>![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Stable Diffusion](https://img.shields.io/badge/-Stable%20Diffusion-FF9500?style=flat-square) ![LLM](https://img.shields.io/badge/-LLM-6D28D9?style=flat-square) ![FFmpeg](https://img.shields.io/badge/-FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)<br><br>Transforms novel chapters into animated short films with automated visual and audio synthesis. |
-
-| 🖥️ HolographicMediaCenter |
-| --- |
-| **240x240 holographic desktop media hub**<br><br>![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)<br><br>Desktop-style media center with mini-games, calendar, and customizable visual themes. |
-
-| 🏝️ ElementFactoryONE |
-| --- |
-| **Educational survival game (UE5)**<br><br>![Unreal Engine 5](https://img.shields.io/badge/-Unreal%20Engine%205-313131?style=flat-square&logo=unrealengine&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Blueprints](https://img.shields.io/badge/-Blueprints-1F6FEB?style=flat-square)<br><br>A STEM-oriented survival sandbox blending robotics and science-based systems. |
-
-| 🛒 IValorant-api |
-| --- |
-| **Valorant store checker backend for WeChat**<br><br>![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![API](https://img.shields.io/badge/-API-0EA5E9?style=flat-square) ![WeChat](https://img.shields.io/badge/-WeChat-07C160?style=flat-square&logo=wechat&logoColor=white)<br><br>Backend service for checking daily Valorant store information inside WeChat workflows. |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📚 TaleCraft</h3>
+      <p><img src="https://img.shields.io/badge/AR_Storytelling-9333EA?style=for-the-badge" alt="AR Storytelling" /></p>
+      <b>Inclusive AR + drawing storytelling prototype</b><br/><br/>
+      <b>Tech Stack</b><br/>
+      <img src="https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white" alt="Swift" /> <img src="https://img.shields.io/badge/-SwiftUI-0A84FF?style=flat-square" alt="SwiftUI" /> <img src="https://img.shields.io/badge/-RealityKit-111827?style=flat-square" alt="RealityKit" /> <img src="https://img.shields.io/badge/-PencilKit-8B5CF6?style=flat-square" alt="PencilKit" /><br/><br/>
+      <b>What it does</b><br/>
+      Uplifting AR experience combining stories, sound, and drawing interactions.
+    </td>
+    <td width="50%" valign="top">
+      <h3>🍵 ZenCha</h3>
+      <p><img src="https://img.shields.io/badge/AR_Interaction-0D9488?style=for-the-badge" alt="AR Interaction" /></p>
+      <b>AR tea ceremony with hand tracking</b><br/><br/>
+      <b>Tech Stack</b><br/>
+      <img src="https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white" alt="Swift" /> <img src="https://img.shields.io/badge/-ARKit-111827?style=flat-square" alt="ARKit" /> <img src="https://img.shields.io/badge/-Hand%20Tracking-14B8A6?style=flat-square" alt="Hand Tracking" /><br/><br/>
+      <b>What it does</b><br/>
+      A 3-minute Gongfu tea ritual with gesture-driven interaction and adaptive ambience.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎬 NovelMotion</h3>
+      <p><img src="https://img.shields.io/badge/GenAI_Pipeline-7C3AED?style=for-the-badge" alt="GenAI Pipeline" /></p>
+      <b>Novel-to-animation generation pipeline</b><br/><br/>
+      <b>Tech Stack</b><br/>
+      <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/-Stable%20Diffusion-FF9500?style=flat-square" alt="Stable Diffusion" /> <img src="https://img.shields.io/badge/-LLM-6D28D9?style=flat-square" alt="LLM" /> <img src="https://img.shields.io/badge/-FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" alt="FFmpeg" /><br/><br/>
+      <b>What it does</b><br/>
+      Transforms novel chapters into animated short films with automated visual/audio synthesis.
+    </td>
+    <td width="50%" valign="top">
+      <h3>🖥️ HolographicMediaCenter</h3>
+      <p><img src="https://img.shields.io/badge/Creative_UI-2563EB?style=for-the-badge" alt="Creative UI" /></p>
+      <b>240x240 holographic desktop media hub</b><br/><br/>
+      <b>Tech Stack</b><br/>
+      <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" /> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /><br/><br/>
+      <b>What it does</b><br/>
+      Desktop-style media center with mini-games, calendar, and customizable visual themes.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏝️ ElementFactoryONE</h3>
+      <p><img src="https://img.shields.io/badge/UE5_Game-1F2937?style=for-the-badge" alt="UE5 Game" /></p>
+      <b>Educational survival game (UE5)</b><br/><br/>
+      <b>Tech Stack</b><br/>
+      <img src="https://img.shields.io/badge/-Unreal%20Engine%205-313131?style=flat-square&logo=unrealengine&logoColor=white" alt="Unreal Engine 5" /> <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" /> <img src="https://img.shields.io/badge/-Blueprints-1F6FEB?style=flat-square" alt="Blueprints" /><br/><br/>
+      <b>What it does</b><br/>
+      STEM-oriented survival sandbox blending robotics and science-based systems.
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛒 IValorant-api</h3>
+      <p><img src="https://img.shields.io/badge/Gaming_Backend-DC2626?style=for-the-badge" alt="Gaming Backend" /></p>
+      <b>Valorant store checker backend for WeChat</b><br/><br/>
+      <b>Tech Stack</b><br/>
+      <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/-API-0EA5E9?style=flat-square" alt="API" /> <img src="https://img.shields.io/badge/-WeChat-07C160?style=flat-square&logo=wechat&logoColor=white" alt="WeChat" /><br/><br/>
+      <b>What it does</b><br/>
+      Backend service for checking daily Valorant store information inside WeChat workflows.
+    </td>
+  </tr>
+</table>
 
 ### 🔧 Hardware & Utilities
 
-| 🧼 SmartDisinfectionCutleryBox |
-| --- |
-| **ESP32 smart disinfection cutlery box**<br><br>![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![ESP32](https://img.shields.io/badge/-ESP32-000000?style=flat-square) ![EasyEDA](https://img.shields.io/badge/-EasyEDA-FF6A00?style=flat-square) ![WeChat Mini Program](https://img.shields.io/badge/-WeChat%20Mini%20Program-07C160?style=flat-square&logo=wechat&logoColor=white)<br><br>Firmware + hardware project featuring OLED countdown, PIR safety, and remote control. |
-
-| 🙂 EmotionalHelper |
-| --- |
-| **Webcam-based emotion assistant**<br><br>![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Tkinter](https://img.shields.io/badge/-Tkinter-2563EB?style=flat-square) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![Baidu AI](https://img.shields.io/badge/-Baidu%20AI-1D4ED8?style=flat-square)<br><br>Detects facial emotion and generates matching calming music plus voice feedback. |
-
-| 📦 RmpExporter |
-| --- |
-| **Exporter utility project**<br><br>![C#](https://img.shields.io/badge/-C%23-512BD4?style=flat-square&logo=csharp&logoColor=white) ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)<br><br>A C# utility repository focused on export-related workflows. |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧼 SmartDisinfectionCutleryBox</h3>
+      <p><img src="https://img.shields.io/badge/IoT_Hardware-F97316?style=for-the-badge" alt="IoT Hardware" /></p>
+      <b>ESP32 smart disinfection cutlery box</b><br/><br/>
+      <b>Tech Stack</b><br/>
+      <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" /> <img src="https://img.shields.io/badge/-ESP32-000000?style=flat-square" alt="ESP32" /> <img src="https://img.shields.io/badge/-EasyEDA-FF6A00?style=flat-square" alt="EasyEDA" /> <img src="https://img.shields.io/badge/-WeChat%20Mini%20Program-07C160?style=flat-square&logo=wechat&logoColor=white" alt="WeChat Mini Program" /><br/><br/>
+      <b>What it does</b><br/>
+      Firmware + hardware project with OLED countdown, PIR safety, and remote control.
+    </td>
+    <td width="50%" valign="top">
+      <h3>🙂 EmotionalHelper</h3>
+      <p><img src="https://img.shields.io/badge/Wellness_AI-DB2777?style=for-the-badge" alt="Wellness AI" /></p>
+      <b>Webcam-based emotion assistant</b><br/><br/>
+      <b>Tech Stack</b><br/>
+      <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/-Tkinter-2563EB?style=flat-square" alt="Tkinter" /> <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" /> <img src="https://img.shields.io/badge/-Baidu%20AI-1D4ED8?style=flat-square" alt="Baidu AI" /><br/><br/>
+      <b>What it does</b><br/>
+      Detects facial emotion and generates matching calming music plus voice feedback.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📦 RmpExporter</h3>
+      <p><img src="https://img.shields.io/badge/Utility_Tool-4F46E5?style=for-the-badge" alt="Utility Tool" /></p>
+      <b>Exporter utility project</b><br/><br/>
+      <b>Tech Stack</b><br/>
+      <img src="https://img.shields.io/badge/-C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C#" /> <img src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" /><br/><br/>
+      <b>What it does</b><br/>
+      A C# utility repository focused on export-related workflows.
+    </td>
+    <td width="50%" valign="top">
+      &nbsp;
+    </td>
+  </tr>
+</table>
 
 ---
 
