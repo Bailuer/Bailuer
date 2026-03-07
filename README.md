@@ -66,9 +66,9 @@ Selected projects across AI products, interactive media, and engineering.
 
 ### 🧠 AI Products
 
-<table width="48%" align="left" cellpadding="14" cellspacing="0">
+<table width="100%" cellpadding="14" cellspacing="0">
   <tr>
-    <td valign="top">
+    <td width="50%" valign="top">
       <h1>🗺️ Hear2GO / Heargo</h1>
       <img src="https://img.shields.io/badge/AI_Product-0EA5E9?style=for-the-badge" alt="AI Product" /><br/><br/>
       <b>AI + Maps cultural guide app</b><br/><br/>
@@ -82,12 +82,7 @@ Selected projects across AI products, interactive media, and engineering.
       GPS-based cultural narration with bilingual support and map-first interaction.<br/>
       📱 <a href="https://apps.apple.com/app/hear2go/id6752223086">App Store</a>
     </td>
-  </tr>
-</table>
-
-<table width="48%" align="right" cellpadding="14" cellspacing="0">
-  <tr>
-    <td valign="top">
+    <td width="50%" valign="top">
       <h1>🎓 Learnova</h1>
       <img src="https://img.shields.io/badge/AI_Tutor-2563EB?style=for-the-badge" alt="AI Tutor" /><br/><br/>
       <b>AI-driven personal tutor system</b><br/><br/>
@@ -101,11 +96,9 @@ Selected projects across AI products, interactive media, and engineering.
   </tr>
 </table>
 
-<br clear="all" />
-
-<table width="48%" align="left" cellpadding="14" cellspacing="0">
+<table width="100%" cellpadding="14" cellspacing="0">
   <tr>
-    <td valign="top">
+    <td width="50%" valign="top">
       <h1>📷 Paralumine</h1>
       <img src="https://img.shields.io/badge/Photo_AI-6366F1?style=for-the-badge" alt="Photo AI" /><br/><br/>
       <b>AI-powered photography assistant</b><br/><br/>
@@ -116,12 +109,7 @@ Selected projects across AI products, interactive media, and engineering.
       <b>What it does</b><br/>
       Analyzes reference photos and generates camera settings plus lighting setup suggestions.
     </td>
-  </tr>
-</table>
-
-<table width="48%" align="right" cellpadding="14" cellspacing="0">
-  <tr>
-    <td valign="top">
+    <td width="50%" valign="top">
       <h1>🧳 KatawareStudyAbroad</h1>
       <img src="https://img.shields.io/badge/Knowledge_Engine-0F766E?style=for-the-badge" alt="Knowledge Engine" /><br/><br/>
       <b>Study-abroad workflow + knowledge engine</b><br/><br/>
@@ -137,13 +125,11 @@ Selected projects across AI products, interactive media, and engineering.
   </tr>
 </table>
 
-<br clear="all" />
-
 ### 🎨 Interactive & Media
 
-<table width="48%" align="left" cellpadding="14" cellspacing="0">
+<table width="100%" cellpadding="14" cellspacing="0">
   <tr>
-    <td valign="top">
+    <td width="50%" valign="top">
       <h1>📚 TaleCraft</h1>
       <img src="https://img.shields.io/badge/AR_Storytelling-9333EA?style=for-the-badge" alt="AR Storytelling" /><br/><br/>
       <b>Inclusive AR + drawing storytelling prototype</b><br/><br/>
@@ -155,12 +141,7 @@ Selected projects across AI products, interactive media, and engineering.
       <b>What it does</b><br/>
       Uplifting AR experience combining stories, sound, and drawing interactions.
     </td>
-  </tr>
-</table>
-
-<table width="48%" align="right" cellpadding="14" cellspacing="0">
-  <tr>
-    <td valign="top">
+    <td width="50%" valign="top">
       <h1>🍵 ZenCha</h1>
       <img src="https://img.shields.io/badge/AR_Interaction-0D9488?style=for-the-badge" alt="AR Interaction" /><br/><br/>
       <b>AR tea ceremony with hand tracking</b><br/><br/>
@@ -174,11 +155,9 @@ Selected projects across AI products, interactive media, and engineering.
   </tr>
 </table>
 
-<br clear="all" />
-
-<table width="48%" align="left" cellpadding="14" cellspacing="0">
+<table width="100%" cellpadding="14" cellspacing="0">
   <tr>
-    <td valign="top">
+    <td width="50%" valign="top">
       <h1>🎬 NovelMotion</h1>
       <img src="https://img.shields.io/badge/GenAI_Pipeline-7C3AED?style=for-the-badge" alt="GenAI Pipeline" /><br/><br/>
       <b>Novel-to-animation generation pipeline</b><br/><br/>
@@ -190,12 +169,7 @@ Selected projects across AI products, interactive media, and engineering.
       <b>What it does</b><br/>
       Transforms novel chapters into animated short films with automated visual/audio synthesis.
     </td>
-  </tr>
-</table>
-
-<table width="48%" align="right" cellpadding="14" cellspacing="0">
-  <tr>
-    <td valign="top">
+    <td width="50%" valign="top">
       <h1>🖥️ HolographicMediaCenter</h1>
       <img src="https://img.shields.io/badge/Creative_UI-2563EB?style=for-the-badge" alt="Creative UI" /><br/><br/>
       <b>240x240 holographic desktop media hub</b><br/><br/>
@@ -209,11 +183,9 @@ Selected projects across AI products, interactive media, and engineering.
   </tr>
 </table>
 
-<br clear="all" />
-
-<table width="48%" align="left" cellpadding="14" cellspacing="0">
+<table width="100%" cellpadding="14" cellspacing="0">
   <tr>
-    <td valign="top">
+    <td width="50%" valign="top">
       <h1>🏝️ ElementFactoryONE</h1>
       <img src="https://img.shields.io/badge/UE5_Game-1F2937?style=for-the-badge" alt="UE5 Game" /><br/><br/>
       <b>Educational survival game (UE5)</b><br/><br/>
@@ -224,12 +196,7 @@ Selected projects across AI products, interactive media, and engineering.
       <b>What it does</b><br/>
       STEM-oriented survival sandbox blending robotics and science-based systems.
     </td>
-  </tr>
-</table>
-
-<table width="48%" align="right" cellpadding="14" cellspacing="0">
-  <tr>
-    <td valign="top">
+    <td width="50%" valign="top">
       <h1>🛒 IValorant-api</h1>
       <img src="https://img.shields.io/badge/Gaming_Backend-DC2626?style=for-the-badge" alt="Gaming Backend" /><br/><br/>
       <b>Valorant store checker backend for WeChat</b><br/><br/>
@@ -243,13 +210,11 @@ Selected projects across AI products, interactive media, and engineering.
   </tr>
 </table>
 
-<br clear="all" />
-
 ### 🔧 Hardware & Utilities
 
-<table width="48%" align="left" cellpadding="14" cellspacing="0">
+<table width="100%" cellpadding="14" cellspacing="0">
   <tr>
-    <td valign="top">
+    <td width="50%" valign="top">
       <h1>🧼 SmartDisinfectionCutleryBox</h1>
       <img src="https://img.shields.io/badge/IoT_Hardware-F97316?style=for-the-badge" alt="IoT Hardware" /><br/><br/>
       <b>ESP32 smart disinfection cutlery box</b><br/><br/>
@@ -261,12 +226,7 @@ Selected projects across AI products, interactive media, and engineering.
       <b>What it does</b><br/>
       Firmware + hardware project with OLED countdown, PIR safety, and remote control.
     </td>
-  </tr>
-</table>
-
-<table width="48%" align="right" cellpadding="14" cellspacing="0">
-  <tr>
-    <td valign="top">
+    <td width="50%" valign="top">
       <h1>🙂 EmotionalHelper</h1>
       <img src="https://img.shields.io/badge/Wellness_AI-DB2777?style=for-the-badge" alt="Wellness AI" /><br/><br/>
       <b>Webcam-based emotion assistant</b><br/><br/>
@@ -281,11 +241,9 @@ Selected projects across AI products, interactive media, and engineering.
   </tr>
 </table>
 
-<br clear="all" />
-
-<table width="48%" align="left" cellpadding="14" cellspacing="0">
+<table width="100%" cellpadding="14" cellspacing="0">
   <tr>
-    <td valign="top">
+    <td width="50%" valign="top">
       <h1>📦 RmpExporter</h1>
       <img src="https://img.shields.io/badge/Utility_Tool-4F46E5?style=for-the-badge" alt="Utility Tool" /><br/><br/>
       <b>Exporter utility project</b><br/><br/>
@@ -295,10 +253,10 @@ Selected projects across AI products, interactive media, and engineering.
       <b>What it does</b><br/>
       A C# utility repository focused on export-related workflows.
     </td>
+    <td width="50%" valign="top">
+    </td>
   </tr>
 </table>
-
-<br clear="all" />
 
 ---
 
