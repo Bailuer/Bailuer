@@ -1,30 +1,30 @@
 <div align="center">
 
-# Hi, I'm Yu Shuo
+# 👋 Hi, I'm Yu Shuo
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=540&lines=High+school+CS+student;AI+%2B+Robotics+builder;Creating+hardware-software+projects;Preparing+for+A-Levels+and+university" alt="Typing SVG" />
 
 <p>
   <a href="https://sanomachine.com"><img src="https://img.shields.io/badge/Website-sanomachine.com-0A66C2?style=for-the-badge" alt="Website" /></a>
-  <a href="https://testflight.apple.com/join/RpsxBU7E"><img src="https://img.shields.io/badge/Heargo-TestFlight-0066FF?style=for-the-badge&logo=apple" alt="TestFlight" /></a>
+  <a href="https://apps.apple.com/app/hear2go/id6752223086"><img src="https://img.shields.io/badge/Hear2GO-App%20Store-0A84FF?style=for-the-badge&logo=appstore&logoColor=white" alt="Hear2GO App Store" /></a>
 </p>
 
 </div>
 
 I am a high school student focused on **Computer Science**, **Robotics & Mechatronics**, and **AI-driven creative products**.  
-I enjoy building projects where software, hardware, and design work together to solve real problems.
+I enjoy building projects where software, hardware, and design work together to solve real problems. 🚀
 
 ---
 
-## About Me
+## 🌟 About Me
 
-- Studying toward **A-Levels** and preparing for **Robotics/Computer Science** university programs
-- Building products across **Flutter apps**, **embedded systems**, and **AI workflows**
-- Interested in **education tech**, **cultural storytelling**, and **human-centered engineering**
+- 📚 Studying toward **A-Levels** and preparing for **Robotics/Computer Science** university programs
+- 🛠️ Building products across **Flutter apps**, **embedded systems**, and **AI workflows**
+- 🌍 Interested in **education tech**, **cultural storytelling**, and **human-centered engineering**
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -60,46 +60,65 @@ I enjoy building projects where software, hardware, and design work together to 
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### Heargo (闻旅)
+### 🗺️ Hear2GO (闻旅)
 **AI + Maps cultural guide app**  
-**Stack:** Flutter, Dart, AMap/Google Maps API, Wenxin/DeepSeek LLM API  
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![AMap](https://img.shields.io/badge/-AMap-3B82F6?style=flat-square)
+![Google Maps API](https://img.shields.io/badge/-Google%20Maps%20API-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
+![Wenxin](https://img.shields.io/badge/-Wenxin-1E88E5?style=flat-square)
+![DeepSeek](https://img.shields.io/badge/-DeepSeek-1E3A8A?style=flat-square)
 A travel companion app that delivers location-aware narration for local history, food, geology, and landmarks with bilingual support.  
-**Highlights:** map-first UX, real-time AI responses, polished gradient/glassmorphism interface  
-**Try it:** [iOS TestFlight](https://testflight.apple.com/join/RpsxBU7E)
+**Highlights:** map-first UX, real-time AI responses, polished gradient/glassmorphism interface, now officially released on the App Store 🎉  
+**📱 Download:** [Hear2GO on the App Store](https://apps.apple.com/app/hear2go/id6752223086)
 
-### NovelMotion
+### 🎬 NovelMotion
 **Text-to-anime generation pipeline**  
-**Stack:** Python, Stable Diffusion, FFmpeg, AI voiceover tools  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Stable Diffusion](https://img.shields.io/badge/-Stable%20Diffusion-FF9500?style=flat-square)
+![FFmpeg](https://img.shields.io/badge/-FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
+![AI Voiceover](https://img.shields.io/badge/-AI%20Voiceover-8B5CF6?style=flat-square)
 Turns written text into dynamic anime-style sequences with synchronized narration.  
-**Highlights:** automated image pipeline, sequence stitching, voice integration
+**Highlights:** automated image pipeline, sequence stitching, voice integration ✨
 
-### ElementFactory ONE
+### 🏝️ ElementFactory ONE
 **UE5 educational survival game**  
-**Stack:** Unreal Engine 5, C++/Blueprints, robotics + chemistry simulation  
+![Unreal Engine 5](https://img.shields.io/badge/-Unreal%20Engine%205-313131?style=flat-square&logo=unrealengine&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Blueprints](https://img.shields.io/badge/-Blueprints-1F6FEB?style=flat-square)
+![Robotics](https://img.shields.io/badge/-Robotics-0EA5E9?style=flat-square)
+![Chemistry Simulation](https://img.shields.io/badge/-Chemistry%20Simulation-10B981?style=flat-square)
 A sky-island sandbox game blending entertainment and STEM learning through engineering mechanics.  
-**Highlights:** science-inspired gameplay loop, education-first design
+**Highlights:** science-inspired gameplay loop, education-first design 🎮
 
-### Smart Disinfection Cutlery Box (Future Engineers Competition)
+### 🧼 Smart Disinfection Cutlery Box (Future Engineers Competition)
 **IoT hardware product**  
-**Stack:** Arduino/ESP32, UV module, temperature sensors  
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/-ESP32-000000?style=flat-square)
+![UV Module](https://img.shields.io/badge/-UV%20Module-6366F1?style=flat-square)
+![Temperature Sensors](https://img.shields.io/badge/-Temperature%20Sensors-F97316?style=flat-square)
 Portable sanitization hardware for daily cutlery storage and hygiene monitoring.  
-**Highlights:** **First Prize in Shanghai (市一等奖)**
+**Highlights:** 🏆 **First Prize in Shanghai (市一等奖)**
 
-### IValorant
+### 🎮 IValorant
 **WeChat mini program for Valorant players**  
-**Stack:** WeChat Mini Program API, Valorant API, JavaScript  
+![WeChat Mini Program](https://img.shields.io/badge/-WeChat%20Mini%20Program-07C160?style=flat-square&logo=wechat&logoColor=white)
+![Valorant API](https://img.shields.io/badge/-Valorant%20API-FF4655?style=flat-square&logo=valorant&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 Helps users check daily in-game shop rotations through a localized WeChat workflow.
 
-### Emotion Management Helper
+### 🙂 Emotion Management Helper
 **Desktop mental wellness tool**  
-**Stack:** Python, Tkinter, NLP libraries  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Tkinter](https://img.shields.io/badge/-Tkinter-2563EB?style=flat-square)
+![NLP](https://img.shields.io/badge/-NLP-9333EA?style=flat-square)
 A lightweight app for mood logging and stress-management suggestions.
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -117,16 +136,16 @@ A lightweight app for mood logging and stress-management suggestions.
 
 ---
 
-## Current Focus
+## 🌱 Current Focus
 
-- Advanced **AI + LLM integration** for real-time cultural narration
-- Production-quality **Flutter UI/UX** and cross-platform app delivery
-- **Robotics and embedded systems** combining hardware with AI capabilities
-- **IELTS and A-Level preparation** for international university applications
+- 🤖 Advanced **AI + LLM integration** for real-time cultural narration
+- 🎨 Production-quality **Flutter UI/UX** and cross-platform app delivery
+- 🔧 **Robotics and embedded systems** combining hardware with AI capabilities
+- 📚 **IELTS and A-Level preparation** for international university applications
 
 ---
 
-## Gaming & Recreation
+## 🎮 Gaming & Recreation
 
 <div align="center">
 
@@ -140,7 +159,7 @@ A lightweight app for mood logging and stress-management suggestions.
 
 ---
 
-## Connect with Me
+## 📫 Connect with Me
 
 <div align="center">
 
@@ -157,7 +176,7 @@ A lightweight app for mood logging and stress-management suggestions.
 
 <div align="center">
 
-### Building bridges between technology and creativity
+### 💡 Building bridges between technology and creativity
 
 <img src="https://komarev.com/ghpvc/?username=Bailuer&label=Profile%20views&color=0e75b6&style=flat&v=13" alt="Profile views" />
 
