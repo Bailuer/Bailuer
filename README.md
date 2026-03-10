@@ -168,11 +168,12 @@ AI-powered study assistant that analyzes exam papers, detects questions from ima
 &nbsp;<br>
 <strong><big>📷 Paralumine</big></strong><br>
 <sub><kbd>PHOTO AI</kbd></sub><br><sub>&nbsp;</sub><br>
-Photography assistant that analyzes visual references and recommends camera settings, composition, and lighting setups.
+AI-powered photography assistant that analyzes visual references and suggests camera settings, composition, and lighting setups to help recreate professional shots.
 
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![AI](https://img.shields.io/badge/-AI-7C3AED?style=flat-square)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-2563EB?style=flat-square)
+![Gemini](https://img.shields.io/badge/-Gemini-886FBF?style=flat-square&logo=google&logoColor=white)
 <br>&nbsp;
 </td>
 <td width="50%" valign="top">
