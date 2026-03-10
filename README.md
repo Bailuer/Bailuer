@@ -182,11 +182,13 @@ AI-powered photography assistant that analyzes visual references and suggests ca
 &nbsp;<br>
 <strong><big>🧳 Kataware Study Abroad</big></strong><br>
 <sub><kbd>KNOWLEDGE ENGINE</kbd></sub><br><sub>&nbsp;</sub><br>
-Workflow and knowledge engine for study-abroad services, supporting onboarding, surveys, reports, and retrieval-ready documents.
+Knowledge and workflow engine powering an AI study-abroad assistant, transforming university documents into structured, citation-ready insights for decision support.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![WeChat](https://img.shields.io/badge/-WeChat-07C160?style=flat-square&logo=wechat&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Gemini](https://img.shields.io/badge/-Gemini-886FBF?style=flat-square&logo=google&logoColor=white)
 ![RAG](https://img.shields.io/badge/-RAG-4F46E5?style=flat-square)
+![pgvector](https://img.shields.io/badge/-pgvector-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Data Pipeline](https://img.shields.io/badge/-Data%20Pipeline-0284C7?style=flat-square)
 <br>&nbsp;
 </td>
