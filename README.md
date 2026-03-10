@@ -336,12 +336,14 @@ Emotion-aware desktop companion that detects facial expressions via webcam and r
 <tr>
 <td width="50%" valign="top">
 &nbsp;<br>
-<strong><big>📦 RmpExporter</big></strong><br>
-<sub><kbd>UTILITY TOOL</kbd></sub><br><sub>&nbsp;</sub><br>
-Structured export utility built in C# for handling automated export workflows and supporting tooling.
+<strong><big>📦 RMP Exporter</big></strong><br>
+<sub><kbd>UTILITY MOD</kbd></sub><br><sub>&nbsp;</sub><br>
+Tool for Cities: Skylines II that exports in-game transit lines into Rail Map Toolkit-compatible JSON for map visualization and sharing.
 
 ![C#](https://img.shields.io/badge/-C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Cities: Skylines II](https://img.shields.io/badge/-Cities%3A%20Skylines%20II-0EA5E9?style=flat-square)
+![Modding API](https://img.shields.io/badge/-Modding%20API-2563EB?style=flat-square)
 <br>
 <a href="https://github.com/Bailuer/RmpExporter">Open source on GitHub</a>
 <br>&nbsp;
