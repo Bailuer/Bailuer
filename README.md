@@ -221,7 +221,7 @@ AI-powered study assistant that analyzes exam papers, detects questions from ima
 <tr>
 <td width="50%" valign="top">
 &nbsp;<br>
-<strong><big>🎬 NovelMotion</big></strong><br>
+<strong><big>🎬 NovelMotion <span style="color: #9ca3af;">｜文映</span></big></strong><br>
 <sub><kbd>GENAI STORY ENGINE</kbd> <kbd>2025</kbd> <kbd>WIP</kbd></sub><br><sub>&nbsp;</sub><br>
 AI pipeline that converts novel chapters into cinematic motion-anime videos with automated storyboarding, character generation, voice narration, and music composition.
 
