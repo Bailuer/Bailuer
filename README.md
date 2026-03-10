@@ -9,10 +9,15 @@
   <a href="https://apps.apple.com/app/hear2go/id6752223086"><img src="https://img.shields.io/badge/Hear2GO-App%20Store-0A84FF?style=for-the-badge&logo=appstore&logoColor=white" alt="Hear2GO App Store" /></a>
 </p>
 
-</div>
+<p>
+  I am a high school student passionate about <b>Computer Science</b>, <b>Robotics &amp; Mechatronics</b>, and <b>AI-driven creative products</b>.
+</p>
 
-I am a high school student focused on **Computer Science**, **Robotics & Mechatronics**, and **AI-driven creative products**.  
-I enjoy building projects where software, hardware, and design work together to solve real problems. 🚀
+<p>
+  I enjoy building projects where software, hardware, and design come together to solve real-world problems.
+</p>
+
+</div>
 
 ---
 
