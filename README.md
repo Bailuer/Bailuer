@@ -166,11 +166,9 @@ AI-powered study assistant that analyzes exam papers, detects questions from ima
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![JSON](https://img.shields.io/badge/-JSON-111827?style=flat-square)
 ![Gemini](https://img.shields.io/badge/-Gemini-886FBF?style=flat-square&logo=google&logoColor=white)
 ![AI Agents](https://img.shields.io/badge/-AI%20Agents-7C3AED?style=flat-square)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![OCR](https://img.shields.io/badge/-OCR-2563EB?style=flat-square)
 ![Image Processing](https://img.shields.io/badge/-Image%20Processing-DC2626?style=flat-square)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
