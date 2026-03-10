@@ -8,7 +8,11 @@
   <a href="https://sanomachine.com"><img src="https://img.shields.io/badge/Website-sanomachine.com-0A66C2?style=for-the-badge" alt="Website" /></a>
 </p>
 
-<p><strong>Hear2GO</strong></p>
+<p><sub>Featured product</sub></p>
+
+<h3>📱 Hear2GO</h3>
+
+<p><sub>AI-powered cultural travel guide</sub></p>
 
 <p>
   <a href="https://apps.apple.com/app/hear2go/id6752223086"><img src="assets/app-store-badge.svg" alt="Download on the App Store" height="40" /></a>
