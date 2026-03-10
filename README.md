@@ -206,8 +206,8 @@ Knowledge and workflow engine powering an AI study-abroad assistant, transformin
 <td width="50%" valign="top">
 &nbsp;<br>
 <strong><big>📚 TaleCraft</big></strong><br>
-<sub><kbd>AR STORYTELLING</kbd></sub><br><sub>&nbsp;</sub><br>
-Inclusive AR storytelling prototype combining drawing, character interaction, and spatial audio for interactive narratives.
+<sub><kbd>CREATIVE STORY WORLDS</kbd></sub><br><sub>&nbsp;</sub><br>
+A creative playground where children paint worlds that come alive - flowing rivers, swaying forests, and stories generated from the scenes they create.
 
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/-SwiftUI-0A84FF?style=flat-square)
