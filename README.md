@@ -34,8 +34,6 @@
   <a href="https://apps.apple.com/app/hear2go/id6752223086"><img src="assets/app-store-badge.svg" alt="Download on the App Store" height="40" /></a>
 </p>
 
-<p><a href="https://sanomachine.com">Website</a> · <a href="https://apps.apple.com/app/hear2go/id6752223086">App Store</a></p>
-
 </div>
 
 ---
