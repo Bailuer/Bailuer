@@ -128,9 +128,9 @@ Selected projects across AI products, interactive media, and engineering.
 
 ### 🧠 AI Products
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top" height="220">
+<td width="50%" valign="top">
 
 #### 🗺️ Hear2GO 闻旅
 **AI PRODUCT**
@@ -146,7 +146,7 @@ AI-powered cultural travel guide
 📱 [App Store](https://apps.apple.com/app/hear2go/id6752223086)
 
 </td>
-<td width="50%" valign="top" height="220">
+<td width="50%" valign="top">
 
 #### 🎓 Learnova
 **AI TUTOR**
@@ -161,7 +161,7 @@ AI-driven personal tutor system
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top" height="220">
+<td width="50%" valign="top">
 
 #### 📷 Paralumine
 **PHOTO AI**
@@ -174,7 +174,7 @@ AI-powered photography assistant
 ![AI](https://img.shields.io/badge/-AI-7C3AED?style=flat-square)
 
 </td>
-<td width="50%" valign="top" height="220">
+<td width="50%" valign="top">
 
 #### 🧳 KatawareStudyAbroad
 **KNOWLEDGE ENGINE**
