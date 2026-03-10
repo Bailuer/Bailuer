@@ -361,8 +361,14 @@ Embedded media interface built for a 240×240 holographic display, delivering a 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
 ![Chromium Kiosk](https://img.shields.io/badge/-Chromium%20Kiosk-1D4ED8?style=flat-square&logo=googlechrome&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![PipeWire](https://img.shields.io/badge/-PipeWire-2563EB?style=flat-square)
+![Bluetooth](https://img.shields.io/badge/-Bluetooth-0082FC?style=flat-square&logo=bluetooth&logoColor=white)
+![GPIO](https://img.shields.io/badge/-GPIO-16A34A?style=flat-square)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 <br>
 <a href="https://github.com/Bailuer/HolographicMediaCenter">Open source on GitHub</a>
 <br>&nbsp;
