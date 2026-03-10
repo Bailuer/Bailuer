@@ -30,20 +30,24 @@
 ## 🌟 About Me
 
 ### 📚 Education
-
-Studying toward <strong>A-Levels</strong> and preparing for university programs in <strong>Robotics</strong> and <strong>Computer Science</strong>.
+Currently studying toward A-Levels, preparing for university programs in Robotics and Computer Science.
 
 ### 🛠 What I Build
 
-- <strong>Flutter</strong> mobile apps
-- <strong>Embedded systems</strong> and hardware prototypes
-- <strong>AI-powered</strong> tools and creative software
+- Flutter mobile applications
+- Embedded systems and hardware prototypes
+- AI-powered tools and creative software
+
+### 🚀 Currently Working On
+
+- Hear2GO - an AI-powered cultural travel guide
+- AI-driven creative tools and product experiments
 
 ### 🌍 Interests
 
-- <strong>Education technology</strong>
-- <strong>Cultural storytelling</strong>
-- <strong>Human-centered engineering</strong>
+- Education technology
+- Cultural storytelling
+- Human-centered engineering
 
 ---
 
