@@ -156,6 +156,7 @@ AI-powered cultural travel guide that delivers location-aware storytelling and b
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 <a href="https://apps.apple.com/app/hear2go/id6752223086"><img src="assets/app-store-badge.svg" alt="Download on the App Store" height="60" /></a>
+<br><sub><small><span style="color: #9ca3af;">© 2024-2026 Hear2GO. All Rights Reserved.</span></small></sub>
 <br>&nbsp;
 </td>
 <td width="50%" valign="top">
