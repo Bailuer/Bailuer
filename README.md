@@ -177,11 +177,9 @@ Knowledge and workflow engine powering an AI study-abroad assistant, transformin
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Metabase](https://img.shields.io/badge/-Metabase-509EE3?style=flat-square)
 <br>
-<br><sub><small>Release 1.0.4</small></sub>
+<br><strong><big>Release 1.0.4</big></strong>
 <br><sub><small>"KatawareAI留学助手" on WeChat Mini Program</small></sub>
-<br><sub><small>© Kataware Education / Kataware Universe.</small></sub>
-<br><sub><small>All Rights Reserved.</small></sub>
-<br><sub><small>沪ICP备2026003529号-1X</small></sub>
+<br><sub><small>© Kataware Education / Kataware Universe. All Rights Reserved.</small></sub>
 <br>&nbsp;
 </td>
 </tr>
