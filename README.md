@@ -24,7 +24,7 @@
 
 <div align="center">
 
-<h1>Hear2GO 闻旅</h1>
+<h1>Hear2GO · 闻旅</h1>
 
 <h3>Explore places through stories.</h3>
 
@@ -136,7 +136,7 @@ Selected work across AI products, interactive media, and engineering systems.
 <tr>
 <td width="50%" valign="top">
 &nbsp;<br>
-<strong><big>🗺️ Hear2GO 闻旅</big></strong><br>
+<strong><big>🗺️ Hear2GO <span style="color: #9ca3af;">· 闻旅</span></big></strong><br>
 <sub><kbd>AI PRODUCT</kbd></sub><br><sub>&nbsp;</sub><br>
 AI-powered cultural travel guide that delivers location-aware storytelling and bilingual narration as you explore new places.
 
@@ -151,7 +151,7 @@ AI-powered cultural travel guide that delivers location-aware storytelling and b
 </td>
 <td width="50%" valign="top">
 &nbsp;<br>
-<strong><big>🎓 Learnova <span style="color: #9ca3af;">启明</span></big></strong><br>
+<strong><big>🎓 Learnova <span style="color: #9ca3af;">· 启明</span></big></strong><br>
 <sub><kbd>AI Learning Companion</kbd></sub><br><sub>&nbsp;</sub><br>
 AI-powered study assistant that analyzes exam papers, detects questions from images, tracks mistakes, and generates personalized learning plans.
 
@@ -166,7 +166,7 @@ AI-powered study assistant that analyzes exam papers, detects questions from ima
 <tr>
 <td width="50%" valign="top">
 &nbsp;<br>
-<strong><big>📷 Paralumine <span style="color: #9ca3af;">摄助</span></big></strong><br>
+<strong><big>📷 Paralumine <span style="color: #9ca3af;">· 摄助</span></big></strong><br>
 <sub><kbd>PHOTO AI</kbd></sub><br><sub>&nbsp;</sub><br>
 AI-powered photography assistant that analyzes visual references and suggests camera settings, composition, and lighting setups to help recreate professional shots.
 
@@ -180,7 +180,7 @@ AI-powered photography assistant that analyzes visual references and suggests ca
 </td>
 <td width="50%" valign="top">
 &nbsp;<br>
-<strong><big>🧳 Kataware Study Abroad <span style="color: #9ca3af;">留学</span></big></strong><br>
+<strong><big>🧳 Kataware Study Abroad <span style="color: #9ca3af;">· 留学</span></big></strong><br>
 <sub><kbd>KNOWLEDGE ENGINE</kbd></sub><br><sub>&nbsp;</sub><br>
 Knowledge and workflow engine powering an AI study-abroad assistant, transforming university documents into structured, citation-ready insights for decision support.
 
@@ -219,7 +219,7 @@ A creative playground where children paint worlds that come alive - flowing rive
 </td>
 <td width="50%" valign="top">
 &nbsp;<br>
-<strong><big>🍵 ZenCha <span style="color: #9ca3af;">禅茶</span></big></strong><br>
+<strong><big>🍵 ZenCha <span style="color: #9ca3af;">· 禅茶</span></big></strong><br>
 <sub><kbd>MINDFUL INTERACTION</kbd></sub><br><sub>&nbsp;</sub><br>
 A three-minute guided tea ritual that transforms stillness into a tactile, embodied experience through gesture, sound, and spatial design.
 
@@ -249,7 +249,7 @@ AI pipeline that converts novel chapters into cinematic motion-anime videos with
 </td>
 <td width="50%" valign="top">
 &nbsp;<br>
-<strong><big>🖥️ Holographic Media Center <span style="color: #9ca3af;">全息投影媒体中心</span></big></strong><br>
+<strong><big>🖥️ Holographic Media Center <span style="color: #9ca3af;">· 全息投影媒体中心</span></big></strong><br>
 <sub><kbd>CREATIVE UI</kbd></sub><br><sub>&nbsp;</sub><br>
 Embedded media interface built for a 240×240 holographic display, delivering a themed UI and lightweight interactive experiences through a kiosk-based system.
 
@@ -278,7 +278,7 @@ A science-driven survival sandbox where players build automated systems, explore
 </td>
 <td width="50%" valign="top">
 &nbsp;<br>
-<strong><big>🛒 IValorant API <span style="color: #9ca3af;">瓦爱小店</span></big></strong><br>
+<strong><big>🛒 IValorant API <span style="color: #9ca3af;">· 瓦爱小店</span></big></strong><br>
 <sub><kbd>GAMING BACKEND</kbd></sub><br><sub>&nbsp;</sub><br>
 WeChat mini program that lets users check the daily Valorant store through a lightweight backend-powered query workflow.
 
@@ -303,7 +303,7 @@ WeChat mini program that lets users check the daily Valorant store through a lig
 <tr>
 <td width="50%" valign="top">
 &nbsp;<br>
-<strong><big>🧼 Smart Disinfection Cutlery Box <span style="color: #9ca3af;">智能消毒餐具盒</span></big></strong><br>
+<strong><big>🧼 Smart Disinfection Cutlery Box <span style="color: #9ca3af;">· 智能消毒餐具盒</span></big></strong><br>
 <sub><kbd>IOT HARDWARE</kbd></sub><br><sub>&nbsp;</sub><br>
 ESP32-based smart cutlery sterilization device featuring UV and ozone disinfection, PIR human-presence safety detection, an OLED countdown display, and remote monitoring via the Blinker IoT platform.
 
@@ -321,7 +321,7 @@ ESP32-based smart cutlery sterilization device featuring UV and ozone disinfecti
 </td>
 <td width="50%" valign="top">
 &nbsp;<br>
-<strong><big>🙂 EmotionalHelper <span style="color: #9ca3af;">情绪管理小帮手</span></big></strong><br>
+<strong><big>🙂 EmotionalHelper <span style="color: #9ca3af;">· 情绪管理小帮手</span></big></strong><br>
 <sub><kbd>WELLNESS AI</kbd></sub><br><sub>&nbsp;</sub><br>
 Emotion-aware desktop companion that detects facial expressions via webcam and responds with calming music and voice feedback to support emotional regulation.
 
