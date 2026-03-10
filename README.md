@@ -139,11 +139,12 @@ Selected work across AI products, interactive media, and engineering systems.
 <strong><big>🗺️ Hear2GO 闻旅</big></strong><br>
 <sub><strong>AI PRODUCT</strong></sub>
 
-Location-aware cultural travel guide that delivers bilingual storytelling and contextual narration through a map-first experience.
+AI-powered cultural travel guide that delivers location-aware storytelling and bilingual narration as you explore new places.
 
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Maps API](https://img.shields.io/badge/-Maps%20API-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
+![Gemini](https://img.shields.io/badge/-Gemini-886FBF?style=flat-square&logo=google&logoColor=white)
 ![DeepSeek](https://img.shields.io/badge/-DeepSeek-1E3A8A?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik03IDVoNWE3IDcgMCAxIDEgMCAxNEg3Wm0zIDN2OGgyYTQgNCAwIDEgMCAwLThaIi8+PC9zdmc+&logoColor=white)
 
 📱 [App Store](https://apps.apple.com/app/hear2go/id6752223086)
