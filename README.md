@@ -302,14 +302,18 @@ WeChat mini program that lets users check the daily Valorant store through a lig
 <tr>
 <td width="50%" valign="top">
 &nbsp;<br>
-<strong><big>🧼 Smart Disinfection Cutlery Box <span style="color: #9ca3af;">智能消毒盒</span></big></strong><br>
+<strong><big>🧼 Smart Disinfection Cutlery Box <span style="color: #9ca3af;">智能消毒餐具盒</span></big></strong><br>
 <sub><kbd>IOT HARDWARE</kbd></sub><br><sub>&nbsp;</sub><br>
-ESP32-based smart disinfection box with OLED countdown display, PIR safety detection, and remote control integration.
+ESP32-based smart cutlery sterilization device featuring UV and ozone disinfection, PIR human-presence safety detection, an OLED countdown display, and remote monitoring via the Blinker IoT platform.
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![ESP32](https://img.shields.io/badge/-ESP32-000000?style=flat-square&logo=espressif&logoColor=white)
-![EasyEDA](https://img.shields.io/badge/-EasyEDA-FF6A00?style=flat-square)
-![WeChat Mini Program](https://img.shields.io/badge/-WeChat%20Mini%20Program-07C160?style=flat-square&logo=wechat&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![EDA](https://img.shields.io/badge/-EDA-FF6A00?style=flat-square)
+![PCB Design](https://img.shields.io/badge/-PCB%20Design-00796B?style=flat-square)
+![SolidWorks](https://img.shields.io/badge/-SolidWorks-E2231A?style=flat-square&logo=dassaultsystemes&logoColor=white)
+![3D Printing](https://img.shields.io/badge/-3D%20Printing-2563EB?style=flat-square)
+![Blinker IoT](https://img.shields.io/badge/-Blinker%20IoT-0EA5E9?style=flat-square)
 <br>
 <a href="https://github.com/Bailuer/SmartDisinfectionCutleryBox">Open source on GitHub</a>
 <br>&nbsp;
