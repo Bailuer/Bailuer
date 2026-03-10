@@ -24,7 +24,7 @@
 
 <div align="center">
 
-<h1>Hear2GO</h1>
+<h1>Hear2GO 闻旅</h1>
 
 <h3>Explore places through stories.</h3>
 
