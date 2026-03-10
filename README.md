@@ -284,7 +284,8 @@ WeChat mini program that lets users check the daily Valorant store through a lig
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![API](https://img.shields.io/badge/-API-0EA5E9?style=flat-square)
-![WeChat](https://img.shields.io/badge/-WeChat-07C160?style=flat-square&logo=wechat&logoColor=white)
+![WeChat Mini Program](https://img.shields.io/badge/-WeChat%20Mini%20Program-07C160?style=flat-square&logo=wechat&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 <br>
 <a href="https://github.com/Bailuer/IValorant-api">Open source on GitHub</a>
 <br>&nbsp;
