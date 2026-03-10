@@ -220,12 +220,14 @@ A creative playground where children paint worlds that come alive - flowing rive
 <td width="50%" valign="top">
 &nbsp;<br>
 <strong><big>🍵 ZenCha <span style="color: #9ca3af;">禅茶</span></big></strong><br>
-<sub><kbd>AR INTERACTION</kbd></sub><br><sub>&nbsp;</sub><br>
-Hand-tracked AR tea ceremony experience featuring gesture-based interaction and adaptive ambience.
+<sub><kbd>MINDFUL INTERACTION</kbd></sub><br><sub>&nbsp;</sub><br>
+A three-minute guided tea ritual that transforms stillness into a tactile, embodied experience through gesture, sound, and spatial design.
 
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-![ARKit](https://img.shields.io/badge/-ARKit-111827?style=flat-square)
-![Hand Tracking](https://img.shields.io/badge/-Hand%20Tracking-14B8A6?style=flat-square)
+![SwiftUI](https://img.shields.io/badge/-SwiftUI-0A84FF?style=flat-square)
+![RealityKit](https://img.shields.io/badge/-RealityKit-111827?style=flat-square)
+![AVFoundation](https://img.shields.io/badge/-AVFoundation-6B7280?style=flat-square)
+![CoreHaptics](https://img.shields.io/badge/-CoreHaptics-4B5563?style=flat-square)
 <br>&nbsp;
 </td>
 </tr>
