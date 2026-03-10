@@ -138,7 +138,7 @@ Selected work across AI products, interactive media, and engineering systems.
 <td width="50%" valign="top">
 &nbsp;<br>
 <strong><big>🗺️ Hear2GO <span style="color: #9ca3af;">· 闻旅</span></big></strong><br>
-<sub><kbd>AI PRODUCT</kbd> <kbd>2024-2026</kbd></sub><br><sub>&nbsp;</sub><br>
+<sub><kbd>AI PRODUCT</kbd> <kbd>2024-2026</kbd> <kbd>Released</kbd></sub><br><sub>&nbsp;</sub><br>
 AI-powered cultural travel guide that delivers location-aware storytelling and bilingual narration as you explore new places.
 
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
@@ -161,7 +161,7 @@ AI-powered cultural travel guide that delivers location-aware storytelling and b
 <td width="50%" valign="top">
 &nbsp;<br>
 <strong><big>🎓 Learnova <span style="color: #9ca3af;">· 启明</span></big></strong><br>
-<sub><kbd>AI Learning Companion</kbd> <kbd>2025</kbd></sub><br><sub>&nbsp;</sub><br>
+<sub><kbd>AI Learning Companion</kbd> <kbd>2025</kbd> <kbd>WIP</kbd></sub><br><sub>&nbsp;</sub><br>
 AI-powered study assistant that analyzes exam papers, detects questions from images, tracks mistakes, and generates personalized learning plans.
 
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
@@ -180,7 +180,7 @@ AI-powered study assistant that analyzes exam papers, detects questions from ima
 <td width="50%" valign="top">
 &nbsp;<br>
 <strong><big>📷 Paralumine <span style="color: #9ca3af;">· 摄助</span></big></strong><br>
-<sub><kbd>PHOTO AI</kbd> <kbd>2025</kbd></sub><br><sub>&nbsp;</sub><br>
+<sub><kbd>PHOTO AI</kbd> <kbd>2025</kbd> <kbd>WIP</kbd></sub><br><sub>&nbsp;</sub><br>
 AI-powered photography assistant that analyzes visual references and suggests camera settings, composition, and lighting setups to help recreate professional shots.
 
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
@@ -199,7 +199,7 @@ AI-powered photography assistant that analyzes visual references and suggests ca
 <td width="50%" valign="top">
 &nbsp;<br>
 <strong><big>🧳 Kataware Study Abroad <span style="color: #9ca3af;">· 留学</span></big></strong><br>
-<sub><kbd>KNOWLEDGE ENGINE</kbd> <kbd>2025-2026</kbd></sub><br><sub>&nbsp;</sub><br>
+<sub><kbd>KNOWLEDGE ENGINE</kbd> <kbd>2025-2026</kbd> <kbd>Released</kbd></sub><br><sub>&nbsp;</sub><br>
 Knowledge and workflow engine powering an AI study-abroad assistant, transforming university documents into structured, citation-ready insights for decision support.
 
 ![WeChat Mini Program](https://img.shields.io/badge/-WeChat%20Mini%20Program-07C160?style=flat-square&logo=wechat&logoColor=white)
@@ -220,7 +220,7 @@ Knowledge and workflow engine powering an AI study-abroad assistant, transformin
 <td width="50%" valign="top">
 &nbsp;<br>
 <strong><big>🎬 NovelMotion</big></strong><br>
-<sub><kbd>GENAI STORY ENGINE</kbd> <kbd>2025</kbd></sub><br><sub>&nbsp;</sub><br>
+<sub><kbd>GENAI STORY ENGINE</kbd> <kbd>2025</kbd> <kbd>WIP</kbd></sub><br><sub>&nbsp;</sub><br>
 AI pipeline that converts novel chapters into cinematic motion-anime videos with automated storyboarding, character generation, voice narration, and music composition.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -277,7 +277,7 @@ A three-minute guided tea ritual that transforms stillness into a tactile, embod
 <td width="50%" valign="top">
 &nbsp;<br>
 <strong><big>📚 TaleCraft <span style="color: #9ca3af;">· 绘境</span></big></strong><br>
-<sub><kbd>CREATIVE STORY WORLDS</kbd> <kbd>2026</kbd></sub><br><sub>&nbsp;</sub><br>
+<sub><kbd>CREATIVE STORY WORLDS</kbd> <kbd>2026</kbd> <kbd>WIP</kbd></sub><br><sub>&nbsp;</sub><br>
 A creative playground where children paint worlds that come alive - flowing rivers, swaying forests, and stories generated from the scenes they create.
 
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
@@ -298,7 +298,7 @@ A creative playground where children paint worlds that come alive - flowing rive
 <td width="50%" valign="top">
 &nbsp;<br>
 <strong><big>🙂 EmotionalHelper <span style="color: #9ca3af;">· 情绪管理小帮手</span></big></strong><br>
-<sub><kbd>WELLNESS AI</kbd> <kbd>2022</kbd></sub><br><sub>&nbsp;</sub><br>
+<sub><kbd>WELLNESS AI</kbd> <kbd>2022</kbd> <kbd>Open Source</kbd></sub><br><sub>&nbsp;</sub><br>
 Emotion-aware desktop companion that detects facial expressions via webcam and responds with calming music and voice feedback to support emotional regulation.
 
 ![Tkinter](https://img.shields.io/badge/-Tkinter-0F766E?style=flat-square)
@@ -312,7 +312,7 @@ Emotion-aware desktop companion that detects facial expressions via webcam and r
 <td width="50%" valign="top">
 &nbsp;<br>
 <strong><big>🏝️ ElementFactory ONE <span style="color: #9ca3af;">· 元素工厂</span></big></strong><br>
-<sub><kbd>SCIENCE SANDBOX GAME</kbd> <kbd>2025</kbd></sub><br><sub>&nbsp;</sub><br>
+<sub><kbd>SCIENCE SANDBOX GAME</kbd> <kbd>2025</kbd> <kbd>WIP</kbd></sub><br><sub>&nbsp;</sub><br>
 A science-driven survival sandbox where players build automated systems, explore robotics, and experiment with physics and chemistry through gameplay.
 
 ![Unreal Engine 5](https://img.shields.io/badge/-Unreal%20Engine%205-313131?style=flat-square&logo=unrealengine&logoColor=white)
@@ -337,7 +337,7 @@ A science-driven survival sandbox where players build automated systems, explore
 <td width="50%" valign="top">
 &nbsp;<br>
 <strong><big>🧼 Smart Disinfection Cutlery Box <span style="color: #9ca3af;">· 智能消毒餐具盒</span></big></strong><br>
-<sub><kbd>IOT HARDWARE</kbd> <kbd>2023</kbd></sub><br><sub>&nbsp;</sub><br>
+<sub><kbd>IOT HARDWARE</kbd> <kbd>2023</kbd> <kbd>Open Source</kbd></sub><br><sub>&nbsp;</sub><br>
 ESP32-based smart cutlery sterilization device featuring UV and ozone disinfection, PIR human-presence safety detection, an OLED countdown display, and remote monitoring via the Blinker IoT platform.
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -355,7 +355,7 @@ ESP32-based smart cutlery sterilization device featuring UV and ozone disinfecti
 <td width="50%" valign="top">
 &nbsp;<br>
 <strong><big>🖥️ Holographic Media Center <span style="color: #9ca3af;">· 全息投影媒体中心</span></big></strong><br>
-<sub><kbd>CREATIVE UI</kbd> <kbd>2026</kbd></sub><br><sub>&nbsp;</sub><br>
+<sub><kbd>CREATIVE UI</kbd> <kbd>2026</kbd> <kbd>Open Source</kbd></sub><br><sub>&nbsp;</sub><br>
 Embedded media interface built for a 240×240 holographic display, delivering a themed UI and lightweight interactive experiences through a kiosk-based system.
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -372,7 +372,7 @@ Embedded media interface built for a 240×240 holographic display, delivering a 
 <td width="50%" valign="top">
 &nbsp;<br>
 <strong><big>📦 RMP Exporter</big></strong><br>
-<sub><kbd>UTILITY MOD</kbd> <kbd>2025</kbd></sub><br><sub>&nbsp;</sub><br>
+<sub><kbd>UTILITY MOD</kbd> <kbd>2025</kbd> <kbd>WIP</kbd></sub><br><sub>&nbsp;</sub><br>
 Tool for Cities: Skylines II that exports in-game transit lines into Rail Map Toolkit-compatible JSON for map visualization and sharing.
 
 ![C#](https://img.shields.io/badge/-C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
@@ -386,7 +386,7 @@ Tool for Cities: Skylines II that exports in-game transit lines into Rail Map To
 <td width="50%" valign="top">
 &nbsp;<br>
 <strong><big>🛒 IValorant API <span style="color: #9ca3af;">· 瓦爱小店</span></big></strong><br>
-<sub><kbd>GAMING BACKEND</kbd> <kbd>2022</kbd></sub><br><sub>&nbsp;</sub><br>
+<sub><kbd>GAMING BACKEND</kbd> <kbd>2022</kbd> <kbd>Released / Open Source</kbd></sub><br><sub>&nbsp;</sub><br>
 WeChat mini program that lets users check the daily Valorant store through a lightweight backend-powered query workflow.
 
 ![WeChat Mini Program](https://img.shields.io/badge/-WeChat%20Mini%20Program-07C160?style=flat-square&logo=wechat&logoColor=white)
