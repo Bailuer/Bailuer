@@ -20,21 +20,21 @@
 
 ---
 
-## 📱 Featured Projects
+# 📱 Featured Projects
 
 <div align="center">
 
-<h2>Hear2GO</h2>
+<h1>Hear2GO</h1>
 
-<p><strong>Explore places through stories.</strong></p>
+<h3>Explore places through stories.</h3>
 
-<p><sub>An AI-powered cultural travel guide built around maps, location awareness, and contextual storytelling.</sub></p>
+<p>An AI-powered cultural travel guide built around maps, location awareness, and contextual storytelling.</p>
 
 <p>
   <a href="https://apps.apple.com/app/hear2go/id6752223086"><img src="assets/app-store-badge.svg" alt="Download on the App Store" height="40" /></a>
 </p>
 
-<p><sub><a href="https://sanomachine.com">Website</a> · <a href="https://apps.apple.com/app/hear2go/id6752223086">App Store</a></sub></p>
+<p><a href="https://sanomachine.com">Website</a> · <a href="https://apps.apple.com/app/hear2go/id6752223086">App Store</a></p>
 
 </div>
 
