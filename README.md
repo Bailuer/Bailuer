@@ -9,23 +9,41 @@
   <a href="https://apps.apple.com/app/hear2go/id6752223086"><img src="https://img.shields.io/badge/Hear2GO-App%20Store-0A84FF?style=for-the-badge&logo=appstore&logoColor=white" alt="Hear2GO App Store" /></a>
 </p>
 
-<p>
-  I am a high school student passionate about <b>Computer Science</b>, <b>Robotics &amp; Mechatronics</b>, and <b>AI-driven creative products</b>.
-</p>
-
-<p>
-  I enjoy building projects where software, hardware, and design come together to solve real-world problems.
-</p>
-
 </div>
+
+---
+
+I am a high school student passionate about Computer Science, Robotics & Mechatronics, and AI-driven creative products.
+
+I enjoy building projects where software, hardware, and design come together to solve real-world problems. 🚀
 
 ---
 
 ## 🌟 About Me
 
-- 📚 Studying toward **A-Levels** and preparing for **Robotics/Computer Science** university programs
-- 🛠️ Building products across **Flutter apps**, **embedded systems**, and **AI workflows**
-- 🌍 Interested in **education tech**, **cultural storytelling**, and **human-centered engineering**
+📚 Education
+
+Studying toward A-Levels and preparing for university programs in Robotics and Computer Science.
+
+<br>
+
+🛠 What I Build
+
+- Flutter mobile apps
+- Embedded systems & hardware prototypes
+- AI-powered tools and creative software
+
+<br>
+
+🌍 Interests
+
+- Education technology
+- Cultural storytelling
+- Human-centered engineering
+
+---
+
+⭐ Always curious. Always building.
 
 ---
 
