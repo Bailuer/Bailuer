@@ -262,8 +262,16 @@ A three-minute guided tea ritual that transforms stillness into a tactile, embod
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/-SwiftUI-0A84FF?style=flat-square)
 ![RealityKit](https://img.shields.io/badge/-RealityKit-111827?style=flat-square)
+![ARView (.nonAR mode)](https://img.shields.io/badge/-ARView%20%28.nonAR%20mode%29-374151?style=flat-square)
+![USDZ](https://img.shields.io/badge/-USDZ-111827?style=flat-square&logo=apple&logoColor=white)
 ![AVFoundation](https://img.shields.io/badge/-AVFoundation-6B7280?style=flat-square)
 ![CoreHaptics](https://img.shields.io/badge/-CoreHaptics-4B5563?style=flat-square)
+![UIAccessibility](https://img.shields.io/badge/-UIAccessibility-2563EB?style=flat-square)
+![Observation](https://img.shields.io/badge/-Observation-7C3AED?style=flat-square)
+![SIMD Math](https://img.shields.io/badge/-SIMD%20Math-0F766E?style=flat-square)
+![SF Symbols](https://img.shields.io/badge/-SF%20Symbols-111827?style=flat-square&logo=apple&logoColor=white)
+![iOS / iPadOS 26](https://img.shields.io/badge/-iOS%20%2F%20iPadOS%2026-000000?style=flat-square&logo=apple&logoColor=white)
+![Liquid Glass](https://img.shields.io/badge/-Liquid%20Glass-38BDF8?style=flat-square)
 <br>&nbsp;
 </td>
 <td width="50%" valign="top">
