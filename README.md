@@ -185,7 +185,7 @@ AI-powered photography assistant that analyzes visual references and suggests ca
 <td width="50%" valign="top">
 &nbsp;<br>
 <strong><big>🧳 Kataware Study Abroad <span style="color: #9ca3af;">· 留学</span></big></strong><br>
-<sub><kbd>KNOWLEDGE ENGINE</kbd> <kbd>2026</kbd></sub><br><sub>&nbsp;</sub><br>
+<sub><kbd>KNOWLEDGE ENGINE</kbd> <kbd>2025-2026</kbd></sub><br><sub>&nbsp;</sub><br>
 Knowledge and workflow engine powering an AI study-abroad assistant, transforming university documents into structured, citation-ready insights for decision support.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
