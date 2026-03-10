@@ -145,6 +145,7 @@ AI-powered cultural travel guide that delivers location-aware storytelling and b
 ![Maps API](https://img.shields.io/badge/-Maps%20API-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
 ![Gemini](https://img.shields.io/badge/-Gemini-886FBF?style=flat-square&logo=google&logoColor=white)
 ![DeepSeek](https://img.shields.io/badge/-DeepSeek-1E3A8A?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik03IDVoNWE3IDcgMCAxIDEgMCAxNEg3Wm0zIDN2OGgyYTQgNCAwIDEgMCAwLThaIi8+PC9zdmc+&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 <a href="https://apps.apple.com/app/hear2go/id6752223086"><img src="assets/app-store-badge.svg" alt="Download on the App Store" height="60" /></a>
 <br>&nbsp;
@@ -160,6 +161,7 @@ AI-powered study assistant that analyzes exam papers, detects questions from ima
 ![Gemini](https://img.shields.io/badge/-Gemini-886FBF?style=flat-square&logo=google&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 <br>&nbsp;
 </td>
 </tr>
@@ -174,6 +176,7 @@ AI-powered photography assistant that analyzes visual references and suggests ca
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Gemini](https://img.shields.io/badge/-Gemini-886FBF?style=flat-square&logo=google&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 <br>
 <a href="https://github.com/Bailuer/Paralumine">Open source on GitHub</a>
 <br>&nbsp;
@@ -192,6 +195,7 @@ Knowledge and workflow engine powering an AI study-abroad assistant, transformin
 ![Data Pipeline](https://img.shields.io/badge/-Data%20Pipeline-0284C7?style=flat-square)
 ![WeChat Mini Program](https://img.shields.io/badge/-WeChat%20Mini%20Program-07C160?style=flat-square&logo=wechat&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 <br>&nbsp;
 </td>
 </tr>
