@@ -312,7 +312,7 @@ Emotion-aware desktop companion that detects facial expressions via webcam and r
 <td width="50%" valign="top">
 &nbsp;<br>
 <strong><big>🏝️ ElementFactory ONE <span style="color: #9ca3af;">· 元素工厂</span></big></strong><br>
-<sub><kbd>SCIENCE SANDBOX GAME</kbd> <kbd>2025</kbd> <kbd>WIP</kbd></sub><br><sub>&nbsp;</sub><br>
+<sub><kbd>SCIENCE SANDBOX GAME</kbd> <kbd>2025</kbd> <kbd>Prototype</kbd></sub><br><sub>&nbsp;</sub><br>
 A science-driven survival sandbox where players build automated systems, explore robotics, and experiment with physics and chemistry through gameplay.
 
 ![Unreal Engine 5](https://img.shields.io/badge/-Unreal%20Engine%205-313131?style=flat-square&logo=unrealengine&logoColor=white)
