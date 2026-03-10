@@ -160,19 +160,21 @@ AI-powered cultural travel guide that delivers location-aware storytelling and b
 </td>
 <td width="50%" valign="top">
 &nbsp;<br>
-<strong><big>🎓 Learnova <span style="color: #9ca3af;">· 启明</span></big></strong><br>
-<sub><kbd>AI Learning Companion</kbd> <kbd>2025</kbd> <kbd>WIP</kbd></sub><br><sub>&nbsp;</sub><br>
-AI-powered study assistant that analyzes exam papers, detects questions from images, tracks mistakes, and generates personalized learning plans.
+<strong><big>🧳 Kataware Study Abroad <span style="color: #9ca3af;">· 留学</span></big></strong><br>
+<sub><kbd>KNOWLEDGE ENGINE</kbd> <kbd>2025-2026</kbd> <kbd>Released</kbd></sub><br><sub>&nbsp;</sub><br>
+Knowledge and workflow engine powering an AI study-abroad assistant, transforming university documents into structured, citation-ready insights for decision support.
 
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![WeChat Mini Program](https://img.shields.io/badge/-WeChat%20Mini%20Program-07C160?style=flat-square&logo=wechat&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Gemini](https://img.shields.io/badge/-Gemini-886FBF?style=flat-square&logo=google&logoColor=white)
-![AI Agents](https://img.shields.io/badge/-AI%20Agents-7C3AED?style=flat-square)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Image Processing](https://img.shields.io/badge/-Image%20Processing-DC2626?style=flat-square)
+![DeepSeek](https://img.shields.io/badge/-DeepSeek-1E3A8A?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik03IDVoNWE3IDcgMCAxIDEgMCAxNEg3Wm0zIDN2OGgyYTQgNCAwIDEgMCAwLThaIi8+PC9zdmc+&logoColor=white)
+![RAG](https://img.shields.io/badge/-RAG-4F46E5?style=flat-square)
+![pgvector](https://img.shields.io/badge/-pgvector-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Data Pipeline](https://img.shields.io/badge/-Data%20Pipeline-0284C7?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Metabase](https://img.shields.io/badge/-Metabase-509EE3?style=flat-square)
 <br>&nbsp;
 </td>
 </tr>
@@ -198,21 +200,19 @@ AI-powered photography assistant that analyzes visual references and suggests ca
 </td>
 <td width="50%" valign="top">
 &nbsp;<br>
-<strong><big>🧳 Kataware Study Abroad <span style="color: #9ca3af;">· 留学</span></big></strong><br>
-<sub><kbd>KNOWLEDGE ENGINE</kbd> <kbd>2025-2026</kbd> <kbd>Released</kbd></sub><br><sub>&nbsp;</sub><br>
-Knowledge and workflow engine powering an AI study-abroad assistant, transforming university documents into structured, citation-ready insights for decision support.
+<strong><big>🎓 Learnova <span style="color: #9ca3af;">· 启明</span></big></strong><br>
+<sub><kbd>AI Learning Companion</kbd> <kbd>2025</kbd> <kbd>WIP</kbd></sub><br><sub>&nbsp;</sub><br>
+AI-powered study assistant that analyzes exam papers, detects questions from images, tracks mistakes, and generates personalized learning plans.
 
-![WeChat Mini Program](https://img.shields.io/badge/-WeChat%20Mini%20Program-07C160?style=flat-square&logo=wechat&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![DeepSeek](https://img.shields.io/badge/-DeepSeek-1E3A8A?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik03IDVoNWE3IDcgMCAxIDEgMCAxNEg3Wm0zIDN2OGgyYTQgNCAwIDEgMCAwLThaIi8+PC9zdmc+&logoColor=white)
-![RAG](https://img.shields.io/badge/-RAG-4F46E5?style=flat-square)
-![pgvector](https://img.shields.io/badge/-pgvector-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Data Pipeline](https://img.shields.io/badge/-Data%20Pipeline-0284C7?style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Gemini](https://img.shields.io/badge/-Gemini-886FBF?style=flat-square&logo=google&logoColor=white)
+![AI Agents](https://img.shields.io/badge/-AI%20Agents-7C3AED?style=flat-square)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Image Processing](https://img.shields.io/badge/-Image%20Processing-DC2626?style=flat-square)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Metabase](https://img.shields.io/badge/-Metabase-509EE3?style=flat-square)
 <br>&nbsp;
 </td>
 </tr>
