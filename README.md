@@ -20,7 +20,7 @@
 
 ---
 
-## 📱 Featured Projects
+## 📱 Hear2GO
 
 <div align="center">
 
