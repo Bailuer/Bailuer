@@ -310,11 +310,6 @@ Emotion-aware desktop companion that detects facial expressions via webcam and r
 <br>&nbsp;
 </td>
 <td width="50%" valign="top">
-&nbsp;<br><br>&nbsp;
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 &nbsp;<br>
 <strong><big>🏝️ ElementFactory ONE <span style="color: #9ca3af;">· 元素工厂</span></big></strong><br>
 <sub><kbd>SCIENCE SANDBOX GAME</kbd> <kbd>2025</kbd></sub><br><sub>&nbsp;</sub><br>
@@ -324,20 +319,6 @@ A science-driven survival sandbox where players build automated systems, explore
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Blueprints](https://img.shields.io/badge/-Blueprints-1F6FEB?style=flat-square)
 ![Simulation Systems](https://img.shields.io/badge/-Simulation%20Systems-0F766E?style=flat-square)
-<br>&nbsp;
-</td>
-<td width="50%" valign="top">
-&nbsp;<br>
-<strong><big>🛒 IValorant API <span style="color: #9ca3af;">· 瓦爱小店</span></big></strong><br>
-<sub><kbd>GAMING BACKEND</kbd> <kbd>2022</kbd></sub><br><sub>&nbsp;</sub><br>
-WeChat mini program that lets users check the daily Valorant store through a lightweight backend-powered query workflow.
-
-![WeChat Mini Program](https://img.shields.io/badge/-WeChat%20Mini%20Program-07C160?style=flat-square&logo=wechat&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![API](https://img.shields.io/badge/-API-0EA5E9?style=flat-square)
-<br>
-<a href="https://github.com/Bailuer/IValorant-api">Open source on GitHub</a>
 <br>&nbsp;
 </td>
 </tr>
@@ -401,7 +382,18 @@ Tool for Cities: Skylines II that exports in-game transit lines into Rail Map To
 <br>&nbsp;
 </td>
 <td width="50%" valign="top">
-&nbsp;<br><br>&nbsp;
+&nbsp;<br>
+<strong><big>🛒 IValorant API <span style="color: #9ca3af;">· 瓦爱小店</span></big></strong><br>
+<sub><kbd>GAMING BACKEND</kbd> <kbd>2022</kbd></sub><br><sub>&nbsp;</sub><br>
+WeChat mini program that lets users check the daily Valorant store through a lightweight backend-powered query workflow.
+
+![WeChat Mini Program](https://img.shields.io/badge/-WeChat%20Mini%20Program-07C160?style=flat-square&logo=wechat&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![API](https://img.shields.io/badge/-API-0EA5E9?style=flat-square)
+<br>
+<a href="https://github.com/Bailuer/IValorant-api">Open source on GitHub</a>
+<br>&nbsp;
 </td>
 </tr>
 </table>
