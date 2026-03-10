@@ -266,13 +266,14 @@ Embedded media interface built for a 240×240 holographic display, delivering a 
 <tr>
 <td width="50%" valign="top">
 &nbsp;<br>
-<strong><big>🏝️ ElementFactory ONE <span style="color: #9ca3af;">元素工厂</span></big></strong><br>
-<sub><kbd>UE5 GAME</kbd></sub><br><sub>&nbsp;</sub><br>
-Educational survival sandbox game built in Unreal Engine, exploring robotics, automation, and science-based systems.
+<strong><big>🏝️ ElementFactory ONE <span style="color: #9ca3af;">· 元素工厂</span></big></strong><br>
+<sub><kbd>SCIENCE SANDBOX GAME</kbd></sub><br><sub>&nbsp;</sub><br>
+A science-driven survival sandbox where players build automated systems, explore robotics, and experiment with physics and chemistry through gameplay.
 
 ![Unreal Engine 5](https://img.shields.io/badge/-Unreal%20Engine%205-313131?style=flat-square&logo=unrealengine&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Blueprints](https://img.shields.io/badge/-Blueprints-1F6FEB?style=flat-square)
+![Simulation Systems](https://img.shields.io/badge/-Simulation%20Systems-0F766E?style=flat-square)
 <br>&nbsp;
 </td>
 <td width="50%" valign="top">
