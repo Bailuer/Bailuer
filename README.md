@@ -242,6 +242,8 @@ AI pipeline that transforms novel chapters into animated short films through aut
 ![Stable Diffusion](https://img.shields.io/badge/-Stable%20Diffusion-FF9500?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Im0xMiA0IDIgNCA0IC41LTMgMyAuOCA0LjUtMy44LTItMy44IDIgLjgtNC41LTMtMyA0LS41Wm0tNiAxMmg1djJINlptNyAwaDV2MmgtNVoiLz48L3N2Zz4=&logoColor=white)
 ![LLM](https://img.shields.io/badge/-LLM-6D28D9?style=flat-square)
 ![FFmpeg](https://img.shields.io/badge/-FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
+<br>
+<a href="https://github.com/Bailuer/NovelMotion">Open source on GitHub</a>
 <br>&nbsp;
 </td>
 <td width="50%" valign="top">
@@ -253,6 +255,8 @@ Desktop-style media hub designed for a 240×240 holographic display, featuring t
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+<br>
+<a href="https://github.com/Bailuer/HolographicMediaCenter">Open source on GitHub</a>
 <br>&nbsp;
 </td>
 </tr>
@@ -277,6 +281,8 @@ Backend service that retrieves daily Valorant store information for integration 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![API](https://img.shields.io/badge/-API-0EA5E9?style=flat-square)
 ![WeChat](https://img.shields.io/badge/-WeChat-07C160?style=flat-square&logo=wechat&logoColor=white)
+<br>
+<a href="https://github.com/Bailuer/IValorant-api">Open source on GitHub</a>
 <br>&nbsp;
 </td>
 </tr>
@@ -300,6 +306,8 @@ ESP32-based smart disinfection box with OLED countdown display, PIR safety detec
 ![ESP32](https://img.shields.io/badge/-ESP32-000000?style=flat-square&logo=espressif&logoColor=white)
 ![EasyEDA](https://img.shields.io/badge/-EasyEDA-FF6A00?style=flat-square)
 ![WeChat Mini Program](https://img.shields.io/badge/-WeChat%20Mini%20Program-07C160?style=flat-square&logo=wechat&logoColor=white)
+<br>
+<a href="https://github.com/Bailuer/SmartDisinfectionCutleryBox">Open source on GitHub</a>
 <br>&nbsp;
 </td>
 <td width="50%" valign="top">
@@ -311,6 +319,8 @@ Emotion-aware desktop assistant that analyzes webcam input and generates calming
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Baidu AI](https://img.shields.io/badge/-Baidu%20AI-1D4ED8?style=flat-square)
+<br>
+<a href="https://github.com/Bailuer/EmotionalHelper">Open source on GitHub</a>
 <br>&nbsp;
 </td>
 </tr>
@@ -323,6 +333,8 @@ Structured export utility built in C# for handling automated export workflows an
 
 ![C#](https://img.shields.io/badge/-C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+<br>
+<a href="https://github.com/Bailuer/RmpExporter">Open source on GitHub</a>
 <br>&nbsp;
 </td>
 <td width="50%" valign="top">
