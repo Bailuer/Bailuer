@@ -216,6 +216,33 @@ Knowledge and workflow engine powering an AI study-abroad assistant, transformin
 <br>&nbsp;
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+&nbsp;<br>
+<strong><big>🎬 NovelMotion</big></strong><br>
+<sub><kbd>GENAI STORY ENGINE</kbd> <kbd>2025</kbd></sub><br><sub>&nbsp;</sub><br>
+AI pipeline that converts novel chapters into cinematic motion-anime videos with automated storyboarding, character generation, voice narration, and music composition.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Diffusers](https://img.shields.io/badge/-Diffusers-F59E0B?style=flat-square)
+![Stable Diffusion](https://img.shields.io/badge/-Stable%20Diffusion-FF9500?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Im0xMiA0IDIgNCA0IC41LTMgMyAuOCA0LjUtMy44LTItMy44IDIgLjgtNC41LTMtMyA0LS41Wm0tNiAxMmg1djJINlptNyAwaDV2MmgtNVoiLz48L3N2Zz4=&logoColor=white)
+![AnimateDiff](https://img.shields.io/badge/-AnimateDiff-DC2626?style=flat-square)
+![Gemini](https://img.shields.io/badge/-Gemini-886FBF?style=flat-square&logo=google&logoColor=white)
+![Aliyun TTS](https://img.shields.io/badge/-Aliyun%20TTS-FF6A00?style=flat-square&logo=alibabacloud&logoColor=white)
+![Suno AI](https://img.shields.io/badge/-Suno%20AI-111827?style=flat-square)
+![FFmpeg](https://img.shields.io/badge/-FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![PIL](https://img.shields.io/badge/-PIL-0F766E?style=flat-square)
+![MoviePy](https://img.shields.io/badge/-MoviePy-2563EB?style=flat-square)
+<br>
+<a href="https://github.com/Bailuer/NovelMotion">Open source on GitHub</a>
+<br>&nbsp;
+</td>
+<td width="50%" valign="top">
+&nbsp;<br><br>&nbsp;
+</td>
+</tr>
 </table>
 
 ### 🎨 Interactive & Media
@@ -262,28 +289,6 @@ A creative playground where children paint worlds that come alive - flowing rive
 <tr>
 <td width="50%" valign="top">
 &nbsp;<br>
-<strong><big>🎬 NovelMotion</big></strong><br>
-<sub><kbd>GENAI STORY ENGINE</kbd> <kbd>2025</kbd></sub><br><sub>&nbsp;</sub><br>
-AI pipeline that converts novel chapters into cinematic motion-anime videos with automated storyboarding, character generation, voice narration, and music composition.
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Diffusers](https://img.shields.io/badge/-Diffusers-F59E0B?style=flat-square)
-![Stable Diffusion](https://img.shields.io/badge/-Stable%20Diffusion-FF9500?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Im0xMiA0IDIgNCA0IC41LTMgMyAuOCA0LjUtMy44LTItMy44IDIgLjgtNC41LTMtMyA0LS41Wm0tNiAxMmg1djJINlptNyAwaDV2MmgtNVoiLz48L3N2Zz4=&logoColor=white)
-![AnimateDiff](https://img.shields.io/badge/-AnimateDiff-DC2626?style=flat-square)
-![Gemini](https://img.shields.io/badge/-Gemini-886FBF?style=flat-square&logo=google&logoColor=white)
-![Aliyun TTS](https://img.shields.io/badge/-Aliyun%20TTS-FF6A00?style=flat-square&logo=alibabacloud&logoColor=white)
-![Suno AI](https://img.shields.io/badge/-Suno%20AI-111827?style=flat-square)
-![FFmpeg](https://img.shields.io/badge/-FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![PIL](https://img.shields.io/badge/-PIL-0F766E?style=flat-square)
-![MoviePy](https://img.shields.io/badge/-MoviePy-2563EB?style=flat-square)
-<br>
-<a href="https://github.com/Bailuer/NovelMotion">Open source on GitHub</a>
-<br>&nbsp;
-</td>
-<td width="50%" valign="top">
-&nbsp;<br>
 <strong><big>🙂 EmotionalHelper <span style="color: #9ca3af;">· 情绪管理小帮手</span></big></strong><br>
 <sub><kbd>WELLNESS AI</kbd> <kbd>2022</kbd></sub><br><sub>&nbsp;</sub><br>
 Emotion-aware desktop companion that detects facial expressions via webcam and responds with calming music and voice feedback to support emotional regulation.
@@ -295,6 +300,9 @@ Emotion-aware desktop companion that detects facial expressions via webcam and r
 <br>
 <a href="https://github.com/Bailuer/EmotionalHelper">Open source on GitHub</a>
 <br>&nbsp;
+</td>
+<td width="50%" valign="top">
+&nbsp;<br><br>&nbsp;
 </td>
 </tr>
 <tr>
