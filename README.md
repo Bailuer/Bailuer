@@ -189,8 +189,13 @@ AI-powered photography assistant that analyzes visual references and suggests ca
 
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Gemini](https://img.shields.io/badge/-Gemini-886FBF?style=flat-square&logo=google&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Image Processing](https://img.shields.io/badge/-Image%20Processing-DC2626?style=flat-square)
+![AI Agents](https://img.shields.io/badge/-AI%20Agents-7C3AED?style=flat-square)
+![REST API](https://img.shields.io/badge/-REST%20API-0F766E?style=flat-square)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 <br>
 <a href="https://github.com/Bailuer/Paralumine">Open source on GitHub</a>
