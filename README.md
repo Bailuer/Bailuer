@@ -161,7 +161,7 @@ AI-powered study assistant that analyzes exam papers, detects questions from ima
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-2563EB?style=flat-square)
 <br>
-<sub><a href="https://github.com/Bailuer/Learnova">Open source on GitHub</a></sub>
+<a href="https://github.com/Bailuer/Learnova">Open source on GitHub</a>
 <br>&nbsp;
 </td>
 </tr>
