@@ -89,6 +89,7 @@ Currently studying toward <strong>A-Levels</strong>, preparing for university pr
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ### 🤖 AI & Creative Tools
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-412991?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAzIDUgN3YxMGw3IDQgNy00VjdabTAgMi4zIDUgMi45djUuNmwtNSAyLjktNS0yLjlWOC4yWm0tMi43IDMuMiAxLjQtLjggMS4zLjh2MS41bC0xLjMuOC0xLjQtLjhabTQuNyAwIDEuNC0uOCAxLjMuOHYxLjVsLTEuMy44LTEuNC0uOFptLTIuMzUgNC4xIDEuMzUtLjggMS4zNS44djEuNWwtMS4zNS44LTEuMzUtLjhaIi8+PC9zdmc+&logoColor=white)
