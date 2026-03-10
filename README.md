@@ -228,7 +228,7 @@ Knowledge and workflow engine powering an AI study-abroad assistant, transformin
 <tr>
 <td width="50%" valign="top">
 &nbsp;<br>
-<strong><big>📚 TaleCraft</big></strong><br>
+<strong><big>📚 TaleCraft <span style="color: #9ca3af;">· 绘境</span></big></strong><br>
 <sub><kbd>CREATIVE STORY WORLDS</kbd> <kbd>2026</kbd></sub><br><sub>&nbsp;</sub><br>
 A creative playground where children paint worlds that come alive - flowing rivers, swaying forests, and stories generated from the scenes they create.
 
