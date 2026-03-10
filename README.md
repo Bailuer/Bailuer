@@ -298,7 +298,7 @@ A creative playground where children paint worlds that come alive - flowing rive
 <td width="50%" valign="top">
 &nbsp;<br>
 <strong><big>🙂 EmotionalHelper <span style="color: #9ca3af;">· 情绪管理小帮手</span></big></strong><br>
-<sub><kbd>WELLNESS AI</kbd> <kbd>2022</kbd> <kbd>Open Source</kbd> <kbd>🥈 Second Prize — 2023 Future Cup Shanghai High School Science & Technology Innovation Competition</kbd></sub><br><sub>&nbsp;</sub><br>
+<sub><kbd>WELLNESS AI</kbd> <kbd>2022</kbd> <kbd>Open Source</kbd></sub><br><sub><kbd>🥈 Second Prize - 2023 Future Cup Shanghai High School Science & Technology Innovation Competition</kbd></sub><br><sub>&nbsp;</sub><br>
 Emotion-aware desktop companion that detects facial expressions via webcam and responds with calming music and voice feedback to support emotional regulation.
 
 ![Tkinter](https://img.shields.io/badge/-Tkinter-0F766E?style=flat-square)
@@ -337,7 +337,7 @@ A science-driven survival sandbox where players build automated systems, explore
 <td width="50%" valign="top">
 &nbsp;<br>
 <strong><big>🧼 Smart Disinfection Cutlery Box <span style="color: #9ca3af;">· 智能消毒餐具盒</span></big></strong><br>
-<sub><kbd>IOT HARDWARE</kbd> <kbd>2023</kbd> <kbd>Open Source</kbd> <kbd>🥇 Shanghai First Prize & "Future Engineer of Shanghai" Title - 20th Shanghai Future Engineer Competition</kbd> <kbd>🥇 First Prize - Minhang District Selection</kbd></sub><br><sub>&nbsp;</sub><br>
+<sub><kbd>IOT HARDWARE</kbd> <kbd>2023</kbd> <kbd>Open Source</kbd></sub><br><sub><kbd>🥇 Shanghai First Prize & "Future Engineer of Shanghai" Title - 20th Shanghai Future Engineer Competition</kbd> <kbd>🥇 First Prize - Minhang District Selection</kbd></sub><br><sub>&nbsp;</sub><br>
 ESP32-based smart cutlery sterilization device featuring UV and ozone disinfection, PIR human-presence safety detection, an OLED countdown display, and remote monitoring via the Blinker IoT platform.
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
