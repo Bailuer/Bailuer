@@ -379,7 +379,7 @@ Embedded media interface built for a 240×240 holographic display, delivering a 
 <tr>
 <td width="50%" valign="top">
 &nbsp;<br>
-<strong><big>📦 RMP Exporter</big></strong><br>
+<strong><big>📦 RMP Exporter | Cities: Skylines II</big></strong><br>
 <sub><kbd>UTILITY MOD</kbd> <kbd>2025</kbd> <kbd>WIP</kbd></sub><br><sub>&nbsp;</sub><br>
 Tool for Cities: Skylines II that exports in-game transit lines into Rail Map Toolkit-compatible JSON for map visualization and sharing.
 
