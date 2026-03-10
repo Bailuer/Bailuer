@@ -251,11 +251,13 @@ AI pipeline that converts novel chapters into cinematic motion-anime videos with
 &nbsp;<br>
 <strong><big>🖥️ Holographic Media Center <span style="color: #9ca3af;">全息投影媒体中心</span></big></strong><br>
 <sub><kbd>CREATIVE UI</kbd></sub><br><sub>&nbsp;</sub><br>
-Desktop-style media hub designed for a 240×240 holographic display, featuring themed UI and mini interactive experiences.
+Embedded media interface built for a 240×240 holographic display, delivering a themed UI and lightweight interactive experiences through a kiosk-based system.
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![Chromium Kiosk](https://img.shields.io/badge/-Chromium%20Kiosk-1D4ED8?style=flat-square&logo=googlechrome&logoColor=white)
 <br>
 <a href="https://github.com/Bailuer/HolographicMediaCenter">Open source on GitHub</a>
 <br>&nbsp;
