@@ -132,6 +132,10 @@ Selected projects across AI products, interactive media, and engineering.
 <tr>
 <td width="50%" valign="top">
 
+<table width="100%">
+<tr>
+<td valign="top">
+
 #### 🗺️ Hear2GO 闻旅
 **AI PRODUCT**
 
@@ -146,7 +150,15 @@ AI-powered cultural travel guide
 📱 [App Store](https://apps.apple.com/app/hear2go/id6752223086)
 
 </td>
+</tr>
+</table>
+
+</td>
 <td width="50%" valign="top">
+
+<table width="100%">
+<tr>
+<td valign="top">
 
 #### 🎓 Learnova
 **AI TUTOR**
@@ -160,8 +172,16 @@ AI-driven personal tutor system
 
 </td>
 </tr>
+</table>
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
+
+<table width="100%">
+<tr>
+<td valign="top">
 
 #### 📷 Paralumine
 **PHOTO AI**
@@ -174,7 +194,15 @@ AI-powered photography assistant
 ![AI](https://img.shields.io/badge/-AI-7C3AED?style=flat-square)
 
 </td>
+</tr>
+</table>
+
+</td>
 <td width="50%" valign="top">
+
+<table width="100%">
+<tr>
+<td valign="top">
 
 #### 🧳 KatawareStudyAbroad
 **KNOWLEDGE ENGINE**
@@ -186,6 +214,10 @@ Study-abroad workflow + knowledge engine
 ![WeChat](https://img.shields.io/badge/-WeChat-07C160?style=flat-square&logo=wechat&logoColor=white)
 ![RAG](https://img.shields.io/badge/-RAG-4F46E5?style=flat-square)
 ![Data Pipeline](https://img.shields.io/badge/-Data%20Pipeline-0284C7?style=flat-square)
+
+</td>
+</tr>
+</table>
 
 </td>
 </tr>
