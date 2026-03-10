@@ -80,18 +80,18 @@ Currently studying toward A-Levels, preparing for university programs in Robotic
 
 ### 🤖 AI & Creative Tools
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-412991?style=flat-square&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/-Claude-CC785C?style=flat-square)
+![Claude](https://img.shields.io/badge/-Claude-CC785C?style=flat-square&logo=anthropic&logoColor=white)
 ![Gemini](https://img.shields.io/badge/-Gemini-886FBF?style=flat-square&logo=google&logoColor=white)
-![DeepSeek](https://img.shields.io/badge/-DeepSeek-1E3A8A?style=flat-square)
-![Stable Diffusion](https://img.shields.io/badge/-Stable%20Diffusion-FF9500?style=flat-square)
+![DeepSeek](https://img.shields.io/badge/-DeepSeek-1E3A8A?style=flat-square&logo=deepseek&logoColor=white)
+![Stable Diffusion](https://img.shields.io/badge/-Stable%20Diffusion-FF9500?style=flat-square&logo=stabilityai&logoColor=white)
 ![FFmpeg](https://img.shields.io/badge/-FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
 
 ### ⚙️ Hardware & Engineering
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
-![ESP32](https://img.shields.io/badge/-ESP32-000000?style=flat-square)
-![PCB/EDA](https://img.shields.io/badge/-PCB%2FEDA-00796B?style=flat-square)
-![SolidWorks](https://img.shields.io/badge/-SolidWorks-E2231A?style=flat-square)
+![ESP32](https://img.shields.io/badge/-ESP32-000000?style=flat-square&logo=espressif&logoColor=white)
+![PCB/EDA](https://img.shields.io/badge/-PCB%2FEDA-00796B?style=flat-square&logo=kicad&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/-SolidWorks-E2231A?style=flat-square&logo=dassaultsystemes&logoColor=white)
 ![SketchUp](https://img.shields.io/badge/-SketchUp-005F9E?style=flat-square&logo=sketchup&logoColor=white)
 
 </div>
