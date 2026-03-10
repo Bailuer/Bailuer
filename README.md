@@ -152,12 +152,15 @@ AI-powered cultural travel guide that delivers location-aware storytelling and b
 <td width="50%" valign="top">
 &nbsp;<br>
 <strong><big>🎓 Learnova</big></strong><br>
-<sub><kbd>AI TUTOR</kbd></sub><br><sub>&nbsp;</sub><br>
-AI-driven personal tutor system for learning planning, focus tracking, and structured progress management.
+<sub><kbd>AI Learning Companion</kbd></sub><br><sub>&nbsp;</sub><br>
+AI-powered study assistant that analyzes exam papers, detects questions from images, tracks mistakes, and generates personalized learning plans.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![AI](https://img.shields.io/badge/-AI-7C3AED?style=flat-square)
-![EdTech](https://img.shields.io/badge/-EdTech-0EA5E9?style=flat-square)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Gemini](https://img.shields.io/badge/-Gemini-886FBF?style=flat-square&logo=google&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-2563EB?style=flat-square)
+![AI Agents](https://img.shields.io/badge/-AI%20Agents-7C3AED?style=flat-square)
 <br>&nbsp;
 </td>
 </tr>
