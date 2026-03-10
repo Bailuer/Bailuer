@@ -29,29 +29,29 @@
 
 ## 🌟 About Me
 
-📚 Education
+### 📚 Education
 
-Studying toward A-Levels and preparing for university programs in Robotics and Computer Science.
-
-<br>
-
-🛠 What I Build
-
-- Flutter mobile apps
-- Embedded systems & hardware prototypes
-- AI-powered tools and creative software
+Studying toward <strong>A-Levels</strong> and preparing for university programs in <strong>Robotics</strong> and <strong>Computer Science</strong>.
 
 <br>
 
-🌍 Interests
+### 🛠 What I Build
 
-- Education technology
-- Cultural storytelling
-- Human-centered engineering
+- <strong>Flutter</strong> mobile apps
+- <strong>Embedded systems</strong> and hardware prototypes
+- <strong>AI-powered</strong> tools and creative software
+
+<br>
+
+### 🌍 Interests
+
+- <strong>Education technology</strong>
+- <strong>Cultural storytelling</strong>
+- <strong>Human-centered engineering</strong>
 
 ---
 
-⭐ Always curious. Always building.
+<h3 align="center"><strong>⭐ Always curious. Always building.</strong></h3>
 
 ---
 
