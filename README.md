@@ -79,7 +79,7 @@ Currently studying toward A-Levels, preparing for university programs in Robotic
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ### 🤖 AI & Creative Tools
-![ChatGPT](https://img.shields.io/badge/-ChatGPT-412991?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAzIDUgN3YxMGw3IDQgNy00VjdabTAgMi4zIDUgMi45djUuNmwtNSAyLjktNS0yLjlWOC4yWm0tMi43IDMuMiAxLjQtLjggMS4zLjh2MS41bC0xLjMuOC0xLjQtLjhabTQuNyAwIDEuNC0uOCAxLjMuOHYxLjVsLTEuMy44LTEuNC0uOFptLTIuMzUgNC4xIDEuMzUtLjggMS4zNS44djEuNWwtMS4zNS44LTEuMzUtLjhaIi8+PC9zdmc+&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-412991?style=flat-square&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-CC785C?style=flat-square&logo=anthropic&logoColor=white)
 ![Gemini](https://img.shields.io/badge/-Gemini-886FBF?style=flat-square&logo=google&logoColor=white)
 ![DeepSeek](https://img.shields.io/badge/-DeepSeek-1E3A8A?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik03IDVoNWE3IDcgMCAxIDEgMCAxNEg3Wm0zIDN2OGgyYTQgNCAwIDEgMCAwLThaIi8+PC9zdmc+&logoColor=white)
