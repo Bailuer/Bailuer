@@ -340,9 +340,7 @@ A science-driven survival sandbox where players build automated systems, explore
 &nbsp;<br>
 <strong><big>🧼 Smart Disinfection Cutlery Box <span style="color: #9ca3af;">| 智能消毒餐具盒</span></big></strong><br>
 <sub><kbd>IOT HARDWARE</kbd> <kbd>2023</kbd> <kbd>Open Source</kbd></sub><br>
-<sub><kbd>🥇 Shanghai First Prize & "Future Engineer of Shanghai" Title</kbd></sub><br><sub>&nbsp;</sub><br>
-<sub><kbd>20th Shanghai Future Engineer Competition</kbd></sub><br><sub>&nbsp;</sub><br>
-<sub><kbd>🥇 First Prize - Minhang District Selection</kbd></sub><br><sub>&nbsp;</sub><br>
+<sub><kbd>🥇 Shanghai First Prize & "Future Engineer of Shanghai" Title</kbd><br><br><kbd>20th Shanghai Future Engineer Competition</kbd><br><br><kbd>🥇 First Prize - Minhang District Selection</kbd></sub><br><sub>&nbsp;</sub><br>
 ESP32-based smart cutlery sterilization device featuring UV and ozone disinfection, PIR human-presence safety detection, an OLED countdown display, and remote monitoring via the Blinker IoT platform.
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
