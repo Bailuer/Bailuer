@@ -146,14 +146,14 @@ AI-powered cultural travel guide that delivers location-aware storytelling and b
 ![Google Maps API](https://img.shields.io/badge/-Google%20Maps%20API-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
 ![AMap API](https://img.shields.io/badge/-AMap%20API-16A34A?style=flat-square)
 ![GPS](https://img.shields.io/badge/-GPS-0EA5E9?style=flat-square)
+![Runtime Shaders (GLSL)](https://img.shields.io/badge/-Runtime%20Shaders%20%28GLSL%29-2563EB?style=flat-square&logo=opengl&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Aliyun TTS](https://img.shields.io/badge/-Aliyun%20TTS-FF6A00?style=flat-square&logo=alibabacloud&logoColor=white)
 ![Gemini](https://img.shields.io/badge/-Gemini-886FBF?style=flat-square&logo=google&logoColor=white)
 ![DeepSeek](https://img.shields.io/badge/-DeepSeek-1E3A8A?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik03IDVoNWE3IDcgMCAxIDEgMCAxNEg3Wm0zIDN2OGgyYTQgNCAwIDEgMCAwLThaIi8+PC9zdmc+&logoColor=white)
 ![ERNIE](https://img.shields.io/badge/-ERNIE-1D4ED8?style=flat-square&logo=baidu&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Runtime Shaders (GLSL)](https://img.shields.io/badge/-Runtime%20Shaders%20%28GLSL%29-2563EB?style=flat-square&logo=opengl&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 <a href="https://apps.apple.com/app/hear2go/id6752223086"><img src="assets/app-store-badge.svg" alt="Download on the App Store" height="60" /></a>
 <br>&nbsp;
@@ -164,14 +164,14 @@ AI-powered cultural travel guide that delivers location-aware storytelling and b
 <sub><kbd>AI Learning Companion</kbd> <kbd>2025</kbd></sub><br><sub>&nbsp;</sub><br>
 AI-powered study assistant that analyzes exam papers, detects questions from images, tracks mistakes, and generates personalized learning plans.
 
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Gemini](https://img.shields.io/badge/-Gemini-886FBF?style=flat-square&logo=google&logoColor=white)
 ![AI Agents](https://img.shields.io/badge/-AI%20Agents-7C3AED?style=flat-square)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Image Processing](https://img.shields.io/badge/-Image%20Processing-DC2626?style=flat-square)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 <br>&nbsp;
 </td>
@@ -202,16 +202,16 @@ AI-powered photography assistant that analyzes visual references and suggests ca
 <sub><kbd>KNOWLEDGE ENGINE</kbd> <kbd>2025-2026</kbd></sub><br><sub>&nbsp;</sub><br>
 Knowledge and workflow engine powering an AI study-abroad assistant, transforming university documents into structured, citation-ready insights for decision support.
 
+![WeChat Mini Program](https://img.shields.io/badge/-WeChat%20Mini%20Program-07C160?style=flat-square&logo=wechat&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![DeepSeek](https://img.shields.io/badge/-DeepSeek-1E3A8A?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik03IDVoNWE3IDcgMCAxIDEgMCAxNEg3Wm0zIDN2OGgyYTQgNCAwIDEgMCAwLThaIi8+PC9zdmc+&logoColor=white)
 ![RAG](https://img.shields.io/badge/-RAG-4F46E5?style=flat-square)
 ![pgvector](https://img.shields.io/badge/-pgvector-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Data Pipeline](https://img.shields.io/badge/-Data%20Pipeline-0284C7?style=flat-square)
-![WeChat Mini Program](https://img.shields.io/badge/-WeChat%20Mini%20Program-07C160?style=flat-square&logo=wechat&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Metabase](https://img.shields.io/badge/-Metabase-509EE3?style=flat-square)
 <br>&nbsp;
 </td>
@@ -305,10 +305,10 @@ A science-driven survival sandbox where players build automated systems, explore
 <sub><kbd>GAMING BACKEND</kbd> <kbd>2022</kbd></sub><br><sub>&nbsp;</sub><br>
 WeChat mini program that lets users check the daily Valorant store through a lightweight backend-powered query workflow.
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![API](https://img.shields.io/badge/-API-0EA5E9?style=flat-square)
 ![WeChat Mini Program](https://img.shields.io/badge/-WeChat%20Mini%20Program-07C160?style=flat-square&logo=wechat&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![API](https://img.shields.io/badge/-API-0EA5E9?style=flat-square)
 <br>
 <a href="https://github.com/Bailuer/IValorant-api">Open source on GitHub</a>
 <br>&nbsp;
@@ -348,10 +348,10 @@ ESP32-based smart cutlery sterilization device featuring UV and ozone disinfecti
 <sub><kbd>WELLNESS AI</kbd> <kbd>2022</kbd></sub><br><sub>&nbsp;</sub><br>
 Emotion-aware desktop companion that detects facial expressions via webcam and responds with calming music and voice feedback to support emotional regulation.
 
+![Tkinter](https://img.shields.io/badge/-Tkinter-0F766E?style=flat-square)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Baidu AI](https://img.shields.io/badge/-Baidu%20AI-1D4ED8?style=flat-square)
-![Tkinter](https://img.shields.io/badge/-Tkinter-0F766E?style=flat-square)
 <br>
 <a href="https://github.com/Bailuer/EmotionalHelper">Open source on GitHub</a>
 <br>&nbsp;
