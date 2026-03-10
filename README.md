@@ -31,10 +31,10 @@
 <p>An AI-powered cultural travel guide built around maps, location awareness, and contextual storytelling.</p>
 
 <p>
-  <a href="https://apps.apple.com/app/hear2go/id6752223086"><img src="assets/app-store-badge.svg" alt="Download on the App Store" height="40" /></a>
+  <a href="https://apps.apple.com/app/hear2go/id6752223086"><img src="assets/app-store-badge.svg" alt="Download on the App Store" height="48" /></a>
 </p>
 
-<p><sub><small><span style="color: #6b7280;">&copy; 2024-2026 Hear2GO.<br>All Rights Reserved.</span></small></sub></p>
+<p><sub><small><span style="color: #6b7280;">&copy; 2024-2026 Hear2GO. All Rights Reserved.</span></small></sub></p>
 
 </div>
 
