@@ -65,7 +65,7 @@ Currently studying toward A-Levels, preparing for university programs in Robotic
 ### 💻 Languages & Frameworks
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik03IDE4aDhhNCA0IDAgMCAwIDAtOGgtMVY4SDZ2NmE0IDQgMCAwIDAgMSA0Wm0xLThoNHYyaDNhMiAyIDAgMCAxIDAgNEg5YTIgMiAwIDAgMS0xLTMuNzNabTgtMWMxIDAgMi0uOSAyLTJzLS45LTItMi0ydjJaIi8+PC9zdmc+&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
