@@ -128,100 +128,10 @@ Selected projects across AI products, interactive media, and engineering.
 
 ### 🧠 AI Products
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-<table width="100%">
-<tr>
-<td valign="top">
-
-#### 🗺️ Hear2GO 闻旅
-**AI PRODUCT**
-
-AI-powered cultural travel guide
-
-**Tech Stack**  
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Maps API](https://img.shields.io/badge/-Maps%20API-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
-![DeepSeek](https://img.shields.io/badge/-DeepSeek-1E3A8A?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik03IDVoNWE3IDcgMCAxIDEgMCAxNEg3Wm0zIDN2OGgyYTQgNCAwIDEgMCAwLThaIi8+PC9zdmc+&logoColor=white)
-
-📱 [App Store](https://apps.apple.com/app/hear2go/id6752223086)
-
-</td>
-</tr>
-</table>
-
-</td>
-<td width="50%" valign="top">
-
-<table width="100%">
-<tr>
-<td valign="top">
-
-#### 🎓 Learnova
-**AI TUTOR**
-
-AI-driven personal tutor system
-
-**Tech Stack**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![AI](https://img.shields.io/badge/-AI-7C3AED?style=flat-square)
-![EdTech](https://img.shields.io/badge/-EdTech-0EA5E9?style=flat-square)
-
-</td>
-</tr>
-</table>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<table width="100%">
-<tr>
-<td valign="top">
-
-#### 📷 Paralumine
-**PHOTO AI**
-
-AI-powered photography assistant
-
-**Tech Stack**  
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![AI](https://img.shields.io/badge/-AI-7C3AED?style=flat-square)
-
-</td>
-</tr>
-</table>
-
-</td>
-<td width="50%" valign="top">
-
-<table width="100%">
-<tr>
-<td valign="top">
-
-#### 🧳 KatawareStudyAbroad
-**KNOWLEDGE ENGINE**
-
-Study-abroad workflow + knowledge engine
-
-**Tech Stack**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![WeChat](https://img.shields.io/badge/-WeChat-07C160?style=flat-square&logo=wechat&logoColor=white)
-![RAG](https://img.shields.io/badge/-RAG-4F46E5?style=flat-square)
-![Data Pipeline](https://img.shields.io/badge/-Data%20Pipeline-0284C7?style=flat-square)
-
-</td>
-</tr>
-</table>
-
-</td>
-</tr>
-</table>
+| Project | Project |
+| --- | --- |
+| **🗺️ Hear2GO**<br><br>![AI Product](https://img.shields.io/badge/AI_Product-0EA5E9?style=for-the-badge)<br><br>**AI + Maps cultural guide app**<br><br>**Tech Stack**<br>![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![AMap](https://img.shields.io/badge/-AMap-3B82F6?style=flat-square) ![Google Maps API](https://img.shields.io/badge/-Google%20Maps%20API-4285F4?style=flat-square&logo=googlemaps&logoColor=white) ![DeepSeek](https://img.shields.io/badge/-DeepSeek-1E3A8A?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik03IDVoNWE3IDcgMCAxIDEgMCAxNEg3Wm0zIDN2OGgyYTQgNCAwIDEgMCAwLThaIi8+PC9zdmc+&logoColor=white)<br><br>**What it does**<br>GPS-based cultural narration with bilingual support and map-first interaction.<br>📱 [App Store](https://apps.apple.com/app/hear2go/id6752223086) | **🎓 Learnova**<br><br>![AI Tutor](https://img.shields.io/badge/AI_Tutor-2563EB?style=for-the-badge)<br><br>**AI-driven personal tutor system**<br><br>**Tech Stack**<br>![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![AI](https://img.shields.io/badge/-AI-7C3AED?style=flat-square) ![EdTech](https://img.shields.io/badge/-EdTech-0EA5E9?style=flat-square)<br><br>**What it does**<br>Combines planning, focus tracking, and progress systems to make learning more structured. |
+| **📷 Paralumine**<br><br>![Photo AI](https://img.shields.io/badge/Photo_AI-6366F1?style=for-the-badge)<br><br>**AI-powered photography assistant**<br><br>**Tech Stack**<br>![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![AI](https://img.shields.io/badge/-AI-7C3AED?style=flat-square)<br><br>**What it does**<br>Analyzes reference photos and generates camera settings plus lighting setup suggestions. | **🧳 KatawareStudyAbroad**<br><br>![Knowledge Engine](https://img.shields.io/badge/Knowledge_Engine-0F766E?style=for-the-badge)<br><br>**Study-abroad workflow + knowledge engine**<br><br>**Tech Stack**<br>![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![WeChat](https://img.shields.io/badge/-WeChat-07C160?style=flat-square&logo=wechat&logoColor=white) ![Mini Program](https://img.shields.io/badge/-Mini%20Program-22C55E?style=flat-square) ![RAG](https://img.shields.io/badge/-RAG-4F46E5?style=flat-square) ![Data Pipeline](https://img.shields.io/badge/-Data%20Pipeline-0284C7?style=flat-square)<br><br>**What it does**<br>Supports onboarding, surveys, and AI report generation in WeChat, with retrieval-ready document knowledge structuring. |
 
 ### 🎨 Interactive & Media
 
