@@ -4,6 +4,10 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=540&lines=High+school+CS+student;AI+%2B+Robotics+builder;Creating+hardware-software+projects;Preparing+for+A-Levels+and+university" alt="Typing SVG" />
 
+<p>
+  <a href="https://sanomachine.com"><img src="https://img.shields.io/badge/Website-sanomachine.com-0A66C2?style=for-the-badge" alt="Website" /></a>
+</p>
+
 <h3>
   <strong>High school student building at the intersection of software, hardware, and AI.</strong>
 </h3>
