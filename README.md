@@ -136,7 +136,7 @@ Selected work across AI products, interactive media, and engineering systems.
 <tr>
 <td width="50%" valign="top">
 &nbsp;<br>
-<strong>🗺️ Hear2GO 闻旅</strong><br>
+<strong><big>🗺️ Hear2GO 闻旅</big></strong><br>
 <sub><strong>AI PRODUCT</strong></sub>
 
 Location-aware cultural travel guide that delivers bilingual storytelling and contextual narration through a map-first experience.
@@ -151,7 +151,7 @@ Location-aware cultural travel guide that delivers bilingual storytelling and co
 </td>
 <td width="50%" valign="top">
 &nbsp;<br>
-<strong>🎓 Learnova</strong><br>
+<strong><big>🎓 Learnova</big></strong><br>
 <sub><strong>AI TUTOR</strong></sub>
 
 AI-driven personal tutor system for learning planning, focus tracking, and structured progress management.
@@ -165,7 +165,7 @@ AI-driven personal tutor system for learning planning, focus tracking, and struc
 <tr>
 <td width="50%" valign="top">
 &nbsp;<br>
-<strong>📷 Paralumine</strong><br>
+<strong><big>📷 Paralumine</big></strong><br>
 <sub><strong>PHOTO AI</strong></sub>
 
 Photography assistant that analyzes visual references and recommends camera settings, composition, and lighting setups.
@@ -177,7 +177,7 @@ Photography assistant that analyzes visual references and recommends camera sett
 </td>
 <td width="50%" valign="top">
 &nbsp;<br>
-<strong>🧳 Kataware Study Abroad</strong><br>
+<strong><big>🧳 Kataware Study Abroad</big></strong><br>
 <sub><strong>KNOWLEDGE ENGINE</strong></sub>
 
 Workflow and knowledge engine for study-abroad services, supporting onboarding, surveys, reports, and retrieval-ready documents.
@@ -201,7 +201,7 @@ Workflow and knowledge engine for study-abroad services, supporting onboarding, 
 <tr>
 <td width="50%" valign="top">
 &nbsp;<br>
-<strong>📚 TaleCraft</strong><br>
+<strong><big>📚 TaleCraft</big></strong><br>
 <sub><strong>AR STORYTELLING</strong></sub>
 
 Inclusive AR storytelling prototype combining drawing, character interaction, and spatial audio for interactive narratives.
@@ -214,7 +214,7 @@ Inclusive AR storytelling prototype combining drawing, character interaction, an
 </td>
 <td width="50%" valign="top">
 &nbsp;<br>
-<strong>🍵 ZenCha</strong><br>
+<strong><big>🍵 ZenCha</big></strong><br>
 <sub><strong>AR INTERACTION</strong></sub>
 
 Hand-tracked AR tea ceremony experience featuring gesture-based interaction and adaptive ambience.
@@ -228,7 +228,7 @@ Hand-tracked AR tea ceremony experience featuring gesture-based interaction and 
 <tr>
 <td width="50%" valign="top">
 &nbsp;<br>
-<strong>🎬 NovelMotion</strong><br>
+<strong><big>🎬 NovelMotion</big></strong><br>
 <sub><strong>GENAI PIPELINE</strong></sub>
 
 AI pipeline that transforms novel chapters into animated short films through automated media generation.
@@ -241,7 +241,7 @@ AI pipeline that transforms novel chapters into animated short films through aut
 </td>
 <td width="50%" valign="top">
 &nbsp;<br>
-<strong>🖥️ Holographic Media Center</strong><br>
+<strong><big>🖥️ Holographic Media Center</big></strong><br>
 <sub><strong>CREATIVE UI</strong></sub>
 
 Desktop-style media hub designed for a 240×240 holographic display, featuring themed UI and mini interactive experiences.
@@ -255,7 +255,7 @@ Desktop-style media hub designed for a 240×240 holographic display, featuring t
 <tr>
 <td width="50%" valign="top">
 &nbsp;<br>
-<strong>🏝️ ElementFactory ONE</strong><br>
+<strong><big>🏝️ ElementFactory ONE</big></strong><br>
 <sub><strong>UE5 GAME</strong></sub>
 
 Educational survival sandbox game built in Unreal Engine, exploring robotics, automation, and science-based systems.
@@ -267,7 +267,7 @@ Educational survival sandbox game built in Unreal Engine, exploring robotics, au
 </td>
 <td width="50%" valign="top">
 &nbsp;<br>
-<strong>🛒 IValorant API</strong><br>
+<strong><big>🛒 IValorant API</big></strong><br>
 <sub><strong>GAMING BACKEND</strong></sub>
 
 Backend service that retrieves daily Valorant store information for integration inside WeChat workflows.
@@ -290,7 +290,7 @@ Backend service that retrieves daily Valorant store information for integration 
 <tr>
 <td width="50%" valign="top">
 &nbsp;<br>
-<strong>🧼 Smart Disinfection Cutlery Box</strong><br>
+<strong><big>🧼 Smart Disinfection Cutlery Box</big></strong><br>
 <sub><strong>IOT HARDWARE</strong></sub>
 
 ESP32-based smart disinfection box with OLED countdown display, PIR safety detection, and remote control integration.
@@ -303,7 +303,7 @@ ESP32-based smart disinfection box with OLED countdown display, PIR safety detec
 </td>
 <td width="50%" valign="top">
 &nbsp;<br>
-<strong>🙂 EmotionalHelper</strong><br>
+<strong><big>🙂 EmotionalHelper</big></strong><br>
 <sub><strong>WELLNESS AI</strong></sub>
 
 Emotion-aware desktop assistant that analyzes webcam input and generates calming music and voice feedback.
@@ -317,7 +317,7 @@ Emotion-aware desktop assistant that analyzes webcam input and generates calming
 <tr>
 <td width="50%" valign="top">
 &nbsp;<br>
-<strong>📦 RmpExporter</strong><br>
+<strong><big>📦 RmpExporter</big></strong><br>
 <sub><strong>UTILITY TOOL</strong></sub>
 
 Structured export utility built in C# for handling automated export workflows and supporting tooling.
