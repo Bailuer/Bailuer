@@ -318,7 +318,9 @@ A science-driven survival sandbox where players build automated systems, explore
 ![Unreal Engine 5](https://img.shields.io/badge/-Unreal%20Engine%205-313131?style=flat-square&logo=unrealengine&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Blueprints](https://img.shields.io/badge/-Blueprints-1F6FEB?style=flat-square)
-![Simulation Systems](https://img.shields.io/badge/-Simulation%20Systems-0F766E?style=flat-square)
+![Gameplay Systems](https://img.shields.io/badge/-Gameplay%20Systems-2563EB?style=flat-square)
+![Physics Simulation](https://img.shields.io/badge/-Physics%20Simulation-0F766E?style=flat-square)
+![Procedural Systems](https://img.shields.io/badge/-Procedural%20Systems-7C3AED?style=flat-square)
 <br>&nbsp;
 </td>
 </tr>
