@@ -151,7 +151,7 @@ AI-powered cultural travel guide that delivers location-aware storytelling and b
 </td>
 <td width="50%" valign="top">
 &nbsp;<br>
-<a href="https://github.com/Bailuer/Learnova"><strong><big>🎓 Learnova</big></strong></a><br>
+<strong><big>🎓 Learnova</big></strong><br>
 <sub><kbd>AI Learning Companion</kbd></sub><br><sub>&nbsp;</sub><br>
 AI-powered study assistant that analyzes exam papers, detects questions from images, tracks mistakes, and generates personalized learning plans.
 
@@ -160,6 +160,8 @@ AI-powered study assistant that analyzes exam papers, detects questions from ima
 ![Gemini](https://img.shields.io/badge/-Gemini-886FBF?style=flat-square&logo=google&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-2563EB?style=flat-square)
+<br>
+<sub><a href="https://github.com/Bailuer/Learnova">Open source on GitHub</a></sub>
 <br>&nbsp;
 </td>
 </tr>
