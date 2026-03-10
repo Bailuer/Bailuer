@@ -280,7 +280,7 @@ A science-driven survival sandbox where players build automated systems, explore
 &nbsp;<br>
 <strong><big>🛒 IValorant API <span style="color: #9ca3af;">瓦爱小店</span></big></strong><br>
 <sub><kbd>GAMING BACKEND</kbd></sub><br><sub>&nbsp;</sub><br>
-Backend service that retrieves daily Valorant store information for integration inside WeChat workflows.
+WeChat mini program that lets users check the daily Valorant store through a lightweight backend-powered query workflow.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![API](https://img.shields.io/badge/-API-0EA5E9?style=flat-square)
