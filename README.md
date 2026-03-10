@@ -24,7 +24,7 @@
 
 <div align="center">
 
-<h1>Hear2GO</h1>
+<h1><img src="assets/heargoicon.png" alt="Hear2GO icon" height="36" style="vertical-align: middle;" /> Hear2GO</h1>
 
 <h3>Explore places through stories.</h3>
 
@@ -137,7 +137,7 @@ Selected work across AI products, interactive media, and engineering systems.
 <tr>
 <td width="50%" valign="top">
 &nbsp;<br>
-<strong><big>🗺️ Hear2GO <span style="color: #9ca3af;">| 闻旅</span></big></strong><br>
+<strong><big><img src="assets/heargoicon.png" alt="Hear2GO icon" height="18" style="vertical-align: middle;" /> Hear2GO <span style="color: #9ca3af;">| 闻旅</span></big></strong><br>
 <sub><kbd>AI PRODUCT</kbd> <kbd>2024-2026</kbd> <kbd>Released</kbd></sub><br><sub>&nbsp;</sub><br>
 AI-powered cultural travel guide that delivers location-aware storytelling and bilingual narration as you explore new places.
 
