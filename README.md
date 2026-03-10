@@ -186,10 +186,12 @@ Knowledge and workflow engine powering an AI study-abroad assistant, transformin
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Gemini](https://img.shields.io/badge/-Gemini-886FBF?style=flat-square&logo=google&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/-DeepSeek-1E3A8A?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik03IDVoNWE3IDcgMCAxIDEgMCAxNEg3Wm0zIDN2OGgyYTQgNCAwIDEgMCAwLThaIi8+PC9zdmc+&logoColor=white)
 ![RAG](https://img.shields.io/badge/-RAG-4F46E5?style=flat-square)
 ![pgvector](https://img.shields.io/badge/-pgvector-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Data Pipeline](https://img.shields.io/badge/-Data%20Pipeline-0284C7?style=flat-square)
+![WeChat Mini Program](https://img.shields.io/badge/-WeChat%20Mini%20Program-07C160?style=flat-square&logo=wechat&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 <br>&nbsp;
 </td>
 </tr>
