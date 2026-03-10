@@ -177,7 +177,7 @@ Photography assistant that analyzes references and suggests camera settings and 
 </td>
 <td width="50%" valign="top">
 
-#### 🧳 KatawareStudyAbroad
+#### 🧳 Kataware Study Abroad
 <sub><strong>KNOWLEDGE ENGINE</strong></sub>
 
 Study-abroad workflow engine for onboarding, surveys, reports, and retrieval-ready documents.
@@ -241,7 +241,7 @@ Pipeline that turns novel chapters into animated short films with automated medi
 </td>
 <td width="50%" valign="top">
 
-#### 🖥️ HolographicMediaCenter
+#### 🖥️ Holographic Media Center
 <sub><strong>CREATIVE UI</strong></sub>
 
 Desktop-style media hub for a 240x240 holographic display with mini-games and themed UI.
@@ -255,7 +255,7 @@ Desktop-style media hub for a 240x240 holographic display with mini-games and th
 <tr>
 <td width="50%" valign="top">
 
-#### 🏝️ ElementFactoryONE
+#### 🏝️ ElementFactory ONE
 <sub><strong>UE5 GAME</strong></sub>
 
 Educational survival sandbox built in Unreal Engine around robotics and science systems.
@@ -267,7 +267,7 @@ Educational survival sandbox built in Unreal Engine around robotics and science 
 </td>
 <td width="50%" valign="top">
 
-#### 🛒 IValorant-api
+#### 🛒 IValorant API
 <sub><strong>GAMING BACKEND</strong></sub>
 
 Backend service for checking daily Valorant store information inside WeChat workflows.
@@ -290,7 +290,7 @@ Backend service for checking daily Valorant store information inside WeChat work
 <tr>
 <td width="50%" valign="top">
 
-#### 🧼 SmartDisinfectionCutleryBox
+#### 🧼 Smart Disinfection Cutlery Box
 <sub><strong>IOT HARDWARE</strong></sub>
 
 ESP32-based smart disinfection box with OLED countdown, PIR safety logic, and remote control.
