@@ -168,15 +168,6 @@ Selected projects across AI products, interactive media, and engineering.
 
 ---
 
-## 🌱 Current Focus
-
-- 🤖 Advanced **AI + LLM integration** for real-time cultural narration
-- 🎨 Production-quality **Flutter UI/UX** and cross-platform app delivery
-- 🔧 **Robotics and embedded systems** combining hardware with AI capabilities
-- 📚 **IELTS and A-Level preparation** for international university applications
-
----
-
 ## 🎮 Gaming & Recreation
 
 <div align="center">
