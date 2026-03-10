@@ -215,6 +215,8 @@ A creative playground where children paint worlds that come alive - flowing rive
 ![SwiftUI](https://img.shields.io/badge/-SwiftUI-0A84FF?style=flat-square)
 ![RealityKit](https://img.shields.io/badge/-RealityKit-111827?style=flat-square)
 ![PencilKit](https://img.shields.io/badge/-PencilKit-8B5CF6?style=flat-square)
+<br>
+<a href="https://github.com/Bailuer/TaleCraft">Open source on GitHub</a>
 <br>&nbsp;
 </td>
 <td width="50%" valign="top">
