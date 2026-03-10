@@ -137,7 +137,7 @@ Selected work across AI products, interactive media, and engineering systems.
 <td width="50%" valign="top">
 &nbsp;<br>
 <strong><big>🗺️ Hear2GO 闻旅</big></strong><br>
-<sub><kbd>AI PRODUCT</kbd></sub><br>
+<sub><kbd>AI PRODUCT</kbd></sub><br><sub>&nbsp;</sub>
 AI-powered cultural travel guide that delivers location-aware storytelling and bilingual narration as you explore new places.
 
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
@@ -152,7 +152,7 @@ AI-powered cultural travel guide that delivers location-aware storytelling and b
 <td width="50%" valign="top">
 &nbsp;<br>
 <strong><big>🎓 Learnova</big></strong><br>
-<sub><kbd>AI TUTOR</kbd></sub><br>
+<sub><kbd>AI TUTOR</kbd></sub><br><sub>&nbsp;</sub>
 AI-driven personal tutor system for learning planning, focus tracking, and structured progress management.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -165,7 +165,7 @@ AI-driven personal tutor system for learning planning, focus tracking, and struc
 <td width="50%" valign="top">
 &nbsp;<br>
 <strong><big>📷 Paralumine</big></strong><br>
-<sub><kbd>PHOTO AI</kbd></sub><br>
+<sub><kbd>PHOTO AI</kbd></sub><br><sub>&nbsp;</sub>
 Photography assistant that analyzes visual references and recommends camera settings, composition, and lighting setups.
 
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
@@ -176,7 +176,7 @@ Photography assistant that analyzes visual references and recommends camera sett
 <td width="50%" valign="top">
 &nbsp;<br>
 <strong><big>🧳 Kataware Study Abroad</big></strong><br>
-<sub><kbd>KNOWLEDGE ENGINE</kbd></sub><br>
+<sub><kbd>KNOWLEDGE ENGINE</kbd></sub><br><sub>&nbsp;</sub>
 Workflow and knowledge engine for study-abroad services, supporting onboarding, surveys, reports, and retrieval-ready documents.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -199,7 +199,7 @@ Workflow and knowledge engine for study-abroad services, supporting onboarding, 
 <td width="50%" valign="top">
 &nbsp;<br>
 <strong><big>📚 TaleCraft</big></strong><br>
-<sub><kbd>AR STORYTELLING</kbd></sub><br>
+<sub><kbd>AR STORYTELLING</kbd></sub><br><sub>&nbsp;</sub>
 Inclusive AR storytelling prototype combining drawing, character interaction, and spatial audio for interactive narratives.
 
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
@@ -211,7 +211,7 @@ Inclusive AR storytelling prototype combining drawing, character interaction, an
 <td width="50%" valign="top">
 &nbsp;<br>
 <strong><big>🍵 ZenCha</big></strong><br>
-<sub><kbd>AR INTERACTION</kbd></sub><br>
+<sub><kbd>AR INTERACTION</kbd></sub><br><sub>&nbsp;</sub>
 Hand-tracked AR tea ceremony experience featuring gesture-based interaction and adaptive ambience.
 
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
@@ -224,7 +224,7 @@ Hand-tracked AR tea ceremony experience featuring gesture-based interaction and 
 <td width="50%" valign="top">
 &nbsp;<br>
 <strong><big>🎬 NovelMotion</big></strong><br>
-<sub><kbd>GENAI PIPELINE</kbd></sub><br>
+<sub><kbd>GENAI PIPELINE</kbd></sub><br><sub>&nbsp;</sub>
 AI pipeline that transforms novel chapters into animated short films through automated media generation.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -236,7 +236,7 @@ AI pipeline that transforms novel chapters into animated short films through aut
 <td width="50%" valign="top">
 &nbsp;<br>
 <strong><big>🖥️ Holographic Media Center</big></strong><br>
-<sub><kbd>CREATIVE UI</kbd></sub><br>
+<sub><kbd>CREATIVE UI</kbd></sub><br><sub>&nbsp;</sub>
 Desktop-style media hub designed for a 240×240 holographic display, featuring themed UI and mini interactive experiences.
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -249,7 +249,7 @@ Desktop-style media hub designed for a 240×240 holographic display, featuring t
 <td width="50%" valign="top">
 &nbsp;<br>
 <strong><big>🏝️ ElementFactory ONE</big></strong><br>
-<sub><kbd>UE5 GAME</kbd></sub><br>
+<sub><kbd>UE5 GAME</kbd></sub><br><sub>&nbsp;</sub>
 Educational survival sandbox game built in Unreal Engine, exploring robotics, automation, and science-based systems.
 
 ![Unreal Engine 5](https://img.shields.io/badge/-Unreal%20Engine%205-313131?style=flat-square&logo=unrealengine&logoColor=white)
@@ -260,7 +260,7 @@ Educational survival sandbox game built in Unreal Engine, exploring robotics, au
 <td width="50%" valign="top">
 &nbsp;<br>
 <strong><big>🛒 IValorant API</big></strong><br>
-<sub><kbd>GAMING BACKEND</kbd></sub><br>
+<sub><kbd>GAMING BACKEND</kbd></sub><br><sub>&nbsp;</sub>
 Backend service that retrieves daily Valorant store information for integration inside WeChat workflows.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -282,7 +282,7 @@ Backend service that retrieves daily Valorant store information for integration 
 <td width="50%" valign="top">
 &nbsp;<br>
 <strong><big>🧼 Smart Disinfection Cutlery Box</big></strong><br>
-<sub><kbd>IOT HARDWARE</kbd></sub><br>
+<sub><kbd>IOT HARDWARE</kbd></sub><br><sub>&nbsp;</sub>
 ESP32-based smart disinfection box with OLED countdown display, PIR safety detection, and remote control integration.
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -294,7 +294,7 @@ ESP32-based smart disinfection box with OLED countdown display, PIR safety detec
 <td width="50%" valign="top">
 &nbsp;<br>
 <strong><big>🙂 EmotionalHelper</big></strong><br>
-<sub><kbd>WELLNESS AI</kbd></sub><br>
+<sub><kbd>WELLNESS AI</kbd></sub><br><sub>&nbsp;</sub>
 Emotion-aware desktop assistant that analyzes webcam input and generates calming music and voice feedback.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -307,7 +307,7 @@ Emotion-aware desktop assistant that analyzes webcam input and generates calming
 <td width="50%" valign="top">
 &nbsp;<br>
 <strong><big>📦 RmpExporter</big></strong><br>
-<sub><kbd>UTILITY TOOL</kbd></sub><br>
+<sub><kbd>UTILITY TOOL</kbd></sub><br><sub>&nbsp;</sub>
 Structured export utility built in C# for handling automated export workflows and supporting tooling.
 
 ![C#](https://img.shields.io/badge/-C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
