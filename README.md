@@ -4,17 +4,19 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=540&lines=High+school+CS+student;AI+%2B+Robotics+builder;Creating+hardware-software+projects;Preparing+for+A-Levels+and+university" alt="Typing SVG" />
 
-<p>
-  <a href="https://sanomachine.com"><img src="https://img.shields.io/badge/Website-sanomachine.com-0A66C2?style=for-the-badge" alt="Website" /></a>
-</p>
+<p><sub>Featured Project</sub></p>
 
-<p><sub>Featured app</sub></p>
+<h2>Hear2GO</h2>
 
-<p><strong>Hear2GO</strong> · AI-powered cultural travel guide</p>
+<p><strong>Explore places through stories.</strong></p>
+
+<p><sub>An AI-powered cultural travel guide built around maps, location awareness, and contextual storytelling.</sub></p>
 
 <p>
   <a href="https://apps.apple.com/app/hear2go/id6752223086"><img src="assets/app-store-badge.svg" alt="Download on the App Store" height="40" /></a>
 </p>
+
+<p><sub><a href="https://sanomachine.com">Website</a> · <a href="https://apps.apple.com/app/hear2go/id6752223086">App Store</a></sub></p>
 
 <h3>
   <strong>High school student building at the intersection of software, hardware, and AI.</strong>
