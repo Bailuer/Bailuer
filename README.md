@@ -248,7 +248,7 @@ A creative playground where children paint worlds that come alive - flowing rive
 <td width="50%" valign="top">
 &nbsp;<br>
 <strong><big>🍵 ZenCha <span style="color: #9ca3af;">· 禅茶</span></big></strong><br>
-<sub><kbd>MINDFUL INTERACTION</kbd> <kbd>2026</kbd></sub><br><sub>&nbsp;</sub><br>
+<sub><kbd>MINDFUL INTERACTION</kbd> <kbd>2026</kbd> <kbd>Swift Student Challenge 2026</kbd></sub><br><sub>&nbsp;</sub><br>
 A three-minute guided tea ritual that transforms stillness into a tactile, embodied experience through gesture, sound, and spatial design.
 
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
