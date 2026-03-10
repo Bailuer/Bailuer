@@ -284,17 +284,16 @@ AI pipeline that converts novel chapters into cinematic motion-anime videos with
 </td>
 <td width="50%" valign="top">
 &nbsp;<br>
-<strong><big>🖥️ Holographic Media Center <span style="color: #9ca3af;">· 全息投影媒体中心</span></big></strong><br>
-<sub><kbd>CREATIVE UI</kbd> <kbd>2026</kbd></sub><br><sub>&nbsp;</sub><br>
-Embedded media interface built for a 240×240 holographic display, delivering a themed UI and lightweight interactive experiences through a kiosk-based system.
+<strong><big>🙂 EmotionalHelper <span style="color: #9ca3af;">· 情绪管理小帮手</span></big></strong><br>
+<sub><kbd>WELLNESS AI</kbd> <kbd>2022</kbd></sub><br><sub>&nbsp;</sub><br>
+Emotion-aware desktop companion that detects facial expressions via webcam and responds with calming music and voice feedback to support emotional regulation.
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
-![Chromium Kiosk](https://img.shields.io/badge/-Chromium%20Kiosk-1D4ED8?style=flat-square&logo=googlechrome&logoColor=white)
+![Tkinter](https://img.shields.io/badge/-Tkinter-0F766E?style=flat-square)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Baidu AI](https://img.shields.io/badge/-Baidu%20AI-1D4ED8?style=flat-square)
 <br>
-<a href="https://github.com/Bailuer/HolographicMediaCenter">Open source on GitHub</a>
+<a href="https://github.com/Bailuer/EmotionalHelper">Open source on GitHub</a>
 <br>&nbsp;
 </td>
 </tr>
@@ -356,16 +355,17 @@ ESP32-based smart cutlery sterilization device featuring UV and ozone disinfecti
 </td>
 <td width="50%" valign="top">
 &nbsp;<br>
-<strong><big>🙂 EmotionalHelper <span style="color: #9ca3af;">· 情绪管理小帮手</span></big></strong><br>
-<sub><kbd>WELLNESS AI</kbd> <kbd>2022</kbd></sub><br><sub>&nbsp;</sub><br>
-Emotion-aware desktop companion that detects facial expressions via webcam and responds with calming music and voice feedback to support emotional regulation.
+<strong><big>🖥️ Holographic Media Center <span style="color: #9ca3af;">· 全息投影媒体中心</span></big></strong><br>
+<sub><kbd>CREATIVE UI</kbd> <kbd>2026</kbd></sub><br><sub>&nbsp;</sub><br>
+Embedded media interface built for a 240×240 holographic display, delivering a themed UI and lightweight interactive experiences through a kiosk-based system.
 
-![Tkinter](https://img.shields.io/badge/-Tkinter-0F766E?style=flat-square)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Baidu AI](https://img.shields.io/badge/-Baidu%20AI-1D4ED8?style=flat-square)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![Chromium Kiosk](https://img.shields.io/badge/-Chromium%20Kiosk-1D4ED8?style=flat-square&logo=googlechrome&logoColor=white)
 <br>
-<a href="https://github.com/Bailuer/EmotionalHelper">Open source on GitHub</a>
+<a href="https://github.com/Bailuer/HolographicMediaCenter">Open source on GitHub</a>
 <br>&nbsp;
 </td>
 </tr>
