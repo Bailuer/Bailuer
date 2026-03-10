@@ -79,11 +79,11 @@ Currently studying toward A-Levels, preparing for university programs in Robotic
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ### AI & Creative Tools
-- LLM APIs (OpenAI, Claude, Gemini, DeepSeek)
-- Stable Diffusion
-- Whisper / Speech APIs
-- FFmpeg
-- Prompt Engineering
+![LLM APIs](https://img.shields.io/badge/-LLM%20APIs-412991?style=flat-square&logo=openai&logoColor=white)
+![Stable Diffusion](https://img.shields.io/badge/-Stable%20Diffusion-FF9500?style=flat-square)
+![Whisper / Speech APIs](https://img.shields.io/badge/-Whisper%20%2F%20Speech%20APIs-0EA5E9?style=flat-square)
+![FFmpeg](https://img.shields.io/badge/-FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-7C3AED?style=flat-square)
 
 ### Hardware & Engineering
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
