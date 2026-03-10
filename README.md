@@ -129,6 +129,10 @@ Selected work across AI products, interactive media, and engineering systems.
 ### 🧠 AI Products
 
 <table width="100%">
+<colgroup>
+<col width="50%">
+<col width="50%">
+</colgroup>
 <tr>
 <td width="50%" valign="top">
 
@@ -190,6 +194,10 @@ Study-abroad workflow engine for onboarding, surveys, reports, and retrieval-rea
 ### 🎨 Interactive & Media
 
 <table width="100%">
+<colgroup>
+<col width="50%">
+<col width="50%">
+</colgroup>
 <tr>
 <td width="50%" valign="top">
 
@@ -275,6 +283,10 @@ Backend service for checking daily Valorant store information inside WeChat work
 ### 🔧 Hardware & Utilities
 
 <table width="100%">
+<colgroup>
+<col width="50%">
+<col width="50%">
+</colgroup>
 <tr>
 <td width="50%" valign="top">
 
