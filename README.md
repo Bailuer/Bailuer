@@ -154,7 +154,6 @@ AI-powered cultural travel guide that delivers location-aware storytelling and b
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Runtime Shaders (GLSL)](https://img.shields.io/badge/-Runtime%20Shaders%20%28GLSL%29-2563EB?style=flat-square&logo=opengl&logoColor=white)
-![REST APIs](https://img.shields.io/badge/-REST%20APIs-0F766E?style=flat-square)
 
 <a href="https://apps.apple.com/app/hear2go/id6752223086"><img src="assets/app-store-badge.svg" alt="Download on the App Store" height="60" /></a>
 <br>&nbsp;
@@ -167,7 +166,6 @@ AI-powered study assistant that analyzes exam papers, detects questions from ima
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![REST API](https://img.shields.io/badge/-REST%20API-0F766E?style=flat-square)
 ![JSON](https://img.shields.io/badge/-JSON-111827?style=flat-square)
 ![Gemini](https://img.shields.io/badge/-Gemini-886FBF?style=flat-square&logo=google&logoColor=white)
 ![AI Agents](https://img.shields.io/badge/-AI%20Agents-7C3AED?style=flat-square)
@@ -195,7 +193,6 @@ AI-powered photography assistant that analyzes visual references and suggests ca
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Image Processing](https://img.shields.io/badge/-Image%20Processing-DC2626?style=flat-square)
 ![AI Agents](https://img.shields.io/badge/-AI%20Agents-7C3AED?style=flat-square)
-![REST API](https://img.shields.io/badge/-REST%20API-0F766E?style=flat-square)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 <br>
 <a href="https://github.com/Bailuer/Paralumine">Open source on GitHub</a>
