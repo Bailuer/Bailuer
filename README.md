@@ -6,7 +6,7 @@
 
 <p>
   <a href="https://sanomachine.com"><img src="https://img.shields.io/badge/Website-sanomachine.com-0A66C2?style=for-the-badge" alt="Website" /></a>
-  <a href="https://apps.apple.com/app/hear2go/id6752223086"><img src="https://img.shields.io/badge/Hear2GO-App%20Store-0A84FF?style=for-the-badge&logo=appstore&logoColor=white" alt="Hear2GO App Store" /></a>
+  <a href="https://apps.apple.com/app/hear2go/id6752223086"><img src="https://linkmaker.itunes.apple.com/assets/shared/badges/en-us/appstore-lrg.svg" alt="Download on the App Store" height="40" /></a>
 </p>
 
 <h3>
