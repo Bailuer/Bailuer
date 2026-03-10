@@ -4,7 +4,21 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=540&lines=High+school+CS+student;AI+%2B+Robotics+builder;Creating+hardware-software+projects;Preparing+for+A-Levels+and+university" alt="Typing SVG" />
 
-<p><sub>Featured Project</sub></p>
+<h3>
+  <strong>High school student building at the intersection of software, hardware, and AI.</strong>
+</h3>
+
+<p>
+  I am passionate about <strong>Computer Science</strong>, <strong>Robotics &amp; Mechatronics</strong>, and <strong>AI-driven creative products</strong>.
+</p>
+
+</div>
+
+---
+
+## 📱 Featured Projects
+
+<div align="center">
 
 <h2>Hear2GO</h2>
 
@@ -17,14 +31,6 @@
 </p>
 
 <p><sub><a href="https://sanomachine.com">Website</a> · <a href="https://apps.apple.com/app/hear2go/id6752223086">App Store</a></sub></p>
-
-<h3>
-  <strong>High school student building at the intersection of software, hardware, and AI.</strong>
-</h3>
-
-<p>
-  I am passionate about <strong>Computer Science</strong>, <strong>Robotics &amp; Mechatronics</strong>, and <strong>AI-driven creative products</strong>.
-</p>
 
 </div>
 
