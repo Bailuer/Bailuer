@@ -176,6 +176,8 @@ AI-powered photography assistant that analyzes visual references and suggests ca
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-2563EB?style=flat-square)
 ![Gemini](https://img.shields.io/badge/-Gemini-886FBF?style=flat-square&logo=google&logoColor=white)
+<br>
+<a href="https://github.com/Bailuer/Paralumine">Open source on GitHub</a>
 <br>&nbsp;
 </td>
 <td width="50%" valign="top">
