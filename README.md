@@ -37,16 +37,19 @@ Currently studying toward A-Levels, preparing for university programs in Robotic
 - Flutter mobile applications
 - Embedded systems and hardware prototypes
 - AI-powered tools and creative software
+- Robotics and automation experiments
 
 ### 🚀 Currently Working On
 
 - Hear2GO - an AI-powered cultural travel guide
 - AI-driven creative tools and product experiments
+- Exploring robotics and industrial automation concepts (Sanomachine)
 
 ### 🌍 Interests
 
 - Education technology
 - Cultural storytelling
+- Robotics and intelligent machines
 - Human-centered engineering
 
 ---
