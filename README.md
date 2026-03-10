@@ -65,7 +65,7 @@ Currently studying toward A-Levels, preparing for university programs in Robotic
 ### 💻 Languages & Frameworks
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik03IDE4aDhhNCA0IDAgMCAwIDAtOGgtMVY4SDZ2NmE0IDQgMCAwIDAgMSA0Wm0xLThoNHYyaDNhMiAyIDAgMCAxIDAgNEg5YTIgMiAwIDAgMS0xLTMuNzNabTgtMWMxIDAgMi0uOSAyLTJzLS45LTItMi0ydjJaIi8+PC9zdmc+&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -76,10 +76,9 @@ Currently studying toward A-Levels, preparing for university programs in Robotic
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ### 🤖 AI & Creative Tools
-![ChatGPT](https://img.shields.io/badge/-ChatGPT-412991?style=flat-square&logo=openai&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-412991?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAzIDUgN3YxMGw3IDQgNy00VjdabTAgMi4zIDUgMi45djUuNmwtNSAyLjktNS0yLjlWOC4yWm0tMi43IDMuMiAxLjQtLjggMS4zLjh2MS41bC0xLjMuOC0xLjQtLjhabTQuNyAwIDEuNC0uOCAxLjMuOHYxLjVsLTEuMy44LTEuNC0uOFptLTIuMzUgNC4xIDEuMzUtLjggMS4zNS44djEuNWwtMS4zNS44LTEuMzUtLjhaIi8+PC9zdmc+&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-CC785C?style=flat-square&logo=anthropic&logoColor=white)
 ![Gemini](https://img.shields.io/badge/-Gemini-886FBF?style=flat-square&logo=google&logoColor=white)
 ![DeepSeek](https://img.shields.io/badge/-DeepSeek-1E3A8A?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik03IDVoNWE3IDcgMCAxIDEgMCAxNEg3Wm0zIDN2OGgyYTQgNCAwIDEgMCAwLThaIi8+PC9zdmc+&logoColor=white)
@@ -93,6 +92,18 @@ Currently studying toward A-Levels, preparing for university programs in Robotic
 ![PCB/EDA](https://img.shields.io/badge/-PCB%2FEDA-00796B?style=flat-square&logo=kicad&logoColor=white)
 ![SolidWorks](https://img.shields.io/badge/-SolidWorks-E2231A?style=flat-square&logo=dassaultsystemes&logoColor=white)
 ![SketchUp](https://img.shields.io/badge/-SketchUp-005F9E?style=flat-square&logo=sketchup&logoColor=white)
+
+### 🖥️ Platforms
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=ios&logoColor=white)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Web](https://img.shields.io/badge/-Web-2563EB?style=flat-square&logo=googlechrome&logoColor=white)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/-macOS-111827?style=flat-square&logo=apple&logoColor=white)
+![iPadOS](https://img.shields.io/badge/-iPadOS-0F172A?style=flat-square&logo=apple&logoColor=white)
+![Embedded Systems](https://img.shields.io/badge/-Embedded%20Systems-0F766E?style=flat-square&logo=espressif&logoColor=white)
+![PLC](https://img.shields.io/badge/-PLC-009999?style=flat-square&logo=siemens&logoColor=white)
+![Industrial Automation](https://img.shields.io/badge/-Industrial%20Automation-1D4ED8?style=flat-square&logo=siemens&logoColor=white)
 
 </div>
 
