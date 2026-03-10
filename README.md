@@ -34,7 +34,7 @@
   <a href="https://apps.apple.com/app/hear2go/id6752223086"><img src="assets/app-store-badge.svg" alt="Download on the App Store" height="40" /></a>
 </p>
 
-<p><sub><span style="color: #6b7280;">&copy; 2024-2026 Hear2GO.<br>All Rights Reserved.</span></sub></p>
+<p><sub><span style="color: #9ca3af;">&copy; 2024-2026 Hear2GO.<br>All Rights Reserved.</span></sub></p>
 
 </div>
 
