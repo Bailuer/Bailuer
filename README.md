@@ -33,15 +33,11 @@
 
 Studying toward <strong>A-Levels</strong> and preparing for university programs in <strong>Robotics</strong> and <strong>Computer Science</strong>.
 
-<br>
-
 ### 🛠 What I Build
 
 - <strong>Flutter</strong> mobile apps
 - <strong>Embedded systems</strong> and hardware prototypes
 - <strong>AI-powered</strong> tools and creative software
-
-<br>
 
 ### 🌍 Interests
 
