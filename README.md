@@ -31,6 +31,7 @@
 <p>An AI-powered cultural travel guide built around maps, location awareness, and contextual storytelling.</p>
 
 <p>
+  <sub><small>Release 1.1.1 Build 13</small></sub><br>
   <a href="https://apps.apple.com/app/hear2go/id6752223086"><img src="assets/app-store-badge.svg" alt="Download on the App Store" height="60" /></a>
 </p>
 
@@ -155,6 +156,7 @@ AI-powered cultural travel guide that delivers location-aware storytelling and b
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
+<sub><small>Release 1.1.1 Build 13</small></sub><br>
 <a href="https://apps.apple.com/app/hear2go/id6752223086"><img src="assets/app-store-badge.svg" alt="Download on the App Store" height="60" /></a>
 <br><sub><small><span style="color: #9ca3af;">© 2024-2026 Hear2GO. All Rights Reserved.</span></small></sub>
 <br>&nbsp;
