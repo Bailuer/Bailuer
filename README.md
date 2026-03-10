@@ -159,7 +159,7 @@ AI-powered study assistant that analyzes exam papers, detects questions from ima
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Gemini](https://img.shields.io/badge/-Gemini-886FBF?style=flat-square&logo=google&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-2563EB?style=flat-square)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 <br>&nbsp;
 </td>
 </tr>
@@ -172,7 +172,7 @@ AI-powered photography assistant that analyzes visual references and suggests ca
 
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-2563EB?style=flat-square)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Gemini](https://img.shields.io/badge/-Gemini-886FBF?style=flat-square&logo=google&logoColor=white)
 <br>
 <a href="https://github.com/Bailuer/Paralumine">Open source on GitHub</a>
