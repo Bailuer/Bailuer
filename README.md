@@ -138,7 +138,10 @@ Selected projects across AI products, interactive media, and engineering.
 AI-powered cultural travel guide
 
 **Tech Stack**  
-Flutter · Dart · Maps API · DeepSeek
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Maps API](https://img.shields.io/badge/-Maps%20API-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/-DeepSeek-1E3A8A?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik03IDVoNWE3IDcgMCAxIDEgMCAxNEg3Wm0zIDN2OGgyYTQgNCAwIDEgMCAwLThaIi8+PC9zdmc+&logoColor=white)
 
 📱 [App Store](https://apps.apple.com/app/hear2go/id6752223086)
 
@@ -151,7 +154,9 @@ Flutter · Dart · Maps API · DeepSeek
 AI-driven personal tutor system
 
 **Tech Stack**  
-Python · AI · EdTech
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![AI](https://img.shields.io/badge/-AI-7C3AED?style=flat-square)
+![EdTech](https://img.shields.io/badge/-EdTech-0EA5E9?style=flat-square)
 
 </td>
 </tr>
@@ -164,7 +169,9 @@ Python · AI · EdTech
 AI-powered photography assistant
 
 **Tech Stack**  
-Dart · Flutter · AI
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![AI](https://img.shields.io/badge/-AI-7C3AED?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
@@ -175,7 +182,10 @@ Dart · Flutter · AI
 Study-abroad workflow + knowledge engine
 
 **Tech Stack**  
-Python · WeChat · RAG · Data Pipeline
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![WeChat](https://img.shields.io/badge/-WeChat-07C160?style=flat-square&logo=wechat&logoColor=white)
+![RAG](https://img.shields.io/badge/-RAG-4F46E5?style=flat-square)
+![Data Pipeline](https://img.shields.io/badge/-Data%20Pipeline-0284C7?style=flat-square)
 
 </td>
 </tr>
