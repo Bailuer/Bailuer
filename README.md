@@ -235,11 +235,12 @@ A three-minute guided tea ritual that transforms stillness into a tactile, embod
 <td width="50%" valign="top">
 &nbsp;<br>
 <strong><big>🎬 NovelMotion</big></strong><br>
-<sub><kbd>GENAI PIPELINE</kbd></sub><br><sub>&nbsp;</sub><br>
-AI pipeline that transforms novel chapters into animated short films through automated media generation.
+<sub><kbd>GENAI STORY ENGINE</kbd></sub><br><sub>&nbsp;</sub><br>
+AI pipeline that converts novel chapters into cinematic motion-anime videos with automated storyboarding, character generation, voice narration, and music composition.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Stable Diffusion](https://img.shields.io/badge/-Stable%20Diffusion-FF9500?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Im0xMiA0IDIgNCA0IC41LTMgMyAuOCA0LjUtMy44LTItMy44IDIgLjgtNC41LTMtMyA0LS41Wm0tNiAxMmg1djJINlptNyAwaDV2MmgtNVoiLz48L3N2Zz4=&logoColor=white)
+![AnimateDiff](https://img.shields.io/badge/-AnimateDiff-DC2626?style=flat-square)
 ![LLM](https://img.shields.io/badge/-LLM-6D28D9?style=flat-square)
 ![FFmpeg](https://img.shields.io/badge/-FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
 <br>
