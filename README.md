@@ -21,12 +21,6 @@
 
 ---
 
-<p>
-  I enjoy building projects where <strong>software</strong>, <strong>hardware</strong>, and <strong>design</strong> come together to solve real-world problems. 🚀
-</p>
-
----
-
 ## 🌟 About Me
 
 ### 📚 Education
