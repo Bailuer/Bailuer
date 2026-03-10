@@ -143,14 +143,18 @@ AI-powered cultural travel guide that delivers location-aware storytelling and b
 
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Maps API](https://img.shields.io/badge/-Maps%20API-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
-![Aliyun TTS API](https://img.shields.io/badge/-Aliyun%20TTS%20API-FF6A00?style=flat-square)
+![Google Maps API](https://img.shields.io/badge/-Google%20Maps%20API-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
+![AMap API](https://img.shields.io/badge/-AMap%20API-16A34A?style=flat-square)
+![GPS](https://img.shields.io/badge/-GPS-0EA5E9?style=flat-square)
+![Aliyun TTS](https://img.shields.io/badge/-Aliyun%20TTS-FF6A00?style=flat-square&logo=alibabacloud&logoColor=white)
 ![Gemini](https://img.shields.io/badge/-Gemini-886FBF?style=flat-square&logo=google&logoColor=white)
 ![DeepSeek](https://img.shields.io/badge/-DeepSeek-1E3A8A?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik03IDVoNWE3IDcgMCAxIDEgMCAxNEg3Wm0zIDN2OGgyYTQgNCAwIDEgMCAwLThaIi8+PC9zdmc+&logoColor=white)
-![Ernie](https://img.shields.io/badge/-Ernie-1D4ED8?style=flat-square&logo=baidu&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![ERNIE](https://img.shields.io/badge/-ERNIE-1D4ED8?style=flat-square&logo=baidu&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Runtime Shaders (GLSL)](https://img.shields.io/badge/-Runtime%20Shaders%20%28GLSL%29-2563EB?style=flat-square&logo=opengl&logoColor=white)
+![REST APIs](https://img.shields.io/badge/-REST%20APIs-0F766E?style=flat-square)
 
 <a href="https://apps.apple.com/app/hear2go/id6752223086"><img src="assets/app-store-badge.svg" alt="Download on the App Store" height="60" /></a>
 <br>&nbsp;
