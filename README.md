@@ -176,7 +176,7 @@ Knowledge and workflow engine powering an AI study-abroad assistant, transformin
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Metabase](https://img.shields.io/badge/-Metabase-509EE3?style=flat-square)
 <br>
-KatawareAI留学助手 on WeChat Mini Program
+<br><sub><small>"KatawareAI留学助手" on WeChat Mini Program</small></sub>
 <br>&nbsp;
 </td>
 </tr>
