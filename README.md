@@ -197,6 +197,8 @@ Knowledge and workflow engine powering an AI study-abroad assistant, transformin
 ![WeChat Mini Program](https://img.shields.io/badge/-WeChat%20Mini%20Program-07C160?style=flat-square&logo=wechat&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Metabase](https://img.shields.io/badge/-Metabase-509EE3?style=flat-square)
 <br>&nbsp;
 </td>
 </tr>
