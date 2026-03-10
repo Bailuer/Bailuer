@@ -136,7 +136,7 @@ Selected work across AI products, interactive media, and engineering systems.
 <tr>
 <td width="50%" valign="top">
 
-#### 🗺️ Hear2GO 闻旅
+<strong>🗺️ Hear2GO 闻旅</strong><br>
 <sub><strong>AI PRODUCT</strong></sub>
 
 Location-aware cultural travel guide with bilingual storytelling and map-first interaction.
@@ -151,7 +151,7 @@ Location-aware cultural travel guide with bilingual storytelling and map-first i
 </td>
 <td width="50%" valign="top">
 
-#### 🎓 Learnova
+<strong>🎓 Learnova</strong><br>
 <sub><strong>AI TUTOR</strong></sub>
 
 Personal tutor system for planning, focus tracking, and structured learning progress.
@@ -165,7 +165,7 @@ Personal tutor system for planning, focus tracking, and structured learning prog
 <tr>
 <td width="50%" valign="top">
 
-#### 📷 Paralumine
+<strong>📷 Paralumine</strong><br>
 <sub><strong>PHOTO AI</strong></sub>
 
 Photography assistant that analyzes references and suggests camera settings and lighting setups.
@@ -177,7 +177,7 @@ Photography assistant that analyzes references and suggests camera settings and 
 </td>
 <td width="50%" valign="top">
 
-#### 🧳 Kataware Study Abroad
+<strong>🧳 Kataware Study Abroad</strong><br>
 <sub><strong>KNOWLEDGE ENGINE</strong></sub>
 
 Study-abroad workflow engine for onboarding, surveys, reports, and retrieval-ready documents.
@@ -201,7 +201,7 @@ Study-abroad workflow engine for onboarding, surveys, reports, and retrieval-rea
 <tr>
 <td width="50%" valign="top">
 
-#### 📚 TaleCraft
+<strong>📚 TaleCraft</strong><br>
 <sub><strong>AR STORYTELLING</strong></sub>
 
 Inclusive AR storytelling prototype combining drawing, sound, and character-based interaction.
@@ -214,7 +214,7 @@ Inclusive AR storytelling prototype combining drawing, sound, and character-base
 </td>
 <td width="50%" valign="top">
 
-#### 🍵 ZenCha
+<strong>🍵 ZenCha</strong><br>
 <sub><strong>AR INTERACTION</strong></sub>
 
 Hand-tracked AR tea ceremony experience with gesture input and adaptive ambience.
@@ -228,7 +228,7 @@ Hand-tracked AR tea ceremony experience with gesture input and adaptive ambience
 <tr>
 <td width="50%" valign="top">
 
-#### 🎬 NovelMotion
+<strong>🎬 NovelMotion</strong><br>
 <sub><strong>GENAI PIPELINE</strong></sub>
 
 Pipeline that turns novel chapters into animated short films with automated media generation.
@@ -241,7 +241,7 @@ Pipeline that turns novel chapters into animated short films with automated medi
 </td>
 <td width="50%" valign="top">
 
-#### 🖥️ Holographic Media Center
+<strong>🖥️ Holographic Media Center</strong><br>
 <sub><strong>CREATIVE UI</strong></sub>
 
 Desktop-style media hub for a 240x240 holographic display with mini-games and themed UI.
@@ -255,7 +255,7 @@ Desktop-style media hub for a 240x240 holographic display with mini-games and th
 <tr>
 <td width="50%" valign="top">
 
-#### 🏝️ ElementFactory ONE
+<strong>🏝️ ElementFactory ONE</strong><br>
 <sub><strong>UE5 GAME</strong></sub>
 
 Educational survival sandbox built in Unreal Engine around robotics and science systems.
@@ -267,7 +267,7 @@ Educational survival sandbox built in Unreal Engine around robotics and science 
 </td>
 <td width="50%" valign="top">
 
-#### 🛒 IValorant API
+<strong>🛒 IValorant API</strong><br>
 <sub><strong>GAMING BACKEND</strong></sub>
 
 Backend service for checking daily Valorant store information inside WeChat workflows.
@@ -290,7 +290,7 @@ Backend service for checking daily Valorant store information inside WeChat work
 <tr>
 <td width="50%" valign="top">
 
-#### 🧼 Smart Disinfection Cutlery Box
+<strong>🧼 Smart Disinfection Cutlery Box</strong><br>
 <sub><strong>IOT HARDWARE</strong></sub>
 
 ESP32-based smart disinfection box with OLED countdown, PIR safety logic, and remote control.
@@ -303,7 +303,7 @@ ESP32-based smart disinfection box with OLED countdown, PIR safety logic, and re
 </td>
 <td width="50%" valign="top">
 
-#### 🙂 EmotionalHelper
+<strong>🙂 EmotionalHelper</strong><br>
 <sub><strong>WELLNESS AI</strong></sub>
 
 Emotion-aware desktop assistant that generates calming music and voice feedback from webcam input.
@@ -317,7 +317,7 @@ Emotion-aware desktop assistant that generates calming music and voice feedback 
 <tr>
 <td width="50%" valign="top">
 
-#### 📦 RmpExporter
+<strong>📦 RmpExporter</strong><br>
 <sub><strong>UTILITY TOOL</strong></sub>
 
 C# export utility focused on structured export workflows and supporting tooling.
