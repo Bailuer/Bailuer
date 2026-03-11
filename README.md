@@ -279,7 +279,7 @@ A three-minute guided tea ritual that transforms stillness into a tactile, embod
 ![SIMD Math](https://img.shields.io/badge/-SIMD%20Math-0F766E?style=flat-square)
 ![SF Symbols](https://img.shields.io/badge/-SF%20Symbols-111827?style=flat-square&logo=apple&logoColor=white)
 ![iOS / iPadOS 26](https://img.shields.io/badge/-iOS%20%2F%20iPadOS%2026-000000?style=flat-square&logo=apple&logoColor=white)
-![Apple Vision Pro](https://img.shields.io/badge/-Apple%20Vision%20Pro-111827?style=flat-square&logo=apple&logoColor=white)
+![Apple Vision Pro (Future)](https://img.shields.io/badge/-Apple%20Vision%20Pro%20%28Future%29-111827?style=flat-square&logo=apple&logoColor=white)
 ![Liquid Glass](https://img.shields.io/badge/-Liquid%20Glass-38BDF8?style=flat-square)
 <br>&nbsp;
 </td>
