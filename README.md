@@ -138,7 +138,7 @@ Selected work across AI products, interactive media, and engineering systems.
 <tr>
 <td width="50%" valign="top">
 &nbsp;<br>
-<strong><big>Hear2GO <span style="color: #9ca3af;">| 闻旅</span></big></strong><br>
+<strong><big>Hear2GO <span style="color: #9ca3af;">| ✈️ 闻旅</span></big></strong><br>
 <sub><kbd>AI PRODUCT</kbd> <kbd>2024-2026</kbd> <kbd>Released</kbd></sub><br><sub>&nbsp;</sub><br>
 AI-powered cultural travel guide that delivers location-aware storytelling and bilingual narration as you explore new places.
 
@@ -180,7 +180,7 @@ Knowledge and workflow engine powering an AI study-abroad assistant, transformin
 ![Metabase](https://img.shields.io/badge/-Metabase-509EE3?style=flat-square)
 <br>
 <br><strong><big>Release 1.0.4</big></strong>
-<br><sub><small>"KatawareAI留学助手" on WeChat Mini Program</small></sub>
+<br><sub><small><strong>"KatawareAI留学助手"</strong> on WeChat Mini Program</small></sub>
 <br><sub><small>© Kataware Education / Kataware Universe. All Rights Reserved.</small></sub>
 <br>&nbsp;
 </td>
