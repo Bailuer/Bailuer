@@ -89,7 +89,7 @@ Currently studying toward <strong>A-Levels</strong>, preparing for university pr
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ### 🤖 AI & Creative Tools
@@ -145,8 +145,8 @@ AI-powered cultural travel guide that delivers location-aware storytelling and b
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Google Maps API](https://img.shields.io/badge/-Google%20Maps%20API-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
-![AMap API](https://img.shields.io/badge/-AMap%20API-16A34A?style=flat-square)
-![GPS](https://img.shields.io/badge/-GPS-0EA5E9?style=flat-square)
+![AMap API](https://img.shields.io/badge/-AMap%20API-16A34A?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRkZGRkZGIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTEyIDIyczctNC4zNSA3LTExYTcgNyAwIDEgMC0xNCAwYzAgNi42NSA3IDExIDcgMTFaIi8+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMSIgcj0iMyIvPjwvc3ZnPgo=)
+![GPS](https://img.shields.io/badge/-GPS-0EA5E9?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRkZGRkZGIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iOCIvPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjIiLz48cGF0aCBkPSJNMTIgMnY0Ii8+PHBhdGggZD0iTTEyIDE4djQiLz48cGF0aCBkPSJNMiAxMmg0Ii8+PHBhdGggZD0iTTE4IDEyaDQiLz48L3N2Zz4K)
 ![Runtime Shaders (GLSL)](https://img.shields.io/badge/-Runtime%20Shaders%20%28GLSL%29-2563EB?style=flat-square&logo=opengl&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Aliyun TTS](https://img.shields.io/badge/-Aliyun%20TTS-FF6A00?style=flat-square&logo=alibabacloud&logoColor=white)
@@ -177,7 +177,7 @@ Knowledge and workflow engine powering an AI study-abroad assistant, transformin
 ![Data Pipeline](https://img.shields.io/badge/-Data%20Pipeline-0284C7?style=flat-square)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Metabase](https://img.shields.io/badge/-Metabase-509EE3?style=flat-square)
+![Metabase](https://img.shields.io/badge/-Metabase-509EE3?style=flat-square&logo=metabase&logoColor=white)
 <br>
 <br><strong><big>Release 1.0.4</big></strong>
 <br><sub><small><strong>"KatawareAI留学助手"</strong> on WeChat Mini Program</small></sub>
@@ -199,7 +199,6 @@ AI-powered photography assistant that analyzes visual references and suggests ca
 ![Gemini](https://img.shields.io/badge/-Gemini-886FBF?style=flat-square&logo=google&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Image Processing](https://img.shields.io/badge/-Image%20Processing-DC2626?style=flat-square)
-![AI Agents](https://img.shields.io/badge/-AI%20Agents-7C3AED?style=flat-square)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 <br>
 <a href="https://github.com/Bailuer/Paralumine">Open source on GitHub</a>
@@ -216,7 +215,6 @@ AI-powered study assistant that analyzes exam papers, detects questions from ima
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Gemini](https://img.shields.io/badge/-Gemini-886FBF?style=flat-square&logo=google&logoColor=white)
-![AI Agents](https://img.shields.io/badge/-AI%20Agents-7C3AED?style=flat-square)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Image Processing](https://img.shields.io/badge/-Image%20Processing-DC2626?style=flat-square)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -237,10 +235,10 @@ AI pipeline that converts novel chapters into cinematic motion-anime videos with
 ![AnimateDiff](https://img.shields.io/badge/-AnimateDiff-DC2626?style=flat-square)
 ![Gemini](https://img.shields.io/badge/-Gemini-886FBF?style=flat-square&logo=google&logoColor=white)
 ![Aliyun TTS](https://img.shields.io/badge/-Aliyun%20TTS-FF6A00?style=flat-square&logo=alibabacloud&logoColor=white)
-![Suno AI](https://img.shields.io/badge/-Suno%20AI-111827?style=flat-square)
+![Suno AI](https://img.shields.io/badge/-Suno%20AI-111827?style=flat-square&logo=suno&logoColor=white)
 ![FFmpeg](https://img.shields.io/badge/-FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![PIL](https://img.shields.io/badge/-PIL-0F766E?style=flat-square)
+![PIL](https://img.shields.io/badge/-PIL-0F766E?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRkZGRkZGIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHJlY3QgeD0iMyIgeT0iNSIgd2lkdGg9IjE4IiBoZWlnaHQ9IjE0IiByeD0iMiIvPjxjaXJjbGUgY3g9IjguNSIgY3k9IjEwLjUiIHI9IjEuNSIvPjxwYXRoIGQ9Im0yMSAxNS00LjUtNC41LTYgNiIvPjxwYXRoIGQ9Im0xMS41IDEyLjUgMS41LTEuNSA0IDQiLz48L3N2Zz4K)
 ![MoviePy](https://img.shields.io/badge/-MoviePy-2563EB?style=flat-square)
 <br>
 <a href="https://github.com/Bailuer/NovelMotion">Open source on GitHub</a>
@@ -308,7 +306,7 @@ A creative playground where children paint worlds that come alive - flowing rive
 <sub><kbd>WELLNESS AI</kbd> <kbd>2022</kbd> <kbd>Open Source</kbd></sub><br><sub><kbd>🥈 Second Prize - 2023 Future Cup Shanghai High School Science & Technology Innovation Competition</kbd></sub><br><sub>&nbsp;</sub><br>
 Emotion-aware desktop companion that detects facial expressions via webcam and responds with calming music and voice feedback to support emotional regulation.
 
-![Tkinter](https://img.shields.io/badge/-Tkinter-0F766E?style=flat-square)
+![Tkinter](https://img.shields.io/badge/-Tkinter-0F766E?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRkZGRkZGIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHJlY3QgeD0iMyIgeT0iNCIgd2lkdGg9IjE4IiBoZWlnaHQ9IjE2IiByeD0iMiIvPjxwYXRoIGQ9Ik0zIDhoMTgiLz48cGF0aCBkPSJNNyA2aC4wMSIvPjxwYXRoIGQ9Ik0xMCA2aC4wMSIvPjxwYXRoIGQ9Ik0xMyA2aC4wMSIvPjxwYXRoIGQ9Ik04IDEyaDgiLz48cGF0aCBkPSJNOCAxNmg1Ii8+PC9zdmc+Cg==)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Baidu AI](https://img.shields.io/badge/-Baidu%20AI-1D4ED8?style=flat-square)
@@ -367,7 +365,7 @@ ESP32-based smart cutlery sterilization device featuring UV and ozone disinfecti
 Embedded media interface built for a 240×240 holographic display, delivering a themed UI and lightweight interactive experiences through a kiosk-based system.
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
@@ -391,7 +389,7 @@ Tool for Cities: Skylines II that exports in-game transit lines into Rail Map To
 
 ![C#](https://img.shields.io/badge/-C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Cities: Skylines II](https://img.shields.io/badge/-Cities%3A%20Skylines%20II-0EA5E9?style=flat-square)
+![Cities: Skylines II](https://img.shields.io/badge/-Cities%3A%20Skylines%20II-0EA5E9?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRkZGRkZGIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTMgMjFoMTgiLz48cGF0aCBkPSJNNSAyMVYxMGg0djExIi8+PHBhdGggZD0iTTkgMjFWNGg2djE3Ii8+PHBhdGggZD0iTTE1IDIxdi04aDR2OCIvPjxwYXRoIGQ9Ik0xMSA4aDIiLz48cGF0aCBkPSJNMTEgMTJoMiIvPjxwYXRoIGQ9Ik0xMSAxNmgyIi8+PHBhdGggZD0iTTE3IDE2aC4wMSIvPjxwYXRoIGQ9Ik03IDEzaC4wMSIvPjwvc3ZnPgo=)
 ![Modding API](https://img.shields.io/badge/-Modding%20API-2563EB?style=flat-square)
 <br>
 <a href="https://github.com/Bailuer/RmpExporter">Open source on GitHub</a>
@@ -403,6 +401,7 @@ Tool for Cities: Skylines II that exports in-game transit lines into Rail Map To
 <sub><kbd>GAMING BACKEND</kbd> <kbd>2022</kbd> <kbd>16K+ USERS</kbd> <kbd>Released / Open Source</kbd></sub><br><sub>&nbsp;</sub><br>
 WeChat mini program that lets users check the daily Valorant store through a lightweight backend-powered query workflow.
 
+![Valorant](https://img.shields.io/badge/-Valorant-FF4454?style=flat-square&logo=valorant&logoColor=white)
 ![WeChat Mini Program](https://img.shields.io/badge/-WeChat%20Mini%20Program-07C160?style=flat-square&logo=wechat&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -438,11 +437,11 @@ WeChat mini program that lets users check the daily Valorant store through a lig
 
 <div align="center">
 
-![Minecraft](https://img.shields.io/badge/-Minecraft-62B47A?style=flat-square&logo=minecraft&logoColor=white)
+![Minecraft](https://img.shields.io/badge/-Minecraft-62B47A?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRkZGRkZGIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0ibTEyIDIgNyA0djEybC03IDQtNy00VjZsNy00WiIvPjxwYXRoIGQ9Ik0xMiAyMlYxMCIvPjxwYXRoIGQ9Im0xOSA2LTcgNC03LTQiLz48L3N2Zz4K)
 ![Counter Strike 2](https://img.shields.io/badge/-Counter%20Strike%202-FF6C2C?style=flat-square&logo=counter-strike&logoColor=white)
 ![GTA V](https://img.shields.io/badge/-Grand%20Theft%20Auto%20V-000000?style=flat-square&logo=rockstargames&logoColor=white)
 ![Valorant](https://img.shields.io/badge/-Valorant-FF4454?style=flat-square&logo=valorant&logoColor=white)
-![Cities Skylines](https://img.shields.io/badge/-Cities%20Skylines-2E8B57?style=flat-square)
+![Cities Skylines](https://img.shields.io/badge/-Cities%20Skylines-2E8B57?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRkZGRkZGIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTMgMjFoMTgiLz48cGF0aCBkPSJNNSAyMVYxMGg0djExIi8+PHBhdGggZD0iTTkgMjFWNGg2djE3Ii8+PHBhdGggZD0iTTE1IDIxdi04aDR2OCIvPjxwYXRoIGQ9Ik0xMSA4aDIiLz48cGF0aCBkPSJNMTEgMTJoMiIvPjxwYXRoIGQ9Ik0xMSAxNmgyIi8+PHBhdGggZD0iTTE3IDE2aC4wMSIvPjxwYXRoIGQ9Ik03IDEzaC4wMSIvPjwvc3ZnPgo=)
 
 </div>
 
