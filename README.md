@@ -111,11 +111,11 @@ Currently studying toward <strong>A-Levels</strong>, preparing for university pr
 ### 🖥️ Platforms
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=ios&logoColor=white)
+![iPadOS](https://img.shields.io/badge/-iPadOS-0F172A?style=flat-square&logo=apple&logoColor=white)
+![macOS](https://img.shields.io/badge/-macOS-111827?style=flat-square&logo=apple&logoColor=white)
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Web](https://img.shields.io/badge/-Web-2563EB?style=flat-square&logo=googlechrome&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjRkZGRkZGIiBkPSJNNjcuMzI4IDY3LjMzMWg2MC42NjlWMTI4SDY3LjMyOHptLTY3LjMyNSAwaDYwLjY2OVYxMjhILjAwM3pNNjcuMzI4IDBoNjAuNjY5djYwLjY2OUg2Ny4zMjh6TS4wMDMgMGg2MC42Njl2NjAuNjY5SC4wMDN6Ii8+PC9zdmc+Cg==)
-![macOS](https://img.shields.io/badge/-macOS-111827?style=flat-square&logo=apple&logoColor=white)
-![iPadOS](https://img.shields.io/badge/-iPadOS-0F172A?style=flat-square&logo=apple&logoColor=white)
 ![Embedded Systems](https://img.shields.io/badge/-Embedded%20Systems-0F766E?style=flat-square&logo=espressif&logoColor=white)
 ![PLC](https://img.shields.io/badge/-PLC-009999?style=flat-square&logo=siemens&logoColor=white)
 ![Industrial Automation](https://img.shields.io/badge/-Industrial%20Automation-1D4ED8?style=flat-square&logo=siemens&logoColor=white)
@@ -144,6 +144,9 @@ AI-powered cultural travel guide that delivers location-aware storytelling and b
 
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=ios&logoColor=white)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![CarPlay](https://img.shields.io/badge/-CarPlay-111827?style=flat-square&logo=apple&logoColor=white)
 ![Google Maps API](https://img.shields.io/badge/-Google%20Maps%20API-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
 ![AMap API](https://img.shields.io/badge/-AMap%20API-16A34A?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRkZGRkZGIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTEyIDIyczctNC4zNSA3LTExYTcgNyAwIDEgMC0xNCAwYzAgNi42NSA3IDExIDcgMTFaIi8+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMSIgcj0iMyIvPjwvc3ZnPgo=)
 ![GPS](https://img.shields.io/badge/-GPS-0EA5E9?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRkZGRkZGIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iOCIvPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjIiLz48cGF0aCBkPSJNMTIgMnY0Ii8+PHBhdGggZD0iTTEyIDE4djQiLz48cGF0aCBkPSJNMiAxMmg0Ii8+PHBhdGggZD0iTTE4IDEyaDQiLz48L3N2Zz4K)
@@ -276,6 +279,7 @@ A three-minute guided tea ritual that transforms stillness into a tactile, embod
 ![SIMD Math](https://img.shields.io/badge/-SIMD%20Math-0F766E?style=flat-square)
 ![SF Symbols](https://img.shields.io/badge/-SF%20Symbols-111827?style=flat-square&logo=apple&logoColor=white)
 ![iOS / iPadOS 26](https://img.shields.io/badge/-iOS%20%2F%20iPadOS%2026-000000?style=flat-square&logo=apple&logoColor=white)
+![Apple Vision Pro](https://img.shields.io/badge/-Apple%20Vision%20Pro-111827?style=flat-square&logo=apple&logoColor=white)
 ![Liquid Glass](https://img.shields.io/badge/-Liquid%20Glass-38BDF8?style=flat-square)
 <br>&nbsp;
 </td>
