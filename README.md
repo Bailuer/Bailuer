@@ -128,7 +128,7 @@ Currently studying toward <strong>A-Levels</strong>, preparing for university pr
 
 Selected work across AI products, interactive media, and engineering systems.
 
-### 🧠 AI Products
+### 🧠 AI Agents
 
 <table width="100%">
 <colgroup>
@@ -139,7 +139,7 @@ Selected work across AI products, interactive media, and engineering systems.
 <td width="50%" valign="top">
 &nbsp;<br>
 <strong><big>✈️ Hear2GO <span style="color: #9ca3af;">| 闻旅</span></big></strong><br>
-<sub><kbd>AI PRODUCT</kbd> <kbd>2024-2026</kbd> <kbd>Released</kbd></sub><br><sub>&nbsp;</sub><br>
+<sub><kbd>AI Traveling</kbd> <kbd>2024-2026</kbd> <kbd>Released</kbd></sub><br><sub>&nbsp;</sub><br>
 AI-powered cultural travel guide that delivers location-aware storytelling and bilingual narration as you explore new places.
 
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
