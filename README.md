@@ -400,7 +400,7 @@ Tool for Cities: Skylines II that exports in-game transit lines into Rail Map To
 <td width="50%" valign="top">
 &nbsp;<br>
 <strong><big>🛒 IValorant API <span style="color: #9ca3af;">| 瓦爱小店</span></big></strong><br>
-<sub><kbd>GAMING BACKEND</kbd> <kbd>2022</kbd> <kbd>Released / Open Source</kbd></sub><br><sub>&nbsp;</sub><br>
+<sub><kbd>GAMING BACKEND</kbd> <kbd>2022</kbd> <kbd>16K+ USERS</kbd> <kbd>Released / Open Source</kbd></sub><br><sub>&nbsp;</sub><br>
 WeChat mini program that lets users check the daily Valorant store through a lightweight backend-powered query workflow.
 
 ![WeChat Mini Program](https://img.shields.io/badge/-WeChat%20Mini%20Program-07C160?style=flat-square&logo=wechat&logoColor=white)
