@@ -2,18 +2,18 @@
 
 # 👋 Hi, I'm Yu Shuo
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=540&lines=High+school+CS+student;AI+%2B+Robotics+builder;Creating+hardware-software+projects;Preparing+for+A-Levels+and+university" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=540&lines=Robotics+%26+Mechatronics+student;AI+%2B+Robotics+builder;Industrial+automation+%26+Physical+AI;Exploring+Automated+Design+Intelligence" alt="Typing SVG" />
 
 <p>
   <a href="https://sanomachine.com"><img src="https://img.shields.io/badge/Website-sanomachine.com-0A66C2?style=for-the-badge" alt="Website" /></a>
 </p>
 
 <h3>
-  <strong>High school student building at the intersection of software, hardware, and AI.</strong>
+  <strong>Robotics &amp; Mechatronics Engineering student at Monash University Malaysia, building at the intersection of software, hardware, and AI.</strong>
 </h3>
 
 <p>
-  I am passionate about <strong>Computer Science</strong>, <strong>Robotics &amp; Mechatronics</strong>, and <strong>AI-driven creative products</strong>.
+  I am passionate about <strong>Computer Science</strong>, <strong>Robotics &amp; Mechatronics</strong>, and <strong>AI-driven creative products</strong>, with a growing focus on <strong>Physical AI</strong>, <strong>industrial automation</strong>, and <strong>automated machine design</strong>.
 </p>
 
 </div>
@@ -44,7 +44,7 @@
 ## 🌟 About Me
 
 ### 📚 Education
-Currently studying toward <strong>A-Levels</strong>, preparing for university programs in <strong>Robotics</strong> and <strong>Computer Science</strong>.
+Currently pursuing a <strong>Bachelor of Engineering (Honours) in Robotics and Mechatronics</strong> at <strong>Monash University Malaysia</strong> (since October 2026).
 
 ### 🛠 What I Build
 
@@ -52,12 +52,14 @@ Currently studying toward <strong>A-Levels</strong>, preparing for university pr
 - <strong>Embedded systems</strong> and hardware prototypes
 - <strong>AI-powered</strong> tools and creative software
 - <strong>Robotics</strong> and automation experiments
+- <strong>Industrial machine software</strong> and interactive 3D engineering tools
 
 ### 🚀 Currently Working On
 
 - <strong>Hear2GO</strong> - an AI-powered cultural travel guide
 - <strong>AI-driven</strong> creative tools and product experiments
-- Exploring <strong>robotics</strong> and <strong>industrial automation</strong> concepts (Sanomachine)
+- <strong>Industrial automation software</strong> for mechanical systems and interactive machine visualization (commercial implementation is private)
+- Exploring <strong>Physical AI</strong>, <strong>robot learning</strong>, and <strong>Automated Design Intelligence (ADI)</strong>
 
 ### 🌍 Interests
 
@@ -65,6 +67,7 @@ Currently studying toward <strong>A-Levels</strong>, preparing for university pr
 - <strong>Cultural storytelling</strong>
 - <strong>Robotics</strong> and intelligent machines
 - <strong>Human-centered engineering</strong>
+- <strong>Physical AI</strong> and automated machine design
 
 ---
 
@@ -127,6 +130,14 @@ Currently studying toward <strong>A-Levels</strong>, preparing for university pr
 ## 🚀 Project Showcase
 
 Selected work across AI products, interactive media, and engineering systems.
+
+### 🏭 Industrial Automation & Machine Intelligence
+
+**Interactive Industrial Machine Software** · Private commercial engineering work
+
+Developing a browser-based 3D machine visualization and engineering platform for industrial machinery, including a multi-axis tube-bending system. The work includes **CAD-to-web-3D conversion**, **component-level interaction**, **mechanical motion relationships**, and foundations for **collision checking**. Source code and customer-specific details remain private.
+
+I'm also exploring a longer-term research direction: **Automated Design Intelligence (ADI)** — whether AI can help translate manufacturing tasks into better machine designs, not just smarter controllers.
 
 ### 🧠 AI Agents
 
